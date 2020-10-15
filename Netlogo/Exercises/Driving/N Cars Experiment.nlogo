@@ -1,19 +1,18 @@
 globals
 [
   turtle-num
-  turtles-eval
+  turtle-step
   time-step
-  tot-turtles
   turtles-signal
-  change-signal
-  cross-signal
-  adjacent-vehicles
-  opposite-vehicles
-  overspeed-opposite
+  change-signal-step
+  cross-signal-step
+  overspeed-vehicles-step
+  adjacent-overtake-step
   rem-change-signal
   rem-cross-signal
   rem-adjacent-overtake
   rem-opposite-vehicles-overspeed
+  rem-yes-signal
 ]
 
 to change-no-signal  ;; turtle procedure
@@ -26,6 +25,23 @@ to change-no-signal  ;; turtle procedure
   forward 5
   left 30
   forward 3
+  pen-up
+end
+
+to yes-signal  ;; turtle procedure
+  setxy 0 -1
+  set label "OUR CAR"
+  set heading 0
+  right 90
+  forward 4
+  set heading 0
+  pen-down
+  forward 5
+  left random 40
+  set color yellow
+  set shape "bug"
+  set size 3
+  forward 6
   pen-up
 end
 
@@ -54,7 +70,7 @@ to adjacent-overtake ;; turtle procedure
 end
 
 to opposite-overspeed ;; turtle procedure
-  setxy 0 5
+  setxy 2 5
   set heading 180
   pen-down
   forward 8
@@ -68,7 +84,6 @@ end
 to setup
   clear-all
   set turtle-num 1
-  set tot-turtles 1000.0
   create-turtles 1
   [
     set heading 1
@@ -84,69 +99,84 @@ to setup
     left 90
     forward 15
   ]
-  set turtles-eval tot-turtles
   set turtles-signal signal-cars
-  set change-signal 0.7
-  set cross-signal 0.3
-  set adjacent-vehicles 0.2
-  set opposite-vehicles 0.8
-  set overspeed-opposite 0.05
   set rem-change-signal 0
   set rem-cross-signal 0
   set rem-adjacent-overtake 0
   set rem-opposite-vehicles-overspeed 0
+  set rem-yes-signal 0
+  set time-step 0
+  set turtle-step 0
+  set change-signal-step 0
+  set cross-signal-step 0
+  set overspeed-vehicles-step 0
+  set adjacent-overtake-step 0
   reset-ticks
 end
 
 to go
-  set time-step random-float max-time-step
-  ;set turtle-num int (tot-turtles/(signal-cars*change-signal))
-  ;set rem-change-signal (remainder turtles-eval int turtle-num)
-  ;set rem-cross-signal (remainder turtles-eval int (turtle-num/(signal-cars*cross-signal)))
-  ;set rem-adjacent-overtake (remainder turtles-eval int (turtle-num*adjacent-vehicles))
-  ;set rem-opposite-vehicles-overspeed (remainder turtles-eval int (turtle-num*(opposite-vehicles*overspeed-opposite)))
+  if turtle-step >= tot-turtles [ stop ]
+  set time-step (time-step + random-float max-time-step)
+  set turtle-num (turtle-step + 1)
+
+  set rem-change-signal remainder turtle-step int ( tot-turtles / (change-signal * signal-cars) )
+  set rem-cross-signal remainder turtle-step int ( tot-turtles / (cross-signal * signal-cars) )
+  set rem-adjacent-overtake remainder turtle-step int ( tot-turtles / (tot-turtles * adjacent-vehicles * overtake-adjacent) )
+  set rem-opposite-vehicles-overspeed remainder turtle-step int ( tot-turtles / (tot-turtles * opposite-vehicles * overspeed-opposite) )
+  set rem-yes-signal remainder turtle-step int ( tot-turtles / (tot-turtles - signal-cars) )
+
   if rem-change-signal < 1
   [
-    ask turtle turtles-eval
+    ask turtle turtle-num
     [
       change-no-signal
     ]
+    set change-signal-step (change-signal-step + random-float max-time-step)
   ]
   if rem-cross-signal < 1
   [
-    ask turtle turtles-eval
+    ask turtle turtle-num
     [
       cross-no-signal
     ]
+    set cross-signal-step (cross-signal-step + random-float max-time-step)
   ]
   if rem-adjacent-overtake < 1
   [
-    ask turtle turtles-eval
+    ask turtle turtle-num
     [
       adjacent-overtake
     ]
+    set adjacent-overtake-step (adjacent-overtake-step + random-float max-time-step)
   ]
   if rem-opposite-vehicles-overspeed < 1
   [
-    ask turtle turtles-eval
+    ask turtle turtle-num
     [
       opposite-overspeed
     ]
+    set overspeed-vehicles-step (overspeed-vehicles-step + random-float max-time-step)
   ]
-  if turtles-eval < 2 [ stop ]
-  set turtles-eval (turtles-eval - 1)
+  if rem-yes-signal < 1
+  [
+    ask turtle turtle-num
+    [
+      yes-signal
+    ]
+  ]
+  set turtle-step (turtle-step + 1)
   reset-ticks
   ; print turtles-eval
 end
 @#$#@#$#@
 GRAPHICS-WINDOW
-284
+871
 10
-804
-531
+1694
+834
 -1
 -1
-15.52
+24.7
 1
 10
 1
@@ -177,10 +207,10 @@ Other cars
 1
 
 BUTTON
-13
-237
-76
-270
+14
+225
+77
+258
 NIL
 setup
 NIL
@@ -194,10 +224,10 @@ NIL
 1
 
 BUTTON
-92
-237
-155
-270
+84
+228
+147
+261
 NIL
 go\n
 T
@@ -210,26 +240,206 @@ NIL
 NIL
 1
 
-INPUTBOX
-12
-100
-251
-160
-signal-cars
-200
-1
-0
-String
-
 CHOOSER
 12
-174
+165
 150
-219
+210
 max-time-step
 max-time-step
-1 2 3
+10 20 30 40 50 60 70 80 90 100
+0
+
+PLOT
+37
+358
+586
+803
+plot 1
+turtle-step
+time-step
+0.0
+1000.0
+0.0
+2700.0
+true
+false
+"" ""
+PENS
+"default" 1.0 0 -16777216 true "" "plotxy turtle-step time-step"
+
+CHOOSER
+13
+115
+151
+160
+signal-cars
+signal-cars
+100 200 300 400 500
 2
+
+INPUTBOX
+304
+45
+390
+105
+change-signal
+0.7
+1
+0
+Number
+
+INPUTBOX
+395
+45
+462
+105
+cross-signal
+0.3
+1
+0
+Number
+
+INPUTBOX
+483
+46
+580
+106
+adjacent-vehicles
+0.2
+1
+0
+Number
+
+INPUTBOX
+585
+46
+681
+106
+opposite-vehicles
+0.8
+1
+0
+Number
+
+INPUTBOX
+483
+108
+579
+168
+overtake-adjacent
+0.05
+1
+0
+Number
+
+INPUTBOX
+584
+108
+683
+168
+overspeed-opposite
+0.05
+1
+0
+Number
+
+SLIDER
+10
+45
+151
+78
+tot-turtles
+tot-turtles
+1
+1000
+1000.0
+1
+1
+NIL
+HORIZONTAL
+
+PLOT
+341
+179
+589
+351
+change lane while not signalling
+turtle-step
+change-signal-step
+0.0
+1000.0
+0.0
+100.0
+true
+false
+"" ""
+PENS
+"default" 1.0 0 -16777216 true "" "plotxy turtle-step change-signal-step"
+
+PLOT
+594
+174
+841
+368
+cross lane while not signalling
+turtle-step
+cross-signal-step
+0.0
+1000.0
+0.0
+100.0
+true
+false
+"" ""
+PENS
+"default" 1.0 0 -16777216 true "" "plotxy turtle-step cross-signal-step"
+
+PLOT
+600
+540
+845
+703
+overspeed vehicles opposite
+turtle-step
+overspeed-vehicles-step
+0.0
+1000.0
+0.0
+100.0
+true
+false
+"" ""
+PENS
+"default" 1.0 0 -16777216 true "" "plotxy turtle-step overspeed-vehicles-step"
+
+PLOT
+596
+372
+843
+533
+adjacent vehicles overtake
+turtle-step
+adjacent-overtake-step
+0.0
+1000.0
+0.0
+20.0
+true
+false
+"" ""
+PENS
+"default" 1.0 0 -16777216 true "" "plotxy turtle-step adjacent-overtake-step"
+
+TEXTBOX
+12
+92
+162
+110
+Cars that do not signal
+13
+0.0
+1
 
 @#$#@#$#@
 ## WHAT IS IT?
