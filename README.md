@@ -10,15 +10,16 @@ In the light of several exercises regarding complexity management or complexity 
 Conceptual Data Model
 ---------------------
 
-|	Observation |	Assimilation | Inference	| Frames per second |
-|-----|-------|--------|--------|
-| Objects	|		|	   |    |
-| Texts		|		|	   |    |			
-| Number Plates	|		|	   |    |			
-| Journey		|		|	   |    |			
-| Landmarks	|		|	   |    |
+|	  | Observation |	Assimilation | Inference	| Frames per second |
+|-----|-------|--------|--------|------|
+| Objects	|		|	   |    |       |
+| Texts		|		|	   |    |		|	
+| Number Plates	|		|	   |    |	  |
+| Journey		|		|	   |    |		|	
+| Landmarks	|		|	   |    |       |
 
 The rows data are the scenes that the driver may be into
+
 The columns data are the scenes that the driver learns from various risks and non-risks
 
 There is a third dimension which are about:
