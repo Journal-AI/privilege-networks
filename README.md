@@ -43,3 +43,7 @@ Netlogo Simulation
 ### Intermediary stages of simulation
 
 ![intial-setup](./images/full-scenario-simulation.PNG)
+
+# More Details
+
+[Welcome-to-Wiki-Page](https://github.com/Journal-AI/contextually-organising-maps/wiki/Welcome-to-Wiki-Page)
