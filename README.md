@@ -30,3 +30,15 @@ There is a third dimension which are about:
 # More Details
 
 [Welcome-to-Wiki-Page](https://github.com/Journal-AI/contextually-organising-maps/wiki/Welcome-to-Wiki-Page)
+
+# SQL-Data Mapping
+
+## ROCHDALE BOROUGH COUNCIL
+
+### The SQL schema file 
+
+[https://raw.githubusercontent.com/Journal-AI/privilege-networks/privilege_networks/SQL/rochdale_borough.sql](https://raw.githubusercontent.com/Journal-AI/privilege-networks/privilege_networks/SQL/rochdale_borough.sql)
+
+### Maps to the Purchase Order Data obtained from the Council
+
+[https://github.com/Journal-AI/privilege-networks/tree/privilege_networks/dataset/purchase-orders-data/Rochdale%20Borough%20Council](https://github.com/Journal-AI/privilege-networks/tree/privilege_networks/dataset/purchase-orders-data/Rochdale%20Borough%20Council)
