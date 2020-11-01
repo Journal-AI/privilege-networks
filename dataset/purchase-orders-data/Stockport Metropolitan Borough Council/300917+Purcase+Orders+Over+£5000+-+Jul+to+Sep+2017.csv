@@ -1,0 +1,563 @@
+Document Date,Purchase Order No,Line Item No,Supplier ID,Supplier Name,Pro Class,Pro Class Description,"Description of Goods 
+(Purpose of expenditure look up)","Service/Department 
+(SAP Hierarchy Position)","Expense Area 
+(cost centre desc)","Net Order Value Over £5000.00 
+(line item value shown here)",GL Code,Cost Centre/WBS
+04/07/2017,ZAV274848,1,5535,Elementary Technology Ltd,181800,Environmental Services Technical Equipment ,Furniture and Equipment,Corporate and Support Services,I&C AVA Services,"8,997.00",400110,11417
+04/07/2017,ZAV274848,2,5535,Elementary Technology Ltd,181800,Environmental Services Technical Equipment ,Furniture and Equipment,Corporate and Support Services,I&C AVA Services,120.00,400110,11417
+04/07/2017,ZAV274848,3,5535,Elementary Technology Ltd,181800,Environmental Services Technical Equipment ,Furniture and Equipment,Corporate and Support Services,I&C AVA Services,135.00,400110,11417
+04/07/2017,ZAV274848,4,5535,Elementary Technology Ltd,181800,Environmental Services Technical Equipment ,Furniture and Equipment,Corporate and Support Services,I&C AVA Services,675.00,400110,11417
+04/07/2017,ZAV274848,5,5535,Elementary Technology Ltd,181800,Environmental Services Technical Equipment ,Furniture and Equipment,Corporate and Support Services,I&C AVA Services,327.00,400110,11417
+04/07/2017,ZAV274848,6,5535,Elementary Technology Ltd,181800,Environmental Services Technical Equipment ,Furniture and Equipment,Corporate and Support Services,I&C AVA Services,120.00,400110,11417
+19/07/2017,ZES275551,1,35,CBC Computer Systems Ltd,270000,Information Communication Technology  ,Information and Communications Technology,Corporate and Support Services,I&C Traded Services,173.25,402001,11338
+19/07/2017,ZES275551,2,35,CBC Computer Systems Ltd,270000,Information Communication Technology  ,Information and Communications Technology,Corporate and Support Services,IT Trade (SSK),"19,320.00",402001,11338
+19/07/2017,ZES275551,3,35,CBC Computer Systems Ltd,270000,Information Communication Technology  ,Information and Communications Technology,Corporate and Support Services,IT Trade (SSK),"1,400.00",402001,11338
+19/07/2017,ZES275552,1,2927,XMA Ltd,270000,Information Communication Technology  ,Information and Communications Technology,Corporate and Support Services,I&C Trade (SSK),"9,796.62",402001,11338
+19/07/2017,ZES275552,2,2927,XMA Ltd,270000,Information Communication Technology  ,Information and Communications Technology,Corporate and Support Services,I&C Traded Services,"2,005.83",402001,11338
+28/07/2017,ZES276044,1,35,CBC Computer Systems Ltd,270000,Information Communication Technology  ,Information and Communications Technology,Corporate and Support Services,IT Trade (Stockport Homes),"3,196.00",402001,12106
+28/07/2017,ZES276044,2,35,CBC Computer Systems Ltd,270000,Information Communication Technology  ,Information and Communications Technology,Corporate and Support Services,IT Trade (Stockport Homes),"7,280.00",402001,12106
+28/07/2017,ZES276044,3,35,CBC Computer Systems Ltd,270000,Information Communication Technology  ,Information and Communications Technology,Corporate and Support Services,IT Trade (Stockport Homes),"2,544.00",402001,12106
+28/07/2017,ZES276044,4,35,CBC Computer Systems Ltd,270000,Information Communication Technology  ,Information and Communications Technology,Corporate and Support Services,IT Trade (Stockport Homes),19.95,402001,12106
+28/07/2017,ZES276047,1,2927,XMA Ltd,270000,Information Communication Technology  ,Information and Communications Technology,Services to People,Transformation Fund-Enablers,42.00,402001,12929
+28/07/2017,ZES276047,2,2927,XMA Ltd,270000,Information Communication Technology  ,Information and Communications Technology,Services to People,Transformation Fund-Enablers,42.00,402001,12929
+28/07/2017,ZES276047,3,2927,XMA Ltd,270000,Information Communication Technology  ,Information and Communications Technology,Services to People,Transformation Fund-Enablers,"7,210.32",402001,12929
+28/07/2017,ZES276047,4,2927,XMA Ltd,270000,Information Communication Technology  ,Information and Communications Technology,Services to People,Transformation Fund-Enablers,912.00,402001,12929
+04/08/2017,ZES276416,1,2927,XMA Ltd,270000,Information Communication Technology  ,Information and Communications Technology,Corporate and Support Services,IT Infrastructure,"6,350.28",402001,11324
+07/08/2017,ZES276471,1,2718,Virgin Media Business,270000,Information Communication Technology  ,Information and Communications Technology,Corporate and Support Services,IT Trade (Stockport Homes),"15,520.75",402001,12106
+08/08/2017,ZES276642,1,5814,Prosperon Networks Ltd,270000,Information Communication Technology  ,Information and Communications Technology,Corporate and Support Services,I&C Infrastructure,"18,431.94",402002,11324
+16/08/2017,ZES276981,1,9353,Capita IT Services t/a NTS (UK,270000,Information Communication Technology  ,Information and Communications Technology,Corporate and Support Services,I&C Schools Email & Internet,190.79,402001,11418
+16/08/2017,ZES276981,2,9353,Capita IT Services t/a NTS (UK,270000,Information Communication Technology  ,Information and Communications Technology,Corporate and Support Services,I&C Schools Email & Internet,81.30,402001,11418
+16/08/2017,ZES276981,3,9353,Capita IT Services t/a NTS (UK,270000,Information Communication Technology  ,Information and Communications Technology,Corporate and Support Services,I&C Schools Email & Internet,"3,236.21",402001,11418
+16/08/2017,ZES276981,4,9353,Capita IT Services t/a NTS (UK,270000,Information Communication Technology  ,Information and Communications Technology,Corporate and Support Services,I&C Schools Email & Internet,27.10,402001,11418
+16/08/2017,ZES276981,5,9353,Capita IT Services t/a NTS (UK,270000,Information Communication Technology  ,Information and Communications Technology,Corporate and Support Services,I&C Schools Email & Internet,325.20,402001,11418
+16/08/2017,ZES276981,6,9353,Capita IT Services t/a NTS (UK,270000,Information Communication Technology  ,Information and Communications Technology,Corporate and Support Services,I&C Schools Email & Internet,"1,897.28",402001,11418
+16/08/2017,ZES276981,7,9353,Capita IT Services t/a NTS (UK,270000,Information Communication Technology  ,Information and Communications Technology,Corporate and Support Services,I&C Schools Email & Internet,995.00,402001,11418
+05/09/2017,ZES277882,1,2718,Virgin Media Business,270000,Information Communication Technology  ,Information and Communications Technology,Capital Expenditure,ICT Phone UC System,"16,176.65",402004,C.10926
+06/09/2017,ZES277925,1,5740,ANS Group Plc,270000,Information Communication Technology  ,Information and Communications Technology,Corporate and Support Services,IT Infrastructure,"6,954.52",402002,11324
+06/07/2017,ZFC274987,1,3529,Solutions SK Ltd,240000,Horticultural  ,Grounds Maintenance,Corporate and Support Services,SPB Operational Estate,"9,599.65",202030,11662
+06/07/2017,ZFC275042,1,3529,Solutions SK Ltd,130000,Cleaning & Janitorial  ,Cleaning,Corporate and Support Services,SPB Operational Estate,"684,011.17",201602,11662
+17/07/2017,ZFC275461,1,8832,Safe and Secure Solutions Ltd,390000,"Works - Construction, Repair & Maintenance  ",Repairs and Maintenance,Services to People,School Closure Costs - Primary,"19,200.00",200160,10463
+18/07/2017,ZFC275536,1,4708,The Dodd Group,390000,"Works - Construction, Repair & Maintenance  ",Capital Expenditure - Works,Capital Expenditure,Heaton Spec. Sch Double Mobile,"10,000.00",200311,C.10425.166
+19/07/2017,ZFC275561,1,4708,The Dodd Group,390000,"Works - Construction, Repair & Maintenance  ",Repairs and Maintenance,Capital Expenditure,Energy Capital Programme - AMP,"10,000.00",200121,C.10912
+19/07/2017,ZFC275595,1,8842,Hill Property Services Ltd,390000,"Works - Construction, Repair & Maintenance  ",Capital Expenditure - Works,Capital Expenditure,Heaton Spec. Sch Double Mobile,"66,890.00",200311,C.10425.166
+26/07/2017,ZFC275949,1,4756,Eurolink Modular Buildings Ltd,390000,"Works - Construction, Repair & Maintenance  ",Capital Expenditure - Works,Capital Expenditure,Oakgrove Single Mobile,"189,978.00",200311,C.10420.166
+26/07/2017,ZFC275957,1,2438,J Greenwood (Builders) Ltd,390000,"Works - Construction, Repair & Maintenance  ",Capital Expenditure - Works,Capital Expenditure,Corporate buildings - demolition of 103,"21,935.00",200311,C.11502.058
+26/07/2017,ZFC275966,1,2438,J Greenwood (Builders) Ltd,390000,"Works - Construction, Repair & Maintenance  ",Capital Expenditure - Works,Capital Expenditure,Lapwing Centre - Roof,"36,443.00",200311,C.11501.039
+27/07/2017,ZFC276002,1,9543,Carillion (AMBS) Ltd,150000,Consultancy   ,Professional Fees,Capital Expenditure,Community Sports Facility and car park,"25,652.43",401020,C.11423
+03/08/2017,ZFC276365,1,3529,Solutions SK Ltd,390000,"Works - Construction, Repair & Maintenance  ",Repairs and Maintenance,Corporate and Support Services,SPB Operational Estate,"7,156.64",200101,11662
+07/08/2017,ZFC276469,1,2438,J Greenwood (Builders) Ltd,390000,"Works - Construction, Repair & Maintenance  ",Capital Expenditure - Works,Capital Expenditure,Valley Spec.Nursery remodelling,"48,796.65",200311,C.10422.168
+09/08/2017,ZFC276735,1,3529,Solutions SK Ltd,240000,Horticultural  ,Grounds Maintenance,Corporate and Support Services,SPB - Investment Estate,"45,193.00",202030,10062
+11/08/2017,ZFC276814,1,8424,RMD Contracts Limited,390000,"Works - Construction, Repair & Maintenance  ",Capital Expenditure - Works,Capital Expenditure,Great Moor Inf Boiler,"105,622.00",200311,C.10323.116
+11/08/2017,ZFC276828,1,5231,GABLES (UK) LTD,390000,"Works - Construction, Repair & Maintenance  ",Capital Expenditure - Works,Capital Expenditure,Oakgrove Roof,"179,690.00",200311,C.10420.188
+14/08/2017,ZFC276902,1,11169,MCI DEVELOPMENTS LIMITED,390000,"Works - Construction, Repair & Maintenance  ",Capital Expenditure - Works,Capital Expenditure,Community Sports Facility and car park,"49,339.33",200311,C.11423
+22/08/2017,ZFC277303,1,12224,Aspect Plumbing & Heating Ltd,390000,"Works - Construction, Repair & Maintenance  ",Capital Expenditure - Works,Capital Expenditure,Queensgate Prim. Fan Convectors,"45,187.92",200311,C.10357.221
+22/08/2017,ZFC277304,1,12231,Booth Hill Demolition Ltd,181000,Environmental Services Demolition & Asbestos Removal ,Capital Expenditure - Works,Capital Expenditure,Corporate buildings - demolition of 103,"136,381.00",200308,C.11502.060
+28/09/2017,ZFC279167,1,4708,The Dodd Group,390000,"Works - Construction, Repair & Maintenance  ",Repairs and Maintenance,Capital Expenditure,Leisure Strategy - Capital Works on Centres,"498,409.81",200123,C.10831
+07/08/2017,ZHS276488,1,12169,Procure Plus Ltd,999999,Acquisition of Land and Buildings,Capital Expenditure - Acquisitions,Capital Expenditure,St Thomas' Hospital - On Costs,"80,000.00",200300,C.10916.002
+04/07/2017,ZHT274805,1,2479,JR Foy and Son Ltd,390000,"Works - Construction, Repair & Maintenance  ",Repairs and Maintenance,Capital Expenditure,Town Hall - Roof fabric,"14,380.00",200127,C.11501.050
+04/07/2017,ZHT274820,1,4708,The Dodd Group,390000,"Works - Construction, Repair & Maintenance  ",Repairs and Maintenance,Capital Expenditure,Capital Works on Leisure Centres - Avondale,"5,427.08",200126,C.11507.001
+10/07/2017,ZHT275097,1,10780,Permicoat Ltd,390000,"Works - Construction, Repair & Maintenance  ",Repairs and Maintenance,Capital Expenditure,Gen-Prim.Essential H&S Works,"10,756.00",200127,C.10523.193
+17/07/2017,ZHT275436,1,4708,The Dodd Group,390000,"Works - Construction, Repair & Maintenance  ",Repairs and Maintenance,Capital Expenditure,Stopford House - water tight bund wall,"36,494.00",200126,C.11502.074
+18/07/2017,ZHT275523,1,4708,The Dodd Group,390000,"Works - Construction, Repair & Maintenance  ",Repairs and Maintenance,Capital Expenditure,Capital Works on Leisure Centres - Hazel Grove,"7,936.70",200126,C.11507.004
+18/07/2017,ZHT275524,1,4708,The Dodd Group,390000,"Works - Construction, Repair & Maintenance  ",Repairs and Maintenance,Capital Expenditure,Capital Works on Leisure Centres - Avondale,"5,427.08",200126,C.11507.001
+25/07/2017,ZHT275834,1,2438,J Greenwood (Builders) Ltd,390000,"Works - Construction, Repair & Maintenance  ",Repairs and Maintenance,Capital Expenditure,Stopford House - Car Park storage areas,"19,524.00",200123,C.11501.047
+02/08/2017,ZHT276304,1,1799,Stockport Homes,390000,"Works - Construction, Repair & Maintenance  ",Repairs and Maintenance,Non-General Fund Items,Council House Insurance -Fire Claims,"9,975.00",200102,12065
+03/08/2017,ZHT276374,1,4756,Eurolink Modular Buildings Ltd,390000,"Works - Construction, Repair & Maintenance  ",Capital Expenditure - Works,Capital Expenditure,Highfields Pru Mobile Accommodation,"52,568.00",200304,C.10239.166
+11/08/2017,ZHT276820,1,2479,JR Foy and Son Ltd,390000,"Works - Construction, Repair & Maintenance  ",Capital Expenditure - Works,Capital Expenditure,Town Hall - Council Chamber seating and panelling,"26,797.50",200311,C.11501.053
+21/09/2017,ZHT278778,1,2479,JR Foy and Son Ltd,390000,"Works - Construction, Repair & Maintenance  ",Repairs and Maintenance,Capital Expenditure,Park Buildings/Changing rooms - H&S Issues,"5,000.00",200123,C.11502.035
+21/09/2017,ZHT278837,1,2479,JR Foy and Son Ltd,390000,"Works - Construction, Repair & Maintenance  ",Repairs and Maintenance,Capital Expenditure,Park Buildings/Changing rooms - H&S Issues,"5,000.00",200123,C.11502.035
+21/09/2017,ZHT278838,1,2479,JR Foy and Son Ltd,390000,"Works - Construction, Repair & Maintenance  ",Repairs and Maintenance,Capital Expenditure,Park Buildings/Changing rooms - H&S Issues,"5,000.00",200123,C.11502.035
+27/09/2017,ZHT279063,1,2438,J Greenwood (Builders) Ltd,390000,"Works - Construction, Repair & Maintenance  ",Capital Expenditure - Works,Capital Expenditure,Libraries - refurbishment,"5,642.00",200311,C.11502.071
+28/09/2017,ZHT279187,1,2438,J Greenwood (Builders) Ltd,390000,"Works - Construction, Repair & Maintenance  ",Capital Expenditure - Works,Capital Expenditure,Marple Council Offices - perimeter windows/brickwo,"21,993.00",200311,C.11501.048
+10/07/2017,ZSA275154,1,1339,Stockport NHS Foundation Trust,310000,Healthcare  ,Third party payments - Public Sector,Services to People,PH-Programme Management,"4,326,300.00",500402,12732
+12/07/2017,ZSA275258,1,9500,Pinnacle Health Partnership,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,PH-Intelligence,"6,213.00",530342,12740
+17/07/2017,ZSA275476,1,1382,Pure Innovations Ltd,261400,Human Resources Temporary & Agency Staff ,Agency Staff,Services to People,Pure Innovations,"102,000.00",100290,11071
+27/07/2017,ZSA275998,1,1339,Stockport NHS Foundation Trust,130000,Cleaning & Janitorial  ,Cleaning,Services to People,Millview Westbury Drive,"18,000.00",201602,11033
+28/07/2017,ZSA276061,1,11176,Docobo Ltd,270000,Information Communication Technology  ,Information and Communications Technology,Services to People,Transformation Fund-Enablers,840.00,402001,12929
+28/07/2017,ZSA276061,2,11176,Docobo Ltd,270000,Information Communication Technology  ,Information and Communications Technology,Services to People,Transformation Fund-Enablers,"4,302.00",402001,12929
+28/07/2017,ZSA276061,3,11176,Docobo Ltd,270000,Information Communication Technology  ,Information and Communications Technology,Services to People,Transformation Fund-Enablers,96.00,402001,12929
+28/07/2017,ZSA276061,4,11176,Docobo Ltd,270000,Information Communication Technology  ,Information and Communications Technology,Services to People,Transformation Fund-Enablers,180.00,402001,12929
+28/07/2017,ZSA276061,5,11176,Docobo Ltd,270000,Information Communication Technology  ,Information and Communications Technology,Services to People,Transformation Fund-Enablers,84.00,402001,12929
+28/07/2017,ZSA276061,6,11176,Docobo Ltd,270000,Information Communication Technology  ,Information and Communications Technology,Services to People,Transformation Fund-Enablers,"2,000.00",402001,12929
+28/07/2017,ZSA276061,7,11176,Docobo Ltd,270000,Information Communication Technology  ,Information and Communications Technology,Services to People,Transformation Fund-Enablers,"3,200.00",402001,12929
+28/07/2017,ZSA276062,1,2927,XMA Ltd,270000,Information Communication Technology  ,Information and Communications Technology,Services to People,Transformation Fund-Enablers,164.52,402001,12929
+28/07/2017,ZSA276062,2,2927,XMA Ltd,270000,Information Communication Technology  ,Information and Communications Technology,Services to People,Transformation Fund-Enablers,"5,111.28",402001,12929
+28/07/2017,ZSA276062,3,2927,XMA Ltd,270000,Information Communication Technology  ,Information and Communications Technology,Services to People,Transformation Fund-Enablers,77.76,402001,12929
+31/07/2017,ZSA276179,1,1339,Stockport NHS Foundation Trust,999999,Fees and Charges,Fees and Charges,Services to People,Transformation Fund-Provider,"298,615.00",402404,12931
+31/07/2017,ZSA276180,1,1117,OLM Systems Ltd,150000,Consultancy   ,Professional Fees,Services to People,Info S&P Special Projects,"10,000.00",401020,11878
+31/07/2017,ZSA276181,1,9715,NHS Stockport CCG,999999,Fees and Charges,Fees and Charges,Services to People,Proactive Care,"120,820.00",402404,12829
+03/08/2017,ZSA276343,1,11362,Gill Frame,999999,Fees and Charges,Fees and Charges,Services to People,Safeguarding Adults,"9,000.00",401035,12424
+03/08/2017,ZSA276344,1,658,Disability Stockport,320000,Social Community Care Supplies & Services  ,Third party payments - Private/Voluntary Sector,Services to People,Modernisation,"45,000.00",500530,11876
+07/08/2017,ZSA276476,1,2209,FR Monkhouse Ltd,140000,Clothing  ,Clothing Uniforms and Laundry,Services to People,Social Fund - Programme,"25,000.00",400606,12705
+11/08/2017,ZSA276874,1,8932,Alvanley Family Practice,150000,Consultancy   ,Professional Fees,Services to People,Transformation Fund-Provider,"55,510.00",401007,12931
+14/08/2017,ZSA276901,1,1583,Tunstall Healthcare (UK) Ltd,210000,Furniture & Soft Furnishings  ,Furniture and Equipment,Capital Expenditure,Telecare Equipment,"2,560.00",400105,C.11424
+14/08/2017,ZSA276901,2,1583,Tunstall Healthcare (UK) Ltd,210000,Furniture & Soft Furnishings  ,Furniture and Equipment,Capital Expenditure,Telecare Equipment,816.00,400105,C.11424
+14/08/2017,ZSA276901,3,1583,Tunstall Healthcare (UK) Ltd,210000,Furniture & Soft Furnishings  ,Furniture and Equipment,Capital Expenditure,Telecare Equipment,"2,200.00",400105,C.11424
+18/08/2017,ZSA277128,1,9715,NHS Stockport CCG,150000,Consultancy   ,Professional Fees,Services to People,Info S&P Special Projects,"20,000.00",401020,11878
+18/08/2017,ZSA277140,1,11392,Carey Bamber Associates Ltd,150000,Consultancy   ,Professional Fees,Services to People,Co-Production Project - Nesta,"19,000.00",401007,12647
+29/08/2017,ZSA277536,1,9715,NHS Stockport CCG,260000,Human Resources  ,Other Payments,Services to People,Transformation Fund-Intermediate Tier,"379,564.00",100304,12932
+29/08/2017,ZSA277537,1,10105,Mastercall Healthcare,390000,Supplies and services,Supplies and services,Services to People,Transformation Fund-Intermediate Tier,"166,074.00",401600,12932
+01/09/2017,ZSA277675,1,287,Pavilion Publishing and Media,270000,Information Communication Technology  ,Information and Communications Technology,Services to People,Information Management,"12,500.00",402010,11870
+05/09/2017,ZSA277898,1,4369,Pennine Care NHS Trust,261400,Human Resources Temporary & Agency Staff ,Agency Staff,Services to People,Community Mental Health Team,"20,368.00",100290,11589
+07/09/2017,ZSA278082,1,4369,Pennine Care NHS Trust,261400,Human Resources Temporary & Agency Staff ,Agency Staff,Services to People,Mental Health Access Team,"28,752.00",100290,11701
+07/09/2017,ZSA278083,1,4369,Pennine Care NHS Trust,261400,Human Resources Temporary & Agency Staff ,Agency Staff,Services to People,Community Mental Health Team,"8,898.00",100290,11589
+07/09/2017,ZSA278084,1,4369,Pennine Care NHS Trust,261400,Human Resources Temporary & Agency Staff ,Agency Staff,Services to People,OP Mental Health Community Liaison Service,"180,000.00",100290,12649
+07/09/2017,ZSA278085,1,4369,Pennine Care NHS Trust,261400,Human Resources Temporary & Agency Staff ,Agency Staff,Services to People,Mental Health Access Team,"39,704.00",100290,11701
+07/09/2017,ZSA278086,1,4369,Pennine Care NHS Trust,261400,Human Resources Temporary & Agency Staff ,Agency Staff,Services to People,Mental Health Team Managers,"53,520.00",100290,11708
+07/09/2017,ZSA278087,1,4369,Pennine Care NHS Trust,261400,Human Resources Temporary & Agency Staff ,Agency Staff,Services to People,Community Mental Health Team,"29,908.00",100290,11589
+07/09/2017,ZSA278088,1,4369,Pennine Care NHS Trust,261400,Human Resources Temporary & Agency Staff ,Agency Staff,Services to People,Criminal Justice Mental Health Team,"20,764.00",100290,11703
+07/09/2017,ZSA278089,1,4369,Pennine Care NHS Trust,261400,Human Resources Temporary & Agency Staff ,Agency Staff,Services to People,Community Mental Health Team,"27,000.00",100290,11589
+07/09/2017,ZSA278090,1,4369,Pennine Care NHS Trust,261400,Human Resources Temporary & Agency Staff ,Agency Staff,Services to People,Mental Health Recovery,"24,104.00",100290,12676
+08/09/2017,ZSA278142,1,4369,Pennine Care NHS Trust,261400,Human Resources Temporary & Agency Staff ,Agency Staff,Services to People,Community Mental Health Team 2,"12,050.27",100290,11697
+08/09/2017,ZSA278143,1,4369,Pennine Care NHS Trust,261400,Human Resources Temporary & Agency Staff ,Agency Staff,Services to People,Mental Health Supported Living team,"7,000.00",100290,11706
+08/09/2017,ZSA278144,1,4369,Pennine Care NHS Trust,261400,Human Resources Temporary & Agency Staff ,Agency Staff,Services to People,Mental Health Supported Living team,"11,596.00",100290,11706
+08/09/2017,ZSA278146,1,4369,Pennine Care NHS Trust,261400,Human Resources Temporary & Agency Staff ,Agency Staff,Services to People,Administration,"19,908.00",100290,11015
+11/09/2017,ZSA278192,1,4369,Pennine Care NHS Trust,261400,Human Resources Temporary & Agency Staff ,Agency Staff,Services to People,Mental Health Recovery,"15,036.00",100290,12676
+11/09/2017,ZSA278215,1,4369,Pennine Care NHS Trust,261400,Human Resources Temporary & Agency Staff ,Agency Staff,Services to People,Recovery & Inclusion,"9,120.00",100290,11707
+11/09/2017,ZSA278216,1,4369,Pennine Care NHS Trust,261400,Human Resources Temporary & Agency Staff ,Agency Staff,Services to People,Recovery & Inclusion,"19,240.00",100290,11707
+12/09/2017,ZSA278288,1,1339,Stockport NHS Foundation Trust,260000,Human Resources  ,Other Payments,Services to People,Transformation Fund-Intermediate Tier,"46,135.10",100304,12932
+15/09/2017,ZSA278486,1,4369,Pennine Care NHS Trust,260000,Human Resources  ,Other Payments,Services to People,Transformation Fund-Enablers,"32,723.00",100304,12929
+21/09/2017,ZSA278781,1,7030,MANCHESTER CITY COUNCIL SHARED,390000,Supplies and services,Supplies and services,Services to People,PH-Programme Management,"5,158.36",401600,12732
+29/09/2017,ZSA279266,1,1583,Tunstall Healthcare (UK) Ltd,210000,Furniture & Soft Furnishings  ,Furniture and Equipment,Capital Expenditure,Telecare Equipment,"6,400.00",400105,C.11424
+03/07/2017,ZSB274735,1,3529,Solutions SK Ltd,111200,Catering Food & Beverages ,Catering Supplies,Services to People,Highfields Inclusion Partnership,"5,035.72",400422,10329
+30/08/2017,ZTX277563,1,8842,Hill Property Services Ltd,390000,"Works - Construction, Repair & Maintenance  ",Capital Expenditure - Works,Capital Expenditure,Lisburne Spec. Sch. At Hollywood Park,"44,890.00",200304,C.10423.168
+19/09/2017,ZTX278660,1,8842,Hill Property Services Ltd,390000,"Works - Construction, Repair & Maintenance  ",Capital Expenditure - Works,Capital Expenditure,Hursthead Inf Outbuilding Demolition,"16,790.00",200304,C.10329.169
+05/07/2017,ZVP274899,1,10007,KPMG LLP ADVISORY,150000,Consultancy   ,Professional Fees,Capital Expenditure,SHL DC CC1,"1,925.00",401007,56000
+05/07/2017,ZVP274899,2,10007,KPMG LLP ADVISORY,150000,Consultancy   ,Professional Fees,Capital Expenditure,SHL DC CC1,"3,510.00",401007,56000
+13/07/2017,ZVP275234-001,1,8323,Wilkinson Cowan Partnership Lt,390000,Supplies and services,Supplies and services,Capital Expenditure,SHL DC CC1,"24,245.30",401600,56000
+13/09/2017,ZVP278245-001,1,8323,Wilkinson Cowan Partnership Lt,390000,Supplies and services,Supplies and services,Capital Expenditure,SHL DC CC1,"14,668.09",401600,56000
+04/07/2017,ZZC274813,1,9715,NHS Stockport CCG,310000,Healthcare  ,Third party payments - Public Sector,Services to People,Perip-Classroom Assistant - Learning Dif,"22,820.00",500402,10300
+05/07/2017,ZZC274890,1,7030,MANCHESTER CITY COUNCIL SHARED,999999,Third party payments - Public Sector,Third party payments - Public Sector,Services to People,GUM Services,"187,980.00",500303,12745
+05/07/2017,ZZC274908,1,1339,Stockport NHS Foundation Trust,310000,Healthcare  ,Third party payments - Public Sector,Services to People,DP - CEAS,"67,300.00",500401,12189
+06/07/2017,ZZC274986,1,10572,Cranage Hall,150000,Consultancy   ,Professional Fees,Services to People,SI - Advisers,"10,269.00",401007,10727
+12/07/2017,ZZC275257,1,1104,Age UK Stockport,390000,Supplies and services,Supplies and services,Services to People,Transformation Fund-Healthy Communities,"247,131.00",401600,12930
+13/07/2017,ZZC275316,1,628,Life Leisure,999999,Social Community Care Supplies & Services  ,Service Contract Payments,Services to People,PH-Lifestyles,"177,403.00",561704,12737
+13/07/2017,ZZC275335,1,10339,The Proud Trust,999999,Fees and Charges,Fees and Charges,Services to People,HIV Services,"9,045.00",402404,12746
+17/07/2017,ZZC275471,1,11820,NHS BUSINESS SERVICES AUTHORIT,999999,Fees and Charges,Fees and Charges,Services to People,PH-Drug and Alcohol,"325,000.00",401035,12731
+19/07/2017,ZZC275638,1,2104,Central Manchester University,390000,Supplies and services,Supplies and services,Services to People,Chlamydia Screening,"72,434.00",401600,12747
+20/07/2017,ZZC275663,1,12106,KMS Media,190000,Facilities & Management Services  ,Office Expenses,Services to People,RAA Adoption Count,"49,058.40",400700,12957
+20/07/2017,ZZC275664,1,11190,Social Care Network Solutions,270000,Information Communication Technology  ,Information and Communications Technology,Services to People,FP – Regional Adoption Agency,"36,600.00",402001,12870
+20/07/2017,ZZC275682,1,11899,S M JOSEPH - Tutor,261500,Human Resources Training & Conferences ,Fees and Charges,Services to People,VST - Pupil Premium Grant,"5,000.00",401024,12777
+20/07/2017,ZZC275718,1,1339,Stockport NHS Foundation Trust,310000,Healthcare  ,Third party payments - Public Sector,Services to People,PTG Troubled Families,"6,484.92",500402,10148
+25/07/2017,ZZC275876,1,12120,PULSE,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,DP - Respite,"25,200.00",530335,11513
+26/07/2017,ZZC275967,1,12133,CoppaFeel,340000,Stationery    ,Office Expenses,Services to People,Brinnington (HI),"15,000.00",400707,12805
+01/08/2017,ZZC276218,1,3704,Belle Vue (Manchester) Ltd,381600,Vehicle Management Hire/Leasing ,Leasing /Transport Hire,Services to People,SI -Music Service,"8,140.00",300302,10417
+08/08/2017,ZZC276506,1,1722,The Together Trust Centre,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,DP - Respite,"6,980.00",530335,11513
+08/08/2017,ZZC276507,1,1722,The Together Trust Centre,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,DP - Respite,"20,280.00",530335,11513
+08/08/2017,ZZC276509,1,1722,The Together Trust Centre,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,DP - Respite,"45,210.00",530335,11513
+08/08/2017,ZZC276510,1,1722,The Together Trust Centre,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,DP - Respite,"27,690.00",530335,11513
+08/08/2017,ZZC276511,1,1722,The Together Trust Centre,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,DP - Respite,"7,450.00",530335,11513
+08/08/2017,ZZC276513,1,1722,The Together Trust Centre,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,DP - Respite,"35,470.00",530335,11513
+08/08/2017,ZZC276514,1,12139,Fairfield Care Lltd,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,DP - Respite,"5,450.00",530335,11513
+08/08/2017,ZZC276515,1,12138,HG CARE SERVICES LTD,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,DP - Respite,"18,950.00",530335,11513
+08/08/2017,ZZC276516,1,1722,The Together Trust Centre,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,DP - Respite,"15,140.00",530335,11513
+08/08/2017,ZZC276517,1,1722,The Together Trust Centre,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,DP - Respite,"11,650.00",530335,11513
+08/08/2017,ZZC276518,1,1722,The Together Trust Centre,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,DP - Respite,"13,450.00",530335,11513
+08/08/2017,ZZC276519,1,1722,The Together Trust Centre,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,DP - Respite,"11,240.00",530335,11513
+08/08/2017,ZZC276522,1,1722,The Together Trust Centre,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,DP - Respite,"14,310.00",530335,11513
+08/08/2017,ZZC276523,1,1722,The Together Trust Centre,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,DP - Respite,"15,480.00",530335,11513
+08/08/2017,ZZC276524,1,12139,Fairfield Care Lltd,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,DP - Respite,"17,150.00",530335,11513
+08/08/2017,ZZC276526,1,1722,The Together Trust Centre,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,DP - Respite,"39,530.00",530335,11513
+08/08/2017,ZZC276527,1,1722,The Together Trust Centre,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,DP - Respite,"28,780.00",530335,11513
+08/08/2017,ZZC276528,1,1722,The Together Trust Centre,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,DP - Respite,"33,170.00",530335,11513
+08/08/2017,ZZC276529,1,1722,The Together Trust Centre,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,DP - Respite,"31,840.00",530335,11513
+08/08/2017,ZZC276530,1,1816,Seashell Trust,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,DP - Respite,"8,880.00",530335,11513
+08/08/2017,ZZC276531,1,1722,The Together Trust Centre,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,DP - Respite,"8,110.00",530335,11513
+08/08/2017,ZZC276532,1,1722,The Together Trust Centre,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,DP - Respite,"14,270.00",530335,11513
+08/08/2017,ZZC276533,1,1722,The Together Trust Centre,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,DP - Respite,"8,140.00",530335,11513
+08/08/2017,ZZC276534,1,1722,The Together Trust Centre,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,DP - Respite,"8,140.00",530335,11513
+08/08/2017,ZZC276535,1,1722,The Together Trust Centre,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,DP - Respite,"17,310.00",530335,11513
+08/08/2017,ZZC276536,1,1722,The Together Trust Centre,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,DP - Respite,"8,200.00",530335,11513
+08/08/2017,ZZC276537,1,1722,The Together Trust Centre,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,DP - Respite,"12,150.00",530335,11513
+08/08/2017,ZZC276538,1,12143,Sea Recruitment Services ISF,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,DP - Respite,"7,350.00",530335,11513
+08/08/2017,ZZC276540,1,12140,Birtenshaw,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,DP - Respite,"6,150.00",530335,11513
+08/08/2017,ZZC276541,1,12138,HG CARE SERVICES LTD,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,DP - Respite,"26,550.00",530335,11513
+08/08/2017,ZZC276543,1,12161,GS Social Care Solutions Ltd,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,DP - Respite,"5,097.60",530335,11513
+08/08/2017,ZZC276545,1,1722,The Together Trust Centre,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,DP - Respite,"12,820.00",530335,11513
+08/08/2017,ZZC276546,1,1722,The Together Trust Centre,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,DP - Respite,"14,230.00",530335,11513
+08/08/2017,ZZC276547,1,1722,The Together Trust Centre,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,DP - Respite,"32,100.00",530335,11513
+08/08/2017,ZZC276548,1,1722,The Together Trust Centre,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,DP - Respite,"7,360.00",530335,11513
+08/08/2017,ZZC276564,1,3284,Stockport Cerebral Palsy,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,DP - Respite,"7,910.00",530335,11513
+08/08/2017,ZZC276567,1,3284,Stockport Cerebral Palsy,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,DP - Respite,"9,330.00",530335,11513
+08/08/2017,ZZC276570,1,3284,Stockport Cerebral Palsy,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,DP - Respite,"7,200.00",530335,11513
+08/08/2017,ZZC276577,1,3284,Stockport Cerebral Palsy,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,DP - Respite,"7,820.00",530358,11513
+08/08/2017,ZZC276581,1,3284,Stockport Cerebral Palsy,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,DP - Respite,"5,960.00",530358,11513
+08/08/2017,ZZC276599,1,3284,Stockport Cerebral Palsy,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,DP - Respite,"5,170.00",530358,11513
+08/08/2017,ZZC276600,1,3284,Stockport Cerebral Palsy,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,DP - Respite,"5,140.00",530358,11513
+08/08/2017,ZZC276613,1,657,Independent Options (North Wes,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,DP - Respite,"7,600.00",530335,11513
+08/08/2017,ZZC276616,1,657,Independent Options (North Wes,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,DP - Respite,"5,900.00",530358,11513
+09/08/2017,ZZC276715,1,11500,Bespoke Language and Learning,150000,Consultancy   ,Professional Fees,Services to People,Ethnic Diversity Service,"25,000.00",401007,10305
+10/08/2017,ZZC276753,1,3529,Solutions SK Ltd,230000,Highway Equipment & Materials    ,Highways Maintenance,Services to People,PE & Maintenance of Former School Playing Fields,"11,148.83",202050,10852
+10/08/2017,ZZC276779,1,5224,After Adoption,320000,Social Community Care Supplies & Services  ,Third party payments - Private/Voluntary Sector,Services to People,RAA Adoption Count,"47,836.58",500530,12957
+15/08/2017,ZZC276923,1,10105,Mastercall Healthcare,390000,Supplies and services,Supplies and services,Services to People,PH-Communities,"52,500.00",401600,12738
+23/08/2017,ZZC277383,1,12226,MedGen,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,DP - Respite,"5,630.00",530335,11513
+24/08/2017,ZZC277455,1,12237,"CGL (Change, Grow, Live)",999999,Social Community Care Supplies & Services  ,Service Contract Payments,Services to People,PH-Drug and Alcohol,"399,892.50",561704,12731
+24/08/2017,ZZC277456,1,12237,"CGL (Change, Grow, Live)",310000,Healthcare  ,Third party payments - Public Sector,Services to People,PH-Drug and Alcohol,"54,946.70",500402,12731
+01/09/2017,ZZC277695,1,1339,Stockport NHS Foundation Trust,310000,Healthcare  ,Third party payments - Public Sector,Services to People,Perip-Classroom Assistant - Learning Dif,"22,820.00",500402,10300
+05/09/2017,ZZC277782,1,12171,KEYS CHILDCARE LTD,261500,Human Resources Training & Conferences ,Fees and Charges,Services to People,Lea-Sen Independent School Fees,"21,500.00",401024,10372
+05/09/2017,ZZC277783,1,12171,KEYS CHILDCARE LTD,261500,Human Resources Training & Conferences ,Fees and Charges,Services to People,Lea-Sen Independent School Fees,"30,600.00",401024,10372
+05/09/2017,ZZC277784,1,12171,KEYS CHILDCARE LTD,261500,Human Resources Training & Conferences ,Fees and Charges,Services to People,Lea-Sen Independent School Fees,"21,500.00",401024,10372
+05/09/2017,ZZC277785,1,12171,KEYS CHILDCARE LTD,261500,Human Resources Training & Conferences ,Fees and Charges,Services to People,Lea-Sen Independent School Fees,"21,500.00",401024,10372
+05/09/2017,ZZC277786,1,12171,KEYS CHILDCARE LTD,261500,Human Resources Training & Conferences ,Fees and Charges,Services to People,Lea-Sen Independent School Fees,"22,900.00",401024,10372
+05/09/2017,ZZC277787,1,12180,Acorn Care and Education,261500,Human Resources Training & Conferences ,Fees and Charges,Services to People,Lea-Sen Independent School Fees,"22,400.00",401024,10372
+05/09/2017,ZZC277788,1,12171,KEYS CHILDCARE LTD,261500,Human Resources Training & Conferences ,Fees and Charges,Services to People,Lea-Sen Independent School Fees,"21,500.00",401024,10372
+05/09/2017,ZZC277789,1,12260,Hexagon Care Services,261500,Human Resources Training & Conferences ,Fees and Charges,Services to People,Lea-Sen Independent School Fees,"15,000.00",401024,10372
+05/09/2017,ZZC277791,1,1669,Charnwood Nursery,261500,Human Resources Training & Conferences ,Fees and Charges,Services to People,Lea-Sen Independent School Fees,"8,300.00",401024,10372
+05/09/2017,ZZC277792,1,1669,Charnwood Nursery,261500,Human Resources Training & Conferences ,Fees and Charges,Services to People,Lea-Sen Independent School Fees,"8,300.00",401024,10372
+05/09/2017,ZZC277793,1,1669,Charnwood Nursery,261500,Human Resources Training & Conferences ,Fees and Charges,Services to People,Lea-Sen Independent School Fees,"8,300.00",401024,10372
+05/09/2017,ZZC277794,1,1669,Charnwood Nursery,261500,Human Resources Training & Conferences ,Fees and Charges,Services to People,Lea-Sen Independent School Fees,"8,300.00",401024,10372
+05/09/2017,ZZC277795,1,1669,Charnwood Nursery,261500,Human Resources Training & Conferences ,Fees and Charges,Services to People,Lea-Sen Independent School Fees,"8,300.00",401024,10372
+05/09/2017,ZZC277796,1,1669,Charnwood Nursery,261500,Human Resources Training & Conferences ,Fees and Charges,Services to People,Lea-Sen Independent School Fees,"8,300.00",401024,10372
+05/09/2017,ZZC277798,1,1669,Charnwood Nursery,261500,Human Resources Training & Conferences ,Fees and Charges,Services to People,Lea-Sen Independent School Fees,"8,400.00",401024,10372
+05/09/2017,ZZC277799,1,1669,Charnwood Nursery,261500,Human Resources Training & Conferences ,Fees and Charges,Services to People,Lea-Sen Independent School Fees,"8,300.00",401024,10372
+05/09/2017,ZZC277800,1,1669,Charnwood Nursery,261500,Human Resources Training & Conferences ,Fees and Charges,Services to People,Lea-Sen Independent School Fees,"8,300.00",401024,10372
+05/09/2017,ZZC277804,1,1669,Charnwood Nursery,261500,Human Resources Training & Conferences ,Fees and Charges,Services to People,Lea-Sen Independent School Fees,"8,400.00",401024,10372
+05/09/2017,ZZC277805,1,1669,Charnwood Nursery,261500,Human Resources Training & Conferences ,Fees and Charges,Services to People,Lea-Sen Independent School Fees,"8,400.00",401024,10372
+05/09/2017,ZZC277806,1,1669,Charnwood Nursery,261500,Human Resources Training & Conferences ,Fees and Charges,Services to People,Lea-Sen Independent School Fees,"8,400.00",401024,10372
+05/09/2017,ZZC277807,1,1669,Charnwood Nursery,261500,Human Resources Training & Conferences ,Fees and Charges,Services to People,Lea-Sen Independent School Fees,"8,300.00",401024,10372
+05/09/2017,ZZC277808,1,1669,Charnwood Nursery,261500,Human Resources Training & Conferences ,Fees and Charges,Services to People,Lea-Sen Independent School Fees,"8,400.00",401024,10372
+05/09/2017,ZZC277809,1,1669,Charnwood Nursery,261500,Human Resources Training & Conferences ,Fees and Charges,Services to People,Lea-Sen Independent School Fees,"8,300.00",401024,10372
+05/09/2017,ZZC277812,1,11466,High Peak School Ltd,261500,Human Resources Training & Conferences ,Fees and Charges,Services to People,Lea-Sen Independent School Fees,"24,100.00",401024,10372
+05/09/2017,ZZC277813,1,4083,Hulme Hall School,261500,Human Resources Training & Conferences ,Fees and Charges,Services to People,Lea-Sen Independent School Fees,"6,900.00",401024,10372
+05/09/2017,ZZC277814,1,12269,PENARTH GROUP,261500,Human Resources Training & Conferences ,Fees and Charges,Services to People,Lea-Sen Independent School Fees,"28,000.00",401024,10372
+05/09/2017,ZZC277815,1,4122,Ramillies Hall Pre-School Nurs,261500,Human Resources Training & Conferences ,Fees and Charges,Services to People,Lea-Sen Independent School Fees,"6,300.00",401024,10372
+05/09/2017,ZZC277816,1,4122,Ramillies Hall Pre-School Nurs,261500,Human Resources Training & Conferences ,Fees and Charges,Services to People,Lea-Sen Independent School Fees,"8,800.00",401024,10372
+05/09/2017,ZZC277817,1,4122,Ramillies Hall Pre-School Nurs,261500,Human Resources Training & Conferences ,Fees and Charges,Services to People,Lea-Sen Independent School Fees,"11,900.00",401024,10372
+05/09/2017,ZZC277818,1,12180,Acorn Care and Education,261500,Human Resources Training & Conferences ,Fees and Charges,Services to People,Lea-Sen Independent School Fees,"19,700.00",401024,10372
+05/09/2017,ZZC277819,1,12180,Acorn Care and Education,261500,Human Resources Training & Conferences ,Fees and Charges,Services to People,Lea-Sen Independent School Fees,"19,700.00",401024,10372
+05/09/2017,ZZC277820,1,12180,Acorn Care and Education,261500,Human Resources Training & Conferences ,Fees and Charges,Services to People,Lea-Sen Independent School Fees,"19,100.00",401024,10372
+05/09/2017,ZZC277821,1,12180,Acorn Care and Education,261500,Human Resources Training & Conferences ,Fees and Charges,Services to People,Lea-Sen Independent School Fees,"19,700.00",401024,10372
+05/09/2017,ZZC277822,1,12180,Acorn Care and Education,261500,Human Resources Training & Conferences ,Fees and Charges,Services to People,Lea-Sen Independent School Fees,"19,700.00",401024,10372
+05/09/2017,ZZC277823,1,12180,Acorn Care and Education,261500,Human Resources Training & Conferences ,Fees and Charges,Services to People,Lea-Sen Independent School Fees,"19,700.00",401024,10372
+05/09/2017,ZZC277824,1,12180,Acorn Care and Education,261500,Human Resources Training & Conferences ,Fees and Charges,Services to People,Lea-Sen Independent School Fees,"19,700.00",401024,10372
+05/09/2017,ZZC277825,1,12180,Acorn Care and Education,261500,Human Resources Training & Conferences ,Fees and Charges,Services to People,Lea-Sen Independent School Fees,"19,700.00",401024,10372
+05/09/2017,ZZC277826,1,12180,Acorn Care and Education,261500,Human Resources Training & Conferences ,Fees and Charges,Services to People,Lea-Sen Independent School Fees,"18,700.00",401024,10372
+05/09/2017,ZZC277827,1,12180,Acorn Care and Education,261500,Human Resources Training & Conferences ,Fees and Charges,Services to People,Lea-Sen Independent School Fees,"19,700.00",401024,10372
+05/09/2017,ZZC277828,1,12180,Acorn Care and Education,261500,Human Resources Training & Conferences ,Fees and Charges,Services to People,Lea-Sen Independent School Fees,"19,700.00",401024,10372
+05/09/2017,ZZC277830,1,12180,Acorn Care and Education,261500,Human Resources Training & Conferences ,Fees and Charges,Services to People,Lea-Sen Independent School Fees,"19,700.00",401024,10372
+05/09/2017,ZZC277832,1,12180,Acorn Care and Education,261500,Human Resources Training & Conferences ,Fees and Charges,Services to People,Lea-Sen Independent School Fees,"19,700.00",401024,10372
+05/09/2017,ZZC277833,1,12180,Acorn Care and Education,261500,Human Resources Training & Conferences ,Fees and Charges,Services to People,Lea-Sen Independent School Fees,"19,700.00",401024,10372
+05/09/2017,ZZC277834,1,11955,ROSSENDALE SCHOOL,261500,Human Resources Training & Conferences ,Fees and Charges,Services to People,Lea-Sen Independent School Fees,"46,600.00",401024,10372
+05/09/2017,ZZC277835,1,11522,Shapwick School,261500,Human Resources Training & Conferences ,Fees and Charges,Services to People,Lea-Sen Independent School Fees,"20,400.00",401024,10372
+06/09/2017,ZZC277941,1,1722,The Together Trust Centre,261500,Human Resources Training & Conferences ,Fees and Charges,Services to People,SEN Independent School Fees Non Maintained Sch,"43,700.00",401024,12710
+06/09/2017,ZZC277942,1,1966,I Can Training,261500,Human Resources Training & Conferences ,Fees and Charges,Services to People,SEN Independent School Fees Non Maintained Sch,"21,500.00",401024,12710
+06/09/2017,ZZC277943,1,1722,The Together Trust Centre,261500,Human Resources Training & Conferences ,Fees and Charges,Services to People,SEN Independent School Fees Non Maintained Sch,"40,100.00",401024,12710
+06/09/2017,ZZC277944,1,1722,The Together Trust Centre,261500,Human Resources Training & Conferences ,Fees and Charges,Services to People,SEN Independent School Fees Non Maintained Sch,"36,700.00",401024,12710
+06/09/2017,ZZC277945,1,1722,The Together Trust Centre,261500,Human Resources Training & Conferences ,Fees and Charges,Services to People,SEN Independent School Fees Non Maintained Sch,"18,100.00",401024,12710
+06/09/2017,ZZC277946,1,1722,The Together Trust Centre,261500,Human Resources Training & Conferences ,Fees and Charges,Services to People,SEN Independent School Fees Non Maintained Sch,"40,600.00",401024,12710
+06/09/2017,ZZC277947,1,1722,The Together Trust Centre,261500,Human Resources Training & Conferences ,Fees and Charges,Services to People,SEN Independent School Fees Non Maintained Sch,"32,500.00",401024,12710
+06/09/2017,ZZC277948,1,1722,The Together Trust Centre,261500,Human Resources Training & Conferences ,Fees and Charges,Services to People,SEN Independent School Fees Non Maintained Sch,"33,500.00",401024,12710
+06/09/2017,ZZC277949,1,1722,The Together Trust Centre,261500,Human Resources Training & Conferences ,Fees and Charges,Services to People,SEN Independent School Fees Non Maintained Sch,"26,400.00",401024,12710
+06/09/2017,ZZC277950,1,1722,The Together Trust Centre,261500,Human Resources Training & Conferences ,Fees and Charges,Services to People,SEN Independent School Fees Non Maintained Sch,"32,500.00",401024,12710
+06/09/2017,ZZC277951,1,1722,The Together Trust Centre,261500,Human Resources Training & Conferences ,Fees and Charges,Services to People,SEN Independent School Fees Non Maintained Sch,"21,700.00",401024,12710
+06/09/2017,ZZC277952,1,1722,The Together Trust Centre,261500,Human Resources Training & Conferences ,Fees and Charges,Services to People,SEN Independent School Fees Non Maintained Sch,"26,400.00",401024,12710
+06/09/2017,ZZC277953,1,1816,Seashell Trust,261500,Human Resources Training & Conferences ,Fees and Charges,Services to People,SEN Independent School Fees Non Maintained Sch,"41,600.00",401024,12710
+06/09/2017,ZZC277954,1,1816,Seashell Trust,261500,Human Resources Training & Conferences ,Fees and Charges,Services to People,SEN Independent School Fees Non Maintained Sch,"36,700.00",401024,12710
+06/09/2017,ZZC277960,1,1816,Seashell Trust,261500,Human Resources Training & Conferences ,Fees and Charges,Services to People,SEN Independent School Fees Non Maintained Sch,"36,700.00",401024,12710
+06/09/2017,ZZC277961,1,1816,Seashell Trust,261500,Human Resources Training & Conferences ,Fees and Charges,Services to People,SEN Independent School Fees Non Maintained Sch,"49,600.00",401024,12710
+06/09/2017,ZZC277962,1,12188,ST JOHN VIANNEY,261500,Human Resources Training & Conferences ,Fees and Charges,Services to People,SEN Independent School Fees Non Maintained Sch,"11,100.00",401024,12710
+06/09/2017,ZZC277963,1,12188,ST JOHN VIANNEY,261500,Human Resources Training & Conferences ,Fees and Charges,Services to People,SEN Independent School Fees Non Maintained Sch,"15,700.00",401024,12710
+06/09/2017,ZZC277965,1,12188,ST JOHN VIANNEY,261500,Human Resources Training & Conferences ,Fees and Charges,Services to People,SEN Independent School Fees Non Maintained Sch,"16,000.00",401024,12710
+06/09/2017,ZZC277966,1,12188,ST JOHN VIANNEY,261500,Human Resources Training & Conferences ,Fees and Charges,Services to People,SEN Independent School Fees Non Maintained Sch,"11,300.00",401024,12710
+06/09/2017,ZZC277967,1,12188,ST JOHN VIANNEY,261500,Human Resources Training & Conferences ,Fees and Charges,Services to People,SEN Independent School Fees Non Maintained Sch,"22,100.00",401024,12710
+06/09/2017,ZZC277968,1,1816,Seashell Trust,261500,Human Resources Training & Conferences ,Fees and Charges,Services to People,SEN Independent School Fees Non Maintained Sch,"37,500.00",401024,12710
+06/09/2017,ZZC277970,1,12188,ST JOHN VIANNEY,261500,Human Resources Training & Conferences ,Fees and Charges,Services to People,SEN Independent School Fees Non Maintained Sch,"11,400.00",401024,12710
+06/09/2017,ZZC277971,1,12188,ST JOHN VIANNEY,261500,Human Resources Training & Conferences ,Fees and Charges,Services to People,SEN Independent School Fees Non Maintained Sch,"11,100.00",401024,12710
+06/09/2017,ZZC277972,1,12188,ST JOHN VIANNEY,261500,Human Resources Training & Conferences ,Fees and Charges,Services to People,SEN Independent School Fees Non Maintained Sch,"11,800.00",401024,12710
+06/09/2017,ZZC277973,1,11861,WARGRAVE HOUSE SCHOOL,261500,Human Resources Training & Conferences ,Fees and Charges,Services to People,SEN Independent School Fees Non Maintained Sch,"18,500.00",401024,12710
+06/09/2017,ZZC277974,1,1816,Seashell Trust,261500,Human Resources Training & Conferences ,Fees and Charges,Services to People,SEN Independent School Fees Non Maintained Sch,"46,900.00",401024,12710
+06/09/2017,ZZC277975,1,6870,KIDS,150000,Consultancy   ,Professional Fees,Services to People,SEN – Parent Partnership,"37,500.00",401020,10316
+06/09/2017,ZZC277991,1,1339,Stockport NHS Foundation Trust,261500,Human Resources Training & Conferences ,Fees and Charges,Services to People,PH-Children and YP,"5,000.00",401024,12733
+13/09/2017,ZZC278320,1,12180,Acorn Care and Education,261500,Human Resources Training & Conferences ,Fees and Charges,Services to People,Lea-Sen Independent School Fees,"19,100.00",401024,10372
+13/09/2017,ZZC278322,1,12180,Acorn Care and Education,261500,Human Resources Training & Conferences ,Fees and Charges,Services to People,Lea-Sen Independent School Fees,"19,500.00",401024,10372
+13/09/2017,ZZC278324,1,12171,KEYS CHILDCARE LTD,261500,Human Resources Training & Conferences ,Fees and Charges,Services to People,Lea-Sen Independent School Fees,"20,401.00",401024,10372
+13/09/2017,ZZC278328,1,12268,Dunham Trust for The Orchards,170000,Education  ,Third party payments - Public Sector,Services to People,Lea-Other Local Authorities,"6,400.00",500304,10371
+13/09/2017,ZZC278329,1,12268,Dunham Trust for The Orchards,170000,Education  ,Third party payments - Public Sector,Services to People,Lea-Other Local Authorities,"7,900.00",500304,10371
+13/09/2017,ZZC278330,1,12268,Dunham Trust for The Orchards,170000,Education  ,Third party payments - Public Sector,Services to People,Lea-Other Local Authorities,"7,900.00",500304,10371
+13/09/2017,ZZC278331,1,11958,PIPER HILL SCHOOL,170000,Education  ,Third party payments - Public Sector,Services to People,Lea-Other Local Authorities,"10,500.00",500304,10371
+13/09/2017,ZZC278332,1,12265,Lancasterian School,170000,Education  ,Third party payments - Public Sector,Services to People,Lea-Other Local Authorities,"8,900.00",500304,10371
+13/09/2017,ZZC278333,1,12265,Lancasterian School,170000,Education  ,Third party payments - Public Sector,Services to People,Lea-Other Local Authorities,"8,900.00",500304,10371
+13/09/2017,ZZC278334,1,12265,Lancasterian School,170000,Education  ,Third party payments - Public Sector,Services to People,Lea-Other Local Authorities,"8,200.00",500304,10371
+13/09/2017,ZZC278335,1,9456,Grange School,170000,Education  ,Third party payments - Public Sector,Services to People,Lea-Other Local Authorities,"8,000.00",500304,10371
+13/09/2017,ZZC278336,1,9456,Grange School,170000,Education  ,Third party payments - Public Sector,Services to People,Lea-Other Local Authorities,"8,000.00",500304,10371
+13/09/2017,ZZC278337,1,9456,Grange School,170000,Education  ,Third party payments - Public Sector,Services to People,Lea-Other Local Authorities,"8,000.00",500304,10371
+13/09/2017,ZZC278339,1,4190,Derbyshire County Council,170000,Education  ,Third party payments - Public Sector,Services to People,Lea-Other Local Authorities,"8,700.00",500304,10371
+13/09/2017,ZZC278344,1,7167,Cheshire East Borough Council.,170000,Education  ,Third party payments - Public Sector,Services to People,Lea-Other Local Authorities,"7,200.00",500304,10371
+13/09/2017,ZZC278345,1,11231,St John's Wood Academy,170000,Education  ,Third party payments - Public Sector,Services to People,Lea-Other Local Authorities,"17,600.00",500304,10371
+13/09/2017,ZZC278351,1,11209,Progress Care and Education Lt,261500,Human Resources Training & Conferences ,Fees and Charges,Services to People,Lea-Sen Independent School Fees,"60,100.00",401024,10372
+13/09/2017,ZZC278352,1,11438,Cruckton Hall Ltd,261500,Human Resources Training & Conferences ,Fees and Charges,Services to People,Lea-Sen Independent School Fees,"121,800.00",401024,10372
+13/09/2017,ZZC278353,1,11914,WEST KIRBY RESIDENTIAL SCHOOL,261500,Human Resources Training & Conferences ,Fees and Charges,Services to People,SEN Independent School Fees Non Maintained Sch,"52,050.00",401024,12710
+18/09/2017,ZZC278537,1,1722,The Together Trust Centre,261500,Human Resources Training & Conferences ,Fees and Charges,Services to People,Lea-Sen Independent School Fees,"19,313.16",401024,10372
+18/09/2017,ZZC278538,1,1722,The Together Trust Centre,261500,Human Resources Training & Conferences ,Fees and Charges,Services to People,Lea-Sen Independent School Fees,"25,636.91",401024,10372
+18/09/2017,ZZC278539,1,1722,The Together Trust Centre,261500,Human Resources Training & Conferences ,Fees and Charges,Services to People,Lea-Sen Independent School Fees,"23,177.00",401024,10372
+18/09/2017,ZZC278540,1,1722,The Together Trust Centre,261500,Human Resources Training & Conferences ,Fees and Charges,Services to People,Lea-Sen Independent School Fees,"23,285.13",401024,10372
+18/09/2017,ZZC278541,1,1722,The Together Trust Centre,261500,Human Resources Training & Conferences ,Fees and Charges,Services to People,Lea-Sen Independent School Fees,"24,279.48",401024,10372
+18/09/2017,ZZC278542,1,1722,The Together Trust Centre,261500,Human Resources Training & Conferences ,Fees and Charges,Services to People,Lea-Sen Independent School Fees,"18,928.82",401024,10372
+18/09/2017,ZZC278543,1,1722,The Together Trust Centre,261500,Human Resources Training & Conferences ,Fees and Charges,Services to People,Lea-Sen Independent School Fees,"24,522.26",401024,10372
+18/09/2017,ZZC278544,1,1722,The Together Trust Centre,261500,Human Resources Training & Conferences ,Fees and Charges,Services to People,Lea-Sen Independent School Fees,"29,412.37",401024,10372
+18/09/2017,ZZC278545,1,1722,The Together Trust Centre,261500,Human Resources Training & Conferences ,Fees and Charges,Services to People,Lea-Sen Independent School Fees,"25,856.10",401024,10372
+18/09/2017,ZZC278546,1,1722,The Together Trust Centre,261500,Human Resources Training & Conferences ,Fees and Charges,Services to People,Lea-Sen Independent School Fees,"24,522.26",401024,10372
+18/09/2017,ZZC278552,1,1722,The Together Trust Centre,261500,Human Resources Training & Conferences ,Fees and Charges,Services to People,Lea-Sen Independent School Fees,"22,597.68",401024,10372
+18/09/2017,ZZC278583,1,1722,The Together Trust Centre,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,DP - Respite,"8,000.00",530335,11513
+18/09/2017,ZZC278588,1,1722,The Together Trust Centre,320000,Social Community Care Supplies & Services  ,Care Payments,Services to People,DP - Respite,"24,000.00",530335,11513
+21/09/2017,ZZC278782,1,1339,Stockport NHS Foundation Trust,310000,Healthcare  ,Fees and Charges,Services to People,PH-Health Protection,"20,000.00",401210,12739
+21/09/2017,ZZC278803,1,11308,Chroma Therapies Ltd,150000,Consultancy   ,Professional Fees,Services to People,FP – Adoption Support Fund,"10,000.00",401007,12183
+27/09/2017,ZZC279096,1,12263,Ashgate Specialist Support Pri,170000,Education  ,Third party payments - Public Sector,Services to People,Lea-Other Local Authorities,"5,490.66",500304,10371
+28/09/2017,ZZC279178,1,3529,Solutions SK Ltd,192200,Facilities & Management Services Security ,Security,Services to People,Central House,"1,913.60",201204,11083
+28/09/2017,ZZC279178,2,3529,Solutions SK Ltd,192200,Facilities & Management Services Security ,Security,Services to People,Central House,"2,870.40",201204,11083
+28/09/2017,ZZC279178,3,3529,Solutions SK Ltd,192200,Facilities & Management Services Security ,Security,Services to People,Central House,382.72,201204,11083
+03/07/2017,ZZP274786,1,7802,Craemer UK Ltd,182020,Environmental Services Waste Management,Waste Management Equipment,Services to Place,Bulk Containers,"3,450.00",400401,10883
+03/07/2017,ZZP274786,2,7802,Craemer UK Ltd,182020,Environmental Services Waste Management,Waste Management Equipment,Services to Place,Bulk Containers,"3,500.00",400401,10883
+04/07/2017,ZZP274801,1,8106,Tarmac Building Products Ltd,390000,Supplies and services,Supplies and services,Capital Expenditure,STCAP St Marys Way/Hempshaw Lane - On Site,"206,524.58",401600,C.00934.203
+04/07/2017,ZZP274802,1,8106,Tarmac Building Products Ltd,390000,Supplies and services,Supplies and services,Capital Expenditure,STCAP A6/Higher Hillgate/Hempshaw Lane - On Site,"85,967.48",401600,C.00935.203
+04/07/2017,ZZP274806,1,8106,Tarmac Building Products Ltd,390000,Supplies and services,Supplies and services,Capital Expenditure,STCAP St Marys Way/New Bridge Lane - On Site,"106,545.89",401600,C.00932.203
+04/07/2017,ZZP274866,1,6748,GEORGE COX & SONS LTD,390000,Supplies and services,Supplies and services,Capital Expenditure,1906 Mill Lane Cemetery Infrastructure Works 2017/,"9,963.35",401600,C.01163.203
+05/07/2017,ZZP274928,1,6748,GEORGE COX & SONS LTD,390000,Supplies and services,Supplies and services,Services to Place,ECS-Buildings Team,"5,344.74",401600,11961
+05/07/2017,ZZP274930,1,10786,Market Place Management Ltd,150000,Consultancy   ,Professional Fees,Services to Place,Market General,"51,324.00",401007,10906
+05/07/2017,ZZP274930,2,10786,Market Place Management Ltd,150000,Consultancy   ,Professional Fees,Services to Place,Market General,"18,057.00",401007,10906
+05/07/2017,ZZP274930,3,10786,Market Place Management Ltd,150000,Consultancy   ,Professional Fees,Services to Place,Market General,"2,700.00",401007,10906
+05/07/2017,ZZP274931,1,2438,J Greenwood (Builders) Ltd,390000,"Works - Construction, Repair & Maintenance  ",Capital Expenditure - Works,Capital Expenditure,Bramall Hall Phase 2 – Capital Works,"32,271.00",200304,C.10899.001
+06/07/2017,ZZP275002,1,3296,Pro Audio Systems,110000,Catering  ,Catering Supplies,Corporate and Support Services,Town Hall Events,"5,126.00",400420,11375
+06/07/2017,ZZP275027,1,7802,Craemer UK Ltd,182020,Environmental Services Waste Management,Waste Management Equipment,Services to Place,Brown Wheelie Bins,"6,590.50",400401,10863
+06/07/2017,ZZP275027,2,7802,Craemer UK Ltd,182020,Environmental Services Waste Management,Waste Management Equipment,Services to Place,Blue Wheelie Bins,"6,590.50",400401,10862
+10/07/2017,ZZP275108,1,223,Groundwork Landscapes Ltd,240000,Horticultural  ,Grounds Maintenance,Services to Place,Landscape Dev-Werneth Ward Open Spaces,980.00,202032,11280
+10/07/2017,ZZP275108,2,223,Groundwork Landscapes Ltd,240000,Horticultural  ,Grounds Maintenance,Services to Place,Landscape Dev-Werneth Ward Open Spaces,"2,128.00",202032,11280
+10/07/2017,ZZP275108,3,223,Groundwork Landscapes Ltd,240000,Horticultural  ,Grounds Maintenance,Services to Place,Landscape Dev-Werneth Ward Open Spaces,65.00,202032,11280
+10/07/2017,ZZP275108,4,223,Groundwork Landscapes Ltd,240000,Horticultural  ,Grounds Maintenance,Services to Place,Landscape Dev-Werneth Ward Open Spaces,"4,930.00",202032,11280
+11/07/2017,ZZP275210,1,6116,Atkins Limited,150000,Consultancy   ,Professional Fees,Services to Place,Design Framework Staff,"10,234.00",401020,11965
+11/07/2017,ZZP275211,1,683,AECOM Limited,150000,Consultancy   ,Professional Fees,Capital Expenditure,097 Cheadle Lane Culvert,"9,916.00",401007,C.01082.201
+11/07/2017,ZZP275212,1,6967,Wilde Consultants Ltd,150000,Consultancy   ,Professional Fees,Capital Expenditure,STCAP 303 King St West (Gradwell Street to R. Mers,"15,244.70",401007,C.00983.202
+12/07/2017,ZZP275259,1,5835,Virgin Media Access Network Pl,230000,Highway Equipment & Materials    ,Highways Maintenance,Capital Expenditure,STCAP 402 Knightsbridge and Great Portwood St - On,"87,610.98",202055,C.00987.203
+12/07/2017,ZZP275260,1,6967,Wilde Consultants Ltd,150000,Consultancy   ,Professional Fees,Capital Expenditure,Main Contractor DD - On Site,"35,880.00",401007,C.00880.203
+12/07/2017,ZZP275261,1,5915,Atkins Global,150000,Consultancy   ,Professional Fees,Services to Place,Design Framework Staff,"30,520.00",401007,11965
+12/07/2017,ZZP275287,1,8718,HollissVincent,280000,Legal Services  ,Legal Fees,Services to Place,Retail Planning appeals,"14,919.07",401016,12955
+12/07/2017,ZZP275294,1,10562,Kinetic Solutions Ltd,181800,Environmental Services Technical Equipment ,Furniture and Equipment,Corporate and Support Services,Stockport Art Gallery-Access,"7,000.00",400110,11375
+12/07/2017,ZZP275296,1,628,Life Leisure,390000,"Works - Construction, Repair & Maintenance  ",Repairs and Maintenance,Capital Expenditure,Condition Works on Leisure Centres - Avondale,"32,017.00",200155,C.11508.001
+12/07/2017,ZZP275296,2,628,Life Leisure,390000,"Works - Construction, Repair & Maintenance  ",Repairs and Maintenance,Capital Expenditure,Condition Works on Leisure Centres - Avondale,"29,717.00",200155,C.11508.001
+13/07/2017,ZZP275302,1,7231,BEACON COUNSELLING,311410,Healthcare Occupational Therapy Services ,Fees and Charges,Corporate and Support Services,HR- Occupational Health,"80,000.00",400706,11721
+13/07/2017,ZZP275340,1,9543,Carillion (AMBS) Ltd,150000,Consultancy   ,Professional Fees,Capital Expenditure,Bridgefield Development - General Costs,"7,000.00",401007,C.10897
+13/07/2017,ZZP275342,1,11128,Fig Creative Ltd,190000,Facilities & Management Services  ,Office Expenses,Corporate and Support Services,Town Hall Events,637.50,400700,11375
+13/07/2017,ZZP275342,2,11128,Fig Creative Ltd,190000,Facilities & Management Services  ,Office Expenses,Corporate and Support Services,Stockport Art Gallery-Access,127.50,400700,11375
+13/07/2017,ZZP275342,3,11128,Fig Creative Ltd,190000,Facilities & Management Services  ,Office Expenses,Corporate and Support Services,Town Hall Events,190.00,400700,11375
+13/07/2017,ZZP275342,4,11128,Fig Creative Ltd,190000,Facilities & Management Services  ,Office Expenses,Corporate and Support Services,Weddings & Functions,680.00,400700,11375
+13/07/2017,ZZP275342,5,11128,Fig Creative Ltd,190000,Facilities & Management Services  ,Office Expenses,Corporate and Support Services,Town Hall Events,127.50,400700,11375
+13/07/2017,ZZP275342,6,11128,Fig Creative Ltd,190000,Facilities & Management Services  ,Office Expenses,Corporate and Support Services,Weddings & Functions,190.00,400700,11375
+13/07/2017,ZZP275342,7,11128,Fig Creative Ltd,190000,Facilities & Management Services  ,Office Expenses,Corporate and Support Services,Town Hall Events,85.00,400700,11375
+13/07/2017,ZZP275342,8,11128,Fig Creative Ltd,190000,Facilities & Management Services  ,Office Expenses,Corporate and Support Services,Town Hall Events,85.00,400700,11375
+13/07/2017,ZZP275342,9,11128,Fig Creative Ltd,190000,Facilities & Management Services  ,Office Expenses,Corporate and Support Services,Town Hall Events,255.00,400700,11375
+13/07/2017,ZZP275342,10,11128,Fig Creative Ltd,190000,Facilities & Management Services  ,Office Expenses,Corporate and Support Services,Weddings & Functions,255.00,400700,11375
+13/07/2017,ZZP275342,11,11128,Fig Creative Ltd,190000,Facilities & Management Services  ,Office Expenses,Corporate and Support Services,Stockport Art Gallery-Access,"2,000.00",400700,11375
+13/07/2017,ZZP275342,12,11128,Fig Creative Ltd,190000,Facilities & Management Services  ,Office Expenses,Corporate and Support Services,Stockport Art Gallery-Access,190.00,400700,11375
+13/07/2017,ZZP275342,13,11128,Fig Creative Ltd,190000,Facilities & Management Services  ,Office Expenses,Corporate and Support Services,Stockport Art Gallery-Access,850.00,400700,11375
+13/07/2017,ZZP275344,1,4463,TRINITY MIRROR PUBLISHING LTD,190000,Facilities & Management Services  ,Office Expenses,Corporate and Support Services,I&C Communications,"6,239.58",400710,11323
+13/07/2017,ZZP275345,1,3290,Royal Mail,190000,Facilities & Management Services  ,Office Expenses,Corporate and Support Services,POD Communications,"12,071.82",400710,11323
+13/07/2017,ZZP275364,1,3529,Solutions SK Ltd,390000,"Works - Construction, Repair & Maintenance  ",Capital Expenditure - Works,Capital Expenditure,STCAP 907 Lancashire Hill Roundabout - On Site,"57,664.00",200304,C.01069.203
+14/07/2017,ZZP275373,1,628,Life Leisure,181800,Environmental Services Technical Equipment ,Furniture and Equipment,Capital Expenditure,Capital Works on Leisure Centres - Avondale,"2,610.00",400110,C.11507.001
+14/07/2017,ZZP275373,2,628,Life Leisure,181800,Environmental Services Technical Equipment ,Furniture and Equipment,Capital Expenditure,Capital Works on Leisure Centres - Hazel Grove,"5,894.14",400110,C.11507.004
+14/07/2017,ZZP275373,3,628,Life Leisure,181800,Environmental Services Technical Equipment ,Furniture and Equipment,Capital Expenditure,Capital Works on Leisure Centres - Romiley,"3,346.00",400110,C.11507.005
+14/07/2017,ZZP275373,4,628,Life Leisure,181800,Environmental Services Technical Equipment ,Furniture and Equipment,Capital Expenditure,Capital Works on Leisure Centres - Cheadle,"9,645.33",400110,C.11507.002
+14/07/2017,ZZP275373,5,628,Life Leisure,181800,Environmental Services Technical Equipment ,Furniture and Equipment,Capital Expenditure,Capital Works on Leisure Centres - Marple,655.00,400110,C.11507.006
+14/07/2017,ZZP275388,1,6967,Wilde Consultants Ltd,150000,Consultancy   ,Professional Fees,Capital Expenditure,5090 Hemphaw Lane Lidl S278 - Design,"7,043.75",401007,C.01141.202
+14/07/2017,ZZP275401,1,3292,Trinity Mirror Printing Ltd,190000,Facilities & Management Services  ,Office Expenses,Corporate and Support Services,POD Communications,"6,239.58",400710,11323
+14/07/2017,ZZP275423,1,628,Life Leisure,999999,Fees and Charges,Fees and Charges,Services to Place,Sports Trust,"9,900.00",401035,11294
+17/07/2017,ZZP275446,1,628,Life Leisure,999999,Fees and Charges,Fees and Charges,Services to Place,Sports Trust,"126,174.00",402404,11294
+18/07/2017,ZZP275483,1,6116,Atkins Limited,150000,Consultancy   ,Professional Fees,Services to Place,Design Framework Staff,"16,000.00",401020,11965
+18/07/2017,ZZP275518,1,6967,Wilde Consultants Ltd,150000,Consultancy   ,Professional Fees,Capital Expenditure,5091 Hibbert Lane Roundabout S278 - Design,"9,560.50",401007,C.01176.202
+18/07/2017,ZZP275530,1,6748,GEORGE COX & SONS LTD,390000,Supplies and services,Supplies and services,Capital Expenditure,1012C A6MARR CMM - Marple-A6/St Thomas Crossing -,"51,428.63",401600,C.01128.203
+18/07/2017,ZZP275531,1,6967,Wilde Consultants Ltd,150000,Consultancy   ,Professional Fees,Capital Expenditure,0257C Goyt Valley Links - Half Moon Lane - Design,"5,011.00",401007,C.01124.202
+18/07/2017,ZZP275532,1,6967,Wilde Consultants Ltd,150000,Consultancy   ,Professional Fees,Capital Expenditure,0257A Goyt Valley Links - Dark Lane - Design,"12,595.00",401007,C.01122.202
+18/07/2017,ZZP275539,1,6967,Wilde Consultants Ltd,150000,Consultancy   ,Professional Fees,Capital Expenditure,0257D Goyt Valley Links - Otterspool Lane - Design,"11,922.50",401007,C.01125.202
+19/07/2017,ZZP275639,1,3529,Solutions SK Ltd,390000,"Works - Construction, Repair & Maintenance  ",Capital Expenditure - Works,Capital Expenditure,Flood Event 07/16 - ProW - Construction,"28,841.36",200304,C.01108.203
+20/07/2017,ZZP275687,1,7802,Craemer UK Ltd,182020,Environmental Services Waste Management,Waste Management Equipment,Services to Place,Green Wheelie Bins,"5,745.00",400401,10861
+20/07/2017,ZZP275720,1,3529,Solutions SK Ltd,390000,"Works - Construction, Repair & Maintenance  ",Capital Expenditure - Works,Capital Expenditure,004 A6 Viaduct Waterproofing - On Site,"9,390.80",200304,C.01152.203
+21/07/2017,ZZP275727,1,12116,Physio.co.uk,311410,Healthcare Occupational Therapy Services ,Fees and Charges,Corporate and Support Services,POD Occ. Health,"60,000.00",400706,11721
+21/07/2017,ZZP275741,1,11973,Virgin Media Ltd,270000,Information Communication Technology  ,Information and Communications Technology,Corporate and Support Services,I&C Trade (Stockport Homes),"5,336.53",402001,12106
+21/07/2017,ZZP275768,1,3529,Solutions SK Ltd,390000,"Works - Construction, Repair & Maintenance  ",Capital Expenditure - Works,Capital Expenditure,Strategic Culverts - On Site,"29,438.45",200304,C.00818.203
+24/07/2017,ZZP275801,1,683,AECOM Limited,150000,Consultancy   ,Professional Fees,Services to Place,Investing in Growth,"12,442.50",401007,10091
+24/07/2017,ZZP275802,1,11056,Asset Management Academy Ltd,390000,"Works - Construction, Repair & Maintenance  ",Capital Expenditure - Works,Capital Expenditure,TAMP Development & Monitoring - On Site,"17,800.00",200304,C.00690.203
+24/07/2017,ZZP275803,1,5915,Atkins Global,150000,Consultancy   ,Professional Fees,Capital Expenditure,"STCAP 02 Phase 2 - Project Dev, Mangmt & Mon - Fea","24,100.00",401007,C.01013.201
+24/07/2017,ZZP275805,1,6748,GEORGE COX & SONS LTD,390000,Supplies and services,Supplies and services,Capital Expenditure,5090 Hemphaw Lane Lidl S278 - On Site,"157,472.30",401600,C.01141.203
+24/07/2017,ZZP275806,1,7831,Transport for Gtr M/CR (HFAS),150000,Consultancy   ,Professional Fees,Capital Expenditure,STCAP 1002 Travel Change - Feasibility,"50,000.00",401007,C.01016.201
+25/07/2017,ZZP275852,1,11661,Redeeming Our Communities (Res,150000,Consultancy   ,Professional Fees,Services to Place,Safer Partnerships,"8,821.25",401020,11088
+26/07/2017,ZZP275962,1,8106,Tarmac Building Products Ltd,390000,Supplies and services,Supplies and services,Capital Expenditure,STCAP Market Street & Underbanks Paving - On Site,"17,223.50",401600,C.00950.203
+26/07/2017,ZZP275964,1,683,AECOM Limited,150000,Consultancy   ,Professional Fees,Capital Expenditure,Flood Event 07/16 - Structures - Feasibility,"23,187.00",401007,C.01109.201
+26/07/2017,ZZP275970,1,3529,Solutions SK Ltd,390000,"Works - Construction, Repair & Maintenance  ",Capital Expenditure - Works,Capital Expenditure,4143 Arden Primary School - On Site,"6,200.00",200304,C.01011.203
+26/07/2017,ZZP275991,1,6748,GEORGE COX & SONS LTD,390000,Supplies and services,Supplies and services,Services to Place,ECS-Buildings Team,"30,000.00",401600,11961
+27/07/2017,ZZP276033,1,902,Bikeright,150000,Consultancy   ,Professional Fees,Services to Place,Highways – Cycle Training,"121,200.00",401020,11962
+28/07/2017,ZZP276059,1,9580,Health Management Ltd,311410,Healthcare Occupational Therapy Services ,Fees and Charges,Corporate and Support Services,POD Occ. Health,"120,000.00",400706,11721
+28/07/2017,ZZP276060,1,815,University of Manchester,260000,Human Resources  ,Staff Training,Corporate and Support Services,Training & Qualifications (A&C),"7,200.00",102020,11888
+28/07/2017,ZZP276077,1,3529,Solutions SK Ltd,390000,"Works - Construction, Repair & Maintenance  ",Capital Expenditure - Works,Capital Expenditure,4143 Arden Primary School - On Site,"28,000.00",200304,C.01011.203
+28/07/2017,ZZP276085,1,1273,Water Plus,230000,Highway Equipment & Materials    ,Highways Maintenance,Capital Expenditure,"Stockport Sports Village, Woodley - On Site","6,296.96",202055,C.00926.203
+28/07/2017,ZZP276086,1,3529,Solutions SK Ltd,240000,Horticultural  ,Grounds Maintenance,Capital Expenditure,Bellway Homes - Jogging Circuit Crescent Park,"69,102.60",202032,C.10922.002
+28/07/2017,ZZP276106,1,628,Life Leisure,390000,"Works - Construction, Repair & Maintenance  ",Repairs and Maintenance,Capital Expenditure,Condition Works on Leisure Centres - Priestnall,"25,331.00",200155,C.11508.006
+28/07/2017,ZZP276108,1,628,Life Leisure,390000,"Works - Construction, Repair & Maintenance  ",Repairs and Maintenance,Capital Expenditure,Condition Works on Leisure Centres - Marple,"2,900.00",200155,C.11508.005
+28/07/2017,ZZP276108,2,628,Life Leisure,390000,"Works - Construction, Repair & Maintenance  ",Repairs and Maintenance,Capital Expenditure,Condition Works on Leisure Centres - Romiley,"2,169.00",200155,C.11508.007
+28/07/2017,ZZP276108,3,628,Life Leisure,390000,"Works - Construction, Repair & Maintenance  ",Repairs and Maintenance,Capital Expenditure,Condition Works on Leisure Centres - Avondale,"2,800.00",200155,C.11508.001
+01/08/2017,ZZP276207,1,304,Massey and Harris(Engineering),240000,Horticultural  ,Grounds Maintenance,Services to Place,SPECIAL PROJECT 1,"6,025.00",202032,11267
+01/08/2017,ZZP276231,1,6748,GEORGE COX & SONS LTD,390000,Supplies and services,Supplies and services,Capital Expenditure,Strategic Culverts - On Site,"6,000.00",401600,C.00818.203
+01/08/2017,ZZP276235,1,3529,Solutions SK Ltd,390000,"Works - Construction, Repair & Maintenance  ",Capital Expenditure - Works,Capital Expenditure,5081 Blackberry Lane S278 - On Site,"8,016.10",200304,C.01132.203
+01/08/2017,ZZP276248,1,10203,PINSENT MASONS LLP,280000,Legal Services  ,Legal Fees,Capital Expenditure,M&U - 20 Great Underbank (White Lion),"7,355.00",401016,C.10904.001
+02/08/2017,ZZP276287,1,7664,UUW PLC,230000,Highway Equipment & Materials    ,Highways Maintenance,Capital Expenditure,"Stockport Sports Village, Woodley - On Site","6,296.96",202055,C.00926.203
+03/08/2017,ZZP276369,1,3529,Solutions SK Ltd,390000,"Works - Construction, Repair & Maintenance  ",Capital Expenditure - Works,Capital Expenditure,0257C Goyt Valley Links - Half Moon Lane - On Site,"5,000.00",200304,C.01124.203
+03/08/2017,ZZP276383,1,8249,Creative Concern Ltd,150000,Consultancy   ,Professional Fees,Services to Place,Investing in Growth,"11,689.00",401007,10102
+03/08/2017,ZZP276386,1,5464,ELECTRICITY NORTH WEST LIMITED,230000,Highway Equipment & Materials    ,Highways Maintenance,Capital Expenditure,"Stockport Sports Village, Woodley - On Site","11,166.68",202055,C.00926.203
+04/08/2017,ZZP276412,1,9543,Carillion (AMBS) Ltd,150000,Consultancy   ,Professional Fees,Services to Place,Stockport Interchange,"68,570.00",401007,12952
+06/08/2017,ZZP276438,1,3529,Solutions SK Ltd,390000,"Works - Construction, Repair & Maintenance  ",Capital Expenditure - Works,Capital Expenditure,5074 Werneth High Access Works - On Site,"11,168.19",200304,C.01100.203
+06/08/2017,ZZP276441,1,8106,Tarmac Building Products Ltd,390000,Supplies and services,Supplies and services,Capital Expenditure,STCAP St Marys Way/New Bridge Lane - On Site,"27,000.00",401600,C.00932.203
+07/08/2017,ZZP276483,1,11661,Redeeming Our Communities (Res,150000,Consultancy   ,Professional Fees,Services to Place,Safer Partnerships,"8,821.25",401020,11088
+07/08/2017,ZZP276484,1,3529,Solutions SK Ltd,390000,"Works - Construction, Repair & Maintenance  ",Repairs and Maintenance,Services to Place,Landscape Dev-Werneth Ward Open Spaces,"17,870.78",200123,11280
+08/08/2017,ZZP276621,1,7243,Wybone Ltd,350000,Street & Traffic Management  ,Fixtures and Fittings,Services to Place,Public Realm Inspection,"9,839.52",201202,10879
+08/08/2017,ZZP276648,1,12193,Greater Manchester Combined Au,150000,Consultancy   ,Professional Fees,Corporate and Support Services,Corporate Policy,"5,000.00",401020,12642
+08/08/2017,ZZP276681,1,6967,Wilde Consultants Ltd,150000,Consultancy   ,Professional Fees,Services to Place,ECS-Head of Engineering Consultancy Services,"55,128.75",401020,11965
+09/08/2017,ZZP276686,1,865,Bethell Construction Ltd,390000,Supplies and services,Supplies and services,Capital Expenditure,004 A6 Viaduct Waterproofing - On Site,"922,430.00",401600,C.01152.203
+09/08/2017,ZZP276716,1,7517,Capita Business Services Ltd.,270000,Information Communication Technology  ,Information and Communications Technology,Corporate and Support Services,I&C Schools Email & Internet,190.79,402001,11418
+09/08/2017,ZZP276716,2,7517,Capita Business Services Ltd.,270000,Information Communication Technology  ,Information and Communications Technology,Corporate and Support Services,I&C Schools Email & Internet,81.30,402001,11418
+09/08/2017,ZZP276716,3,7517,Capita Business Services Ltd.,270000,Information Communication Technology  ,Information and Communications Technology,Corporate and Support Services,I&C Schools Email & Internet,"3,236.71",402001,11418
+09/08/2017,ZZP276716,4,7517,Capita Business Services Ltd.,270000,Information Communication Technology  ,Information and Communications Technology,Corporate and Support Services,I&C Schools Email & Internet,27.10,402001,11418
+09/08/2017,ZZP276716,5,7517,Capita Business Services Ltd.,270000,Information Communication Technology  ,Information and Communications Technology,Corporate and Support Services,I&C Schools Email & Internet,325.20,402001,11418
+09/08/2017,ZZP276716,6,7517,Capita Business Services Ltd.,270000,Information Communication Technology  ,Information and Communications Technology,Corporate and Support Services,I&C Schools Email & Internet,"1,897.28",402001,11418
+09/08/2017,ZZP276716,7,7517,Capita Business Services Ltd.,270000,Information Communication Technology  ,Information and Communications Technology,Corporate and Support Services,I&C Schools Email & Internet,995.00,402001,11418
+09/08/2017,ZZP276717,1,7517,Capita Business Services Ltd.,150000,Consultancy   ,Professional Fees,Services to Place,PLANNING,"40,000.00",401007,12150
+09/08/2017,ZZP276726,1,2405,Data Space UK Ltd,190000,Facilities & Management Services  ,Office Expenses,Services to Place,PLANNING,"10,000.00",400703,12150
+10/08/2017,ZZP276767,1,12200,Cadent Gas Limited,230000,Highway Equipment & Materials    ,Highways Maintenance,Capital Expenditure,"Stockport Sports Village, Woodley - On Site","11,046.09",202055,C.00926.203
+10/08/2017,ZZP276789,1,10670,Osborne Richardson,150000,Consultancy   ,Professional Fees,Services to Place,Food & Safety,"5,000.00",401007,10912
+10/08/2017,ZZP276803,1,11525,New Local Government Network,200000,Financial Services  ,Fees and Charges,Corporate and Support Services,Corporate Policy,"12,000.00",402401,12642
+11/08/2017,ZZP276825,1,5384,Pitney Bowes Europe Software L,270000,Information Communication Technology  ,Information and Communications Technology,Services to Place,Environment-District Group,"4,950.00",402002,10921
+11/08/2017,ZZP276825,2,5384,Pitney Bowes Europe Software L,270000,Information Communication Technology  ,Information and Communications Technology,Services to Place,Environment-District Group,990.00,402002,10921
+11/08/2017,ZZP276835,1,11183,City Car Club t/a Enterprise C,381600,Vehicle Management Hire/Leasing ,Leasing /Transport Hire,Corporate and Support Services,POD – Car Pool Club,"19,509.00",300301,12959
+11/08/2017,ZZP276835,2,11183,City Car Club t/a Enterprise C,381600,Vehicle Management Hire/Leasing ,Leasing /Transport Hire,Corporate and Support Services,POD – Car Pool Club,"8,361.00",300301,12959
+11/08/2017,ZZP276858,1,7802,Craemer UK Ltd,182020,Environmental Services Waste Management,Waste Management Equipment,Services to Place,Green Wheelie Bins,"5,745.00",400401,10861
+15/08/2017,ZZP276952,1,4272,Civica UK Ltd,390000,Supplies and services,Supplies and services,Corporate and Support Services,Bentax,"25,000.00",401600,11139
+15/08/2017,ZZP276974,1,7296,Allpay-Net Ltd,999999,Financial Services,Bank Charges,Corporate and Support Services,U-Misc Finance-Corporate Management,"70,000.00",601403,10971
+15/08/2017,ZZP276976,1,3529,Solutions SK Ltd,390000,"Works - Construction, Repair & Maintenance  ",Capital Expenditure - Works,Capital Expenditure,Flood Event 07/16 - ProW - Construction,"72,655.48",200304,C.01108.203
+16/08/2017,ZZP277011,1,6967,Wilde Consultants Ltd,150000,Consultancy   ,Professional Fees,Services to Place,Highway Structures - Routine and Reactive Maintena,"9,607.50",401007,11975
+16/08/2017,ZZP277012,1,3529,Solutions SK Ltd,110000,Catering  ,Expenses and Allowances,Corporate and Support Services,Members Services,"10,000.00",402202,11111
+16/08/2017,ZZP277016,1,2927,XMA Ltd,270000,Information Communication Technology  ,Information and Communications Technology,Services to Place,Skills for Life,"6,000.00",402001,10511
+16/08/2017,ZZP277035,1,10203,PINSENT MASONS LLP,150000,Consultancy   ,Professional Fees,Corporate and Support Services,Merseyway Shopping Centre,"30,000.00",401020,12866
+18/08/2017,ZZP277159,1,219,Arboricultural Treeworks,240000,Horticultural  ,Grounds Maintenance,Services to Place,Policy-Rights Of Way,"25,618.50",202030,10088
+18/08/2017,ZZP277166,1,3529,Solutions SK Ltd,240000,Horticultural  ,Grounds Maintenance,Capital Expenditure,Schemes In Parks,"15,894.12",202032,C.10775
+21/08/2017,ZZP277177,1,6967,Wilde Consultants Ltd,150000,Consultancy   ,Professional Fees,Capital Expenditure,STCAP 502 M60 Junction 1 Improvements - Design,"48,721.13",401007,C.00988.202
+21/08/2017,ZZP277182,1,304,Massey and Harris(Engineering),240000,Horticultural  ,Grounds Maintenance,Capital Expenditure,Bellway Homes - Jogging Circuit Crescent Park,"5,200.00",202032,C.10922.002
+21/08/2017,ZZP277216,1,7820,Greater Manchester GMUTC,390000,"Works - Construction, Repair & Maintenance  ",Capital Expenditure - Works,Capital Expenditure,HIP Carriageways - On Site,"2,208.52",200304,C.00710.203
+21/08/2017,ZZP277216,2,7820,Greater Manchester GMUTC,390000,"Works - Construction, Repair & Maintenance  ",Capital Expenditure - Works,Capital Expenditure,HIP Carriageways - On Site,"1,227.00",200304,C.00710.203
+21/08/2017,ZZP277216,3,7820,Greater Manchester GMUTC,390000,"Works - Construction, Repair & Maintenance  ",Capital Expenditure - Works,Capital Expenditure,HIP Carriageways - On Site,"4,410.81",200304,C.00710.203
+21/08/2017,ZZP277224,1,2438,J Greenwood (Builders) Ltd,390000,"Works - Construction, Repair & Maintenance  ",Repairs and Maintenance,Capital Expenditure,Bramall Hall Phase 2 – Capital Works,"8,170.00",200123,C.10899.001
+21/08/2017,ZZP277230,1,5835,Virgin Media Access Network Pl,230000,Highway Equipment & Materials    ,Highways Maintenance,Capital Expenditure,5079 Brighton Rd S278 Scarborough - Design,"20,855.25",202055,C.01114.202
+21/08/2017,ZZP277232,1,683,AECOM Limited,150000,Consultancy   ,Professional Fees,Capital Expenditure,TAMP Development & Monitoring - Feasibility,"5,000.00",401007,C.00690.201
+21/08/2017,ZZP277233,1,2025,BT Plc,230000,Highway Equipment & Materials    ,Highways Maintenance,Capital Expenditure,5079 Brighton Rd S278 Scarborough - Design,"50,784.62",202055,C.01114.202
+21/08/2017,ZZP277234,1,12200,Cadent Gas Limited,230000,Highway Equipment & Materials    ,Highways Maintenance,Capital Expenditure,5079 Brighton Rd S278 Scarborough - Design,"18,297.60",202055,C.01114.202
+21/08/2017,ZZP277235,1,5464,ELECTRICITY NORTH WEST LIMITED,230000,Highway Equipment & Materials    ,Highways Maintenance,Capital Expenditure,5079 Brighton Rd S278 Scarborough - Design,"44,706.50",202055,C.01114.202
+22/08/2017,ZZP277260,1,12227,Statutory Nuisance Solutions,260000,Human Resources  ,Staff Training,Services to Place,Environment-District Group,"6,950.00",102020,10921
+22/08/2017,ZZP277295,1,3529,Solutions SK Ltd,390000,"Works - Construction, Repair & Maintenance  ",Capital Expenditure - Works,Capital Expenditure,004 A6 Viaduct Waterproofing - On Site,"24,959.20",200304,C.01152.203
+23/08/2017,ZZP277328,1,10540,Colliers International Valuati,280000,Legal Services  ,Legal Fees,Services to Place,Bridgefield Consultancy Budget,"8,000.00",401016,12640
+23/08/2017,ZZP277393,1,9543,Carillion (AMBS) Ltd,260000,Human Resources  ,Other Payments,Services to Place,Town Centre Development Team,"102,195.85",100304,10072
+24/08/2017,ZZP277428,1,5292,NPOWER (Electricity),370000,Utilities   ,Utilities,Services to Place,HIGHWAYS-ARDEN FOOTBRIDGE,"10,000.00",200510,11979
+24/08/2017,ZZP277430,1,3529,Solutions SK Ltd,390000,"Works - Construction, Repair & Maintenance  ",Capital Expenditure - Works,Capital Expenditure,5079 Brighton Rd S278 Scarborough - On Site,"23,547.37",200304,C.01114.203
+24/08/2017,ZZP277435,1,3529,Solutions SK Ltd,240000,Horticultural  ,Grounds Maintenance,Capital Expenditure,Bellway Homes - Family Fun Area Peel Moat,"24,424.15",202032,C.10922.003
+24/08/2017,ZZP277436,1,221,Ludus Leisure Ltd,240000,Horticultural  ,Grounds Maintenance,Capital Expenditure,Bellway Homes - Family Fun Area Peel Moat,"19,999.00",202032,C.10922.003
+24/08/2017,ZZP277451,1,8010,GROUNDWORK & LEISURE SERVIC,240000,Horticultural  ,Grounds Maintenance,Capital Expenditure,Schemes In Parks,"74,263.66",202032,C.10775
+24/08/2017,ZZP277452,1,8010,GROUNDWORK & LEISURE SERVIC,240000,Horticultural  ,Grounds Maintenance,Capital Expenditure,Schemes In Parks,"78,211.00",202032,C.10775
+24/08/2017,ZZP277453,1,3529,Solutions SK Ltd,240000,Horticultural  ,Grounds Maintenance,Services to Place,CYPD works,"20,943.49",202031,11258
+24/08/2017,ZZP277463,1,12239,Shoosmiths LLP,280000,Legal Services  ,Legal Fees,Capital Expenditure,"STCAP 02 Phase 2 - Project Dev, Mangmt & Mon - Fea","48,600.00",401016,C.01013.201
+25/08/2017,ZZP277481,1,3707,Salford City Council/Finance,999999,Third party payments - Public Sector,Third party payments - Public Sector,Services to Place,Air Group,"20,000.00",500303,10920
+25/08/2017,ZZP277482,1,5214,WSP GROUP PLC,150000,Consultancy   ,Professional Fees,Services to Place,ECS-Head of Engineering Consultancy Services,"20,000.00",401007,11965
+25/08/2017,ZZP277484,1,6748,GEORGE COX & SONS LTD,390000,Supplies and services,Supplies and services,Services to Place,ECS-Buildings Team,"13,527.04",401600,11961
+29/08/2017,ZZP277502,1,1113,Maysand Ltd,390000,"Works - Construction, Repair & Maintenance  ",Repairs and Maintenance,Services to Place,Landscape Dev-Werneth Ward Open Spaces,"16,519.60",200123,11280
+29/08/2017,ZZP277504,1,176,Lexis Nexis UK,200000,Financial Services  ,Fees and Charges,Services to Place,Commercial,"6,585.14",402401,10913
+30/08/2017,ZZP277588,1,814,United Utilities/Diversiona,390000,"Works - Construction, Repair & Maintenance  ",Capital Expenditure - Works,Capital Expenditure,"Stockport Sports Village, Woodley - On Site","6,296.96",200304,C.00926.203
+01/09/2017,ZZP277683,1,6967,Wilde Consultants Ltd,150000,Consultancy   ,Professional Fees,Services to Place,Design Framework Staff,"55,510.00",401020,11965
+01/09/2017,ZZP277684,1,6967,Wilde Consultants Ltd,150000,Consultancy   ,Professional Fees,Services to Place,ECS-Head of Engineering Consultancy Services,"52,196.25",401020,11965
+01/09/2017,ZZP277685,1,6748,GEORGE COX & SONS LTD,390000,Supplies and services,Supplies and services,Services to Place,ECS-Buildings Team,"16,414.50",401600,11961
+01/09/2017,ZZP277686,1,8106,Tarmac Building Products Ltd,390000,Supplies and services,Supplies and services,Capital Expenditure,STCAP 108 Higher Hillgate Crossing - On Site,"36,553.64",401600,C.00981.203
+01/09/2017,ZZP277709,1,6342,GREATER MANCHESTER POLICE AUTH,380000,Vehicle Management  ,Vehicle Repairs and Maintenance,Services to Place,Safer Partnerships,"6,339.00",300100,11088
+04/09/2017,ZZP277715,1,3529,Solutions SK Ltd,340000,Stationery    ,Office Expenses,Corporate and Support Services,Civil Resilience,"8,651.25",400707,11103
+04/09/2017,ZZP277725,1,909,DWF LLP,150000,Consultancy   ,Professional Fees,Services to Place,Sports Trust,"5,000.00",401020,11294
+04/09/2017,ZZP277749,1,11715,CBRE,150000,Consultancy   ,Professional Fees,Corporate and Support Services,Grand Central Investment Estate,"9,528.00",401020,12598
+05/09/2017,ZZP277768,1,3529,Solutions SK Ltd,240000,Horticultural  ,Grounds Maintenance,Services to Place,Policy-Rights Of Way,"1,903.00",202030,10088
+05/09/2017,ZZP277768,2,3529,Solutions SK Ltd,240000,Horticultural  ,Grounds Maintenance,Services to Place,Policy-Rights Of Way,424.00,202030,10088
+05/09/2017,ZZP277768,3,3529,Solutions SK Ltd,240000,Horticultural  ,Grounds Maintenance,Services to Place,Policy-Rights Of Way,"1,155.00",202030,10088
+05/09/2017,ZZP277768,4,3529,Solutions SK Ltd,240000,Horticultural  ,Grounds Maintenance,Services to Place,Policy-Rights Of Way,516.00,202030,10088
+05/09/2017,ZZP277768,5,3529,Solutions SK Ltd,240000,Horticultural  ,Grounds Maintenance,Services to Place,Policy-Rights Of Way,846.00,202030,10088
+05/09/2017,ZZP277768,6,3529,Solutions SK Ltd,240000,Horticultural  ,Grounds Maintenance,Services to Place,Policy-Rights Of Way,671.00,202030,10088
+05/09/2017,ZZP277768,7,3529,Solutions SK Ltd,240000,Horticultural  ,Grounds Maintenance,Services to Place,Policy-Rights Of Way,232.00,202030,10088
+05/09/2017,ZZP277768,8,3529,Solutions SK Ltd,240000,Horticultural  ,Grounds Maintenance,Services to Place,Policy-Rights Of Way,"1,463.00",202030,10088
+05/09/2017,ZZP277768,9,3529,Solutions SK Ltd,240000,Horticultural  ,Grounds Maintenance,Services to Place,Policy-Rights Of Way,726.00,202030,10088
+05/09/2017,ZZP277775,1,3156,Creative Ideas In Print,290000,Arts & Leisure Services  ,Publicity and Promotion,Corporate and Support Services,I&C Communications,"34,172.61",401801,11323
+05/09/2017,ZZP277778,1,10678,Servelec Synergy Ltd,390000,"Works - Construction, Repair & Maintenance  ",Fees and Charges,Corporate and Support Services,IT Systems,"18,000.00",401017,12503
+05/09/2017,ZZP277859,1,296,Johns Newsagents,171113,Education Library Books ,Library Equipment,Corporate and Support Services,Library Services Improvement & Resources,"5,000.00",400206,11328
+06/09/2017,ZZP277909,1,3529,Solutions SK Ltd,390000,Supplies and services,Supplies and services,Capital Expenditure,STCAP St Marys Way/New Bridge Lane - On Site,"6,300.00",401600,C.00932.203
+06/09/2017,ZZP277921,1,4272,Civica UK Ltd,181800,Environmental Services Technical Equipment ,Furniture and Equipment,Corporate and Support Services,Library Services Improvement & Resources,"20,910.00",400111,11328
+06/09/2017,ZZP277979,1,10611,Wates Construction Ltd,390000,"Works - Construction, Repair & Maintenance  ",Capital Expenditure - Works,Capital Expenditure,Bridgefield - Light Cinema Incentive,"1,155,622.00",200304,C.10897.001
+07/09/2017,ZZP278020,1,11973,Virgin Media Ltd,181800,Environmental Services Technical Equipment ,Furniture and Equipment,Corporate and Support Services,IT Trade (Stockport Homes),"5,336.53",400111,12106
+07/09/2017,ZZP278051,1,3156,Creative Ideas In Print,190000,Facilities & Management Services  ,Publicity and Promotion,Corporate and Support Services,POD Communications,"15,729.08",401803,11323
+07/09/2017,ZZP278054,1,9177,Inivea Ltd,999999,Fees and Charges,Fees and Charges,Services to Place,Houldsworth Village,"6,995.00",401035,11314
+07/09/2017,ZZP278055,1,628,Life Leisure,999999,UNCLASSIFIED  ,Capital financing costs,Services to Place,U-Uncontrollable Sport Trust,"250,000.00",600202,12274
+07/09/2017,ZZP278072,1,3156,Creative Ideas In Print,190000,Facilities & Management Services  ,Publicity and Promotion,Corporate and Support Services,POD Communications,"5,579.05",401803,11323
+07/09/2017,ZZP278104,1,9177,Inivea Ltd,202000,Financial Services Rents ,Rents,Services to Place,Houldsworth Village,"69,286.00",200700,11314
+08/09/2017,ZZP278132,1,12281,Industrial Heritage Stronghold,390000,"Works - Construction, Repair & Maintenance  ",Capital Expenditure - Works,Capital Expenditure,STCAP 702 Wellington Road South (Longshut Lane to,"35,000.00",200304,C.00993.203
+12/09/2017,ZZP278237,1,3529,Solutions SK Ltd,240000,Horticultural  ,Grounds Maintenance,Services to Place,Policy-Rights Of Way,"21,210.33",202030,10088
+12/09/2017,ZZP278237,2,3529,Solutions SK Ltd,240000,Horticultural  ,Grounds Maintenance,Services to Place,Policy-Rights Of Way,"15,483.28",202030,10088
+12/09/2017,ZZP278289,1,3529,Solutions SK Ltd,290000,Arts & Leisure Services  ,Publicity and Promotion,Services to Place,Borough Festive Lights,"31,581.32",401801,12654
+12/09/2017,ZZP278298,1,757,Transport for Greater Manchest,390000,Supplies and services,Supplies and services,Capital Expenditure,STCAP 502 M60 Junction 1 Improvements - On Site,"22,000.00",401600,C.00988.203
+12/09/2017,ZZP278301,1,3529,Solutions SK Ltd,390000,"Works - Construction, Repair & Maintenance  ",Capital Expenditure - Works,Capital Expenditure,5090 Hemphaw Lane Lidl S278 - On Site,"7,789.25",200304,C.01141.203
+13/09/2017,ZZP278377,1,8106,Tarmac Building Products Ltd,390000,Supplies and services,Supplies and services,Capital Expenditure,004 A6 Viaduct Waterproofing - On Site,"92,584.09",401600,C.01152.203
+13/09/2017,ZZP278378,1,6967,Wilde Consultants Ltd,150000,Consultancy   ,Professional Fees,Services to Place,Design Framework Staff,"27,730.00",401007,11965
+15/09/2017,ZZP278527,1,11715,CBRE,150000,Consultancy   ,Professional Fees,Corporate and Support Services,Merseyway Shopping Centre,"78,440.00",401020,12866
+18/09/2017,ZZP278600,1,216,Manchester City Council,202100,Financial Services Subscriptions ,Third party payments - Public Sector,Corporate and Support Services,Civil Resilience,"52,380.00",500305,11103
+19/09/2017,ZZP278638,1,12307,Creative Heritage Consultants,150000,Consultancy   ,Professional Fees,Corporate and Support Services,Town Hall Events,"7,480.00",401007,11375
+19/09/2017,ZZP278684,1,683,AECOM Limited,150000,Consultancy   ,Professional Fees,Services to Place,Highways-Network Management,"34,684.00",401007,11968
+19/09/2017,ZZP278686,1,5464,ELECTRICITY NORTH WEST LIMITED,230000,Highway Equipment & Materials    ,Highways Maintenance,Capital Expenditure,STCAP 303 King St West (Gradwell Street to R. Mers,"57,171.56",202055,C.00983.202
+19/09/2017,ZZP278687,1,12193,Greater Manchester Combined Au,390000,Supplies and services,Supplies and services,Capital Expenditure,STCAP 502 M60 Junction 1 Improvements - On Site,"22,000.00",401600,C.00988.203
+19/09/2017,ZZP278688,1,757,Transport for Greater Manchest,390000,Supplies and services,Supplies and services,Capital Expenditure,STCAP 502 M60 Junction 1 Improvements - On Site,"13,455.11",401600,C.00988.203
+20/09/2017,ZZP278696,1,8010,GROUNDWORK & LEISURE SERVIC,240000,Horticultural  ,Grounds Maintenance,Capital Expenditure,Schemes In Parks,"17,068.00",202032,C.10775
+20/09/2017,ZZP278717,1,178,Trafford Council,999999,Third party payments - Public Sector,Third party payments - Public Sector,Corporate and Support Services,Uncont-Probation Service -General,"12,731.42",500303,10966
+20/09/2017,ZZP278755,1,9543,Carillion (AMBS) Ltd,150000,Consultancy   ,Professional Fees,Services to Place,Town Centre Development Team,"45,000.00",401007,10072
+20/09/2017,ZZP278759,1,6748,GEORGE COX & SONS LTD,390000,Supplies and services,Supplies and services,Capital Expenditure,376 Broadway Culvert - On Site,"6,947.37",401600,C.01156.203
+20/09/2017,ZZP278760,1,6748,GEORGE COX & SONS LTD,390000,Supplies and services,Supplies and services,Capital Expenditure,392 Councillor Lane Culvert - On Site,"13,837.25",401600,C.01157.203
+20/09/2017,ZZP278761,1,6748,GEORGE COX & SONS LTD,390000,Supplies and services,Supplies and services,Capital Expenditure,538 Hillcrest Road Culvert - On Site,"15,145.61",401600,C.01161.203
+22/09/2017,ZZP278851,1,9149,Public-i,190000,Facilities & Management Services  ,Office Expenses,Corporate and Support Services,Members Services,"14,560.00",400710,11111
+22/09/2017,ZZP278862,1,10858,Acorn Recovery Projects,261500,Human Resources Training & Conferences ,Fees and Charges,Services to Place,Learning & Emp Adults,"2,448.00",401024,10380
+22/09/2017,ZZP278862,2,10858,Acorn Recovery Projects,261500,Human Resources Training & Conferences ,Fees and Charges,Services to Place,Learning & Emp Adults,"2,488.00",401024,10380
+22/09/2017,ZZP278862,3,10858,Acorn Recovery Projects,261500,Human Resources Training & Conferences ,Fees and Charges,Services to Place,Learning & Emp Adults,"2,488.00",401024,10380
+22/09/2017,ZZP278862,4,10858,Acorn Recovery Projects,261500,Human Resources Training & Conferences ,Fees and Charges,Services to Place,Learning & Emp Adults,"2,488.00",401024,10380
+22/09/2017,ZZP278862,5,10858,Acorn Recovery Projects,261500,Human Resources Training & Conferences ,Fees and Charges,Services to Place,Learning & Emp Adults,612.00,401024,10380
+22/09/2017,ZZP278862,6,10858,Acorn Recovery Projects,261500,Human Resources Training & Conferences ,Fees and Charges,Services to Place,Learning & Emp Adults,612.00,401024,10380
+22/09/2017,ZZP278862,7,10858,Acorn Recovery Projects,261500,Human Resources Training & Conferences ,Fees and Charges,Services to Place,Learning & Emp Adults,612.00,401024,10380
+22/09/2017,ZZP278873,1,8646,MPH INSPECTION SERVICES,390000,"Works - Construction, Repair & Maintenance  ",Repairs and Maintenance,Services to Place,Public Realm Car Park Maintenance,"21,535.00",200123,12510
+22/09/2017,ZZP278874,1,1778,Redspeed International Ltd,230000,Highway Equipment & Materials    ,Highways Maintenance,Capital Expenditure,STCAP 01  Redrock 0527-401B - On Site,"6,060.46",202054,C.01044.203
+22/09/2017,ZZP278901,1,10858,Acorn Recovery Projects,261500,Human Resources Training & Conferences ,Fees and Charges,Services to Place,Learning & Emp Adults,"4,590.00",401024,10380
+22/09/2017,ZZP278901,2,10858,Acorn Recovery Projects,261500,Human Resources Training & Conferences ,Fees and Charges,Services to Place,Learning & Emp Adults,"4,590.00",401024,10380
+22/09/2017,ZZP278901,3,10858,Acorn Recovery Projects,261500,Human Resources Training & Conferences ,Fees and Charges,Services to Place,Learning & Emp Adults,"4,590.00",401024,10380
+22/09/2017,ZZP278901,4,10858,Acorn Recovery Projects,261500,Human Resources Training & Conferences ,Fees and Charges,Services to Place,Learning & Emp Adults,"1,147.50",401024,10380
+22/09/2017,ZZP278901,5,10858,Acorn Recovery Projects,261500,Human Resources Training & Conferences ,Fees and Charges,Services to Place,Learning & Emp Adults,"1,147.50",401024,10380
+22/09/2017,ZZP278901,6,10858,Acorn Recovery Projects,261500,Human Resources Training & Conferences ,Fees and Charges,Services to Place,Learning & Emp Adults,"1,147.50",401024,10380
+25/09/2017,ZZP278941,1,4463,TRINITY MIRROR PUBLISHING LTD,190000,Facilities & Management Services  ,Office Expenses,Capital Expenditure,"STCAP 02 Phase 2 - Project Dev, Mangmt & Mon - Fea","13,094.40",400700,C.01013.201
+25/09/2017,ZZP278942,1,757,Transport for Greater Manchest,390000,Supplies and services,Supplies and services,Capital Expenditure,STCAP 502 M60 Junction 1 Improvements - Feasibilit,"13,455.11",401600,C.00988.201
+25/09/2017,ZZP278973,1,10912,AMG sport-play Ltd,240000,Horticultural  ,Grounds Maintenance,Capital Expenditure,Bellway Homes - Jogging Circuit Crescent Park,"15,364.00",202032,C.10922.002
+26/09/2017,ZZP279022,1,10315,Grant Thornton UK LLP,201100,Financial Services Audit ,Professional Fees,Corporate and Support Services,U-Misc Finance-Corporate Management,"126,128.00",401003,10971
+26/09/2017,ZZP279027,1,223,Groundwork Landscapes Ltd,240000,Horticultural  ,Grounds Maintenance,Capital Expenditure,Bellway Homes - Jogging Circuit Crescent Park,"16,466.00",202032,C.10922.002
+27/09/2017,ZZP279062,1,1799,Stockport Homes,390000,"Works - Construction, Repair & Maintenance  ",Repairs and Maintenance,Services to Place,Landscape Dev-Werneth Ward Open Spaces,"6,010.00",200123,11280
+27/09/2017,ZZP279101,1,7802,Craemer UK Ltd,182020,Environmental Services Waste Management,Waste Management Equipment,Services to Place,Green Wheelie Bins,"5,745.00",400401,10861
+27/09/2017,ZZP279103,1,9543,Carillion (AMBS) Ltd,390000,Supplies and services,Supplies and services,Capital Expenditure,936 Astley Street Bridge - Feasibility,"6,578.00",401600,C.01149.201
+27/09/2017,ZZP279135,1,3529,Solutions SK Ltd,390000,"Works - Construction, Repair & Maintenance  ",Capital Expenditure - Works,Capital Expenditure,0257C Goyt Valley Links - Half Moon Lane - On Site,"31,000.00",200304,C.01124.203
+28/09/2017,ZZP279136,1,1787,Northgate Public Services (UK),270000,Information Communication Technology  ,Information and Communications Technology,Corporate and Support Services,HR- Management,"12,620.00",402001,12590
+28/09/2017,ZZP279150,1,6748,GEORGE COX & SONS LTD,370000,Utilities   ,Utilities,Services to Place,Frank Bramwell Legacy,"7,648.28",201004,11170
+28/09/2017,ZZP279172,1,10678,Servelec Synergy Ltd,390000,"Works - Construction, Repair & Maintenance  ",Fees and Charges,Corporate and Support Services,IT Systems,"11,000.00",401017,12503
+28/09/2017,ZZP279188,1,3529,Solutions SK Ltd,290000,Arts & Leisure Services  ,Publicity and Promotion,Services to Place,Borough Festive Lights,"115,000.00",401801,12654
+28/09/2017,ZZP279205,1,6967,Wilde Consultants Ltd,150000,Consultancy   ,Professional Fees,Services to Place,ECS-Head of Engineering Consultancy Services,"9,360.00",401020,11965
+29/09/2017,ZZP279255,1,11155,Sigma Consulting Solutions Ltd,261400,Human Resources Temporary & Agency Staff ,Agency Staff,Corporate and Support Services,Digital by Design Technical,"61,500.00",100290,11078
+29/09/2017,ZZP279259,1,6748,GEORGE COX & SONS LTD,390000,Supplies and services,Supplies and services,Capital Expenditure,1012D A6MARR CMM - Marple - Windlehurst Rd Traffic,"80,000.00",401600,C.01129.203
+29/09/2017,ZZP279267,1,757,Transport for Greater Manchest,390000,Supplies and services,Supplies and services,Capital Expenditure,936 Astley Street Bridge - Feasibility,"337,692.00",401600,C.01149.201
+18/07/2017,ZZS275544,1,11973,Virgin Media Ltd,270000,Information Communication Technology  ,Information and Communications Technology,Corporate and Support Services,IT Trade (Stockport Homes),"99,323.96",402001,12106
+21/07/2017,ZZS275722,1,2927,XMA Ltd,270000,Information Communication Technology  ,Information and Communications Technology,Corporate and Support Services,Digital by Design Technical,996.80,402001,11078
+21/07/2017,ZZS275722,2,2927,XMA Ltd,270000,Information Communication Technology  ,Information and Communications Technology,Corporate and Support Services,Digital by Design Technical,"110,558.24",402001,11078
+21/07/2017,ZZS275722,3,2927,XMA Ltd,270000,Information Communication Technology  ,Information and Communications Technology,Corporate and Support Services,Digital by Design Technical,644.00,402001,11078
+21/07/2017,ZZS275722,4,2927,XMA Ltd,270000,Information Communication Technology  ,Information and Communications Technology,Corporate and Support Services,Digital by Design Technical,644.00,402001,11078
+21/07/2017,ZZS275722,5,2927,XMA Ltd,270000,Information Communication Technology  ,Information and Communications Technology,Corporate and Support Services,Digital by Design Technical,"12,160.00",402001,11078
+21/07/2017,ZZS275722,6,2927,XMA Ltd,270000,Information Communication Technology  ,Information and Communications Technology,Corporate and Support Services,Digital by Design Technical,508.32,402001,11078
+21/07/2017,ZZS275722,7,2927,XMA Ltd,270000,Information Communication Technology  ,Information and Communications Technology,Corporate and Support Services,Digital by Design Technical,418.80,402001,11078
+02/08/2017,ZZS276286,1,10179,Messagelabs Ltd,270000,Information Communication Technology  ,Information and Communications Technology,Corporate and Support Services,I&C Schools Email & Internet,"22,500.00",402001,11418
+29/08/2017,ZZS277530,1,12219,PERSONA ASSOCIATES,150000,Consultancy   ,Professional Fees,Corporate and Support Services,Legal Professional fees,"10,351.00",401020,12271
+01/09/2017,ZZS277706,1,12251,Aristi Limited,270000,Information Communication Technology  ,Information and Communications Technology,Corporate and Support Services,I&C Infrastructure,"6,800.00",402002,11324
+06/09/2017,ZZS277904,1,544,Phoenix Software Ltd,270000,Information Communication Technology  ,Information and Communications Technology,Corporate and Support Services,IT Systems,"360,893.71",402002,12503
+07/09/2017,ZZS278042,1,4272,Civica UK Ltd,270000,Information Communication Technology  ,Information and Communications Technology,Corporate and Support Services,U-Coroners Court-General,"5,200.00",402010,10965

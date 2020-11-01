@@ -27,23 +27,6 @@ There is a third dimension which are about:
 - Risk Awareness
 - Risk Adherence
 
-Netlogo Simulation
-------------------
-
-### Initial Setup of simulation
-
-![intial-setup](./images/initial-state.PNG)
-
-
-### Detailing of final stage of simulation
-
-![intial-setup](./images/detailing-our-car.PNG)
-
-
-### Intermediary stages of simulation
-
-![intial-setup](./images/full-scenario-simulation.PNG)
-
 # More Details
 
 [Welcome-to-Wiki-Page](https://github.com/Journal-AI/contextually-organising-maps/wiki/Welcome-to-Wiki-Page)
