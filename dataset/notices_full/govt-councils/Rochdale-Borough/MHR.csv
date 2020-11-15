@@ -1,0 +1,207 @@
+"Notice Identifier","Notice Type","Organisation Name",Status,"Published Date",Title,Description,Nationwide,Postcode,Region,"Cpv Codes","Contact Name","Contact Email","Contact Address 1","Contact Address 2","Contact Town","Contact Postcode","Contact Country","Contact Telephone","Contact Website",Attachments,Links,"Additional Text","Start Date","End Date","Closing Date","Is sub-contract","Parent Reference","Suitable for SME","Suitable for VCO","Supply Chain","OJEU Contract Type","Value Low","Value High","Awarded Date","Awarded Value","Supplier [Name|Address|Ref type|Ref Number|Is SME|Is VCSE]","Supplier's contact name","Contract start date","Contract end date","OJEU Procedure Type","Accelerated Justification","Closing Time"
+"LCC T356B - AWARD",Contract,"Further Education Colleges",Awarded,2019-02-08T11:00:20Z,"Leeds City College Group - HR/Payroll System - AWARD","Leeds City College Group wishes to procure a Human Resources and Payroll Information System and invites expressions of interest from suitably qualified and experiences system supply businesses able to meet the group's requirements. The group is seeking expressions of interest from suitable suppliers and proposes to use the Competitive Procedure with Negotiation to determine the contract awardee. Essential and desirable characteristics of the system required are identified within the tender documents.",,"LS3 1AA","Yorkshire and the Humber","48000000 48442000 79631000 48450000 ","Bob Kilcoyne",robert.kilcoyne@leedscitycollege.ac.uk,"College House","Park Lane",Leeds,"LS3 1AA","United Kingdom","0113 216 2073",www.leedscitycollege.ac.uk,,,,01/04/2019,31/07/2023,08/02/2019,NO,,Yes,No,No,Services,0,,08/02/2019,0,"[MHR|Ruddington Hall, Ruddington, Nottingham, United Kingdom, NG11 6LL|NONE||No|No]","Julie Mills",01/04/2019,31/07/2023,"CompetitiveProcedureWithNegotiationAcceleratedOJEU ",
+MT212452,Contract,"Broadacres Housing Association",Awarded,2018-06-29T17:45:03Z,"Broadacres HR and Payroll Software 2017","The Group is aiming to provide a modern, integrated, flexible administrative and management information system to support its Human Resource and Payroll needs.  The system will need to be flexible enough to deal with the constantly changing HR environment, yet have the ease of use for users to make the most effective use of its functionality.  The system will be key to the Group's 'Mobile Working' agenda, which provides a framework for how staff can best work consistently and fairly, adopting new ways of working where appropriate.  The way staff work needs to suit a range of services both now and in the future.",,,"Yorkshire and the Humber","48450000 72212450 ","Mark Birch",mark.birch@broadacres.org.uk,"Broadacres House","Mount View , Standard Way","Northallerton, North Yorkshire","DL6 2YD",England,"+44 1609767900",www.broadacres.org.uk,,"https://www.mytenders.co.uk/search/show/search_view.aspx?ID=JUN154820 ",,29/06/2018,30/06/2023,01/01/2018,NO,,Yes,No,No,Products,162766,204400,29/06/2018,162766,"[Mhr|Ruddington Hall, Ruddington, Nottingham|NONE||No|No]","Jason Bell",29/06/2018,30/06/2023,"Open ",
+BIP314233132,Contract,"Stafford & Rural Homes",Awarded,2018-04-23T10:54:08Z,"GB-Stafford: SARH HR & Payroll Specification Response","High Level Business Requirements - General Requirements
+      A fully integrated HR (either on premise or cloud based) system & Payroll System (either as a system managed by SARH staff or a bureau  service)  
+      Common functional requirements and System wide functions
+      A payroll system or service that provides an accurate monthly payroll that pull s data from the HR system resulting in minimal intervention  from the SARH teams.
+      The HR system should provide a set of Restful web based API's to enable integration with other SARH owned systems.
+      An HR system which can be integrated to AD for Single Sign On 
+      A system that can hold and enable SARH to build additional and customised fields.
+      Ability to easily customise and brand communications from the system.
+      Ability to create user reports and dashboards to support quality analytics and business intelligence.
+      
+      High Level Business Requirements - HR System
+      To procure and implement a feature rich system to manage all aspects of the HR process from recruitment to employee exit.
+      To ensure that the transition from the incumbent system is as minimally disruptive to the organisation and involves no break in continuity of the HR service.
+      To align with SARH's Business Transformation Programme, ensuring processes are as streamlined and efficient as possible, processes are digital wherever possible, paper is minimised and self-service operations are maximised.
+      To select a supplier who will offer a partnership approach to the supply and ongoing support of the system.
+      To select a solution that:
+      Reduces the operational costs of internally managing the system.
+      Has data backed up both incrementally and differentially at specified periods.
+      Has Intelligent workflow that will enable staff to become more proactive by encouraging simple to use self-service
+      Integrates effectively with the Payroll System
+      
+      High Level Business Requirements - Payroll
+      SARH is interested in options for both in-house management of the payroll and outsourced management of the payroll (bureau)
+      To procure and implement a feature rich system or bureau service to manage SARH's payrolls.
+      To ensure that the transition from the incumbent system is as minimally disruptive to the organisation and involves no break in continuity of the payroll service.
+      To align with SARH's Business Transformation Programme, ensuring processes are as streamlined and efficient as possible, processes are digital wherever possible, paper is minimised and self-service operations are maximised.
+      To select a supplier who will offer a partnership approach to the supply and ongoing support of the system.
+      To select a solution that:
+      Reduces the operational costs of internally managing the system.
+      Has data backed up both incrementally and differentially at specified periods.
+      Has Intelligent workflow that will enable staff to become more proactive by encouraging simple to use self-service
+      Integrates effectively with the HR System",,,"West Midlands","48000000 ","Jon Drummond",jon.drummond@shawc.co.uk,"The Rurals, 1 Parker Court","Staffordshire Technology Park",Stafford,"ST18 0WP",UK,01785216685,,,"https://www.delta-esourcing.com/delta/respondToList.html?noticeId=314233132 ","The contracting authority considers that this contract may be suitable for economic operators that are small or medium enterprises (SMEs). However, any selection of tenderers will be based solely on the criteria set out for the procurement.",30/04/2018,19/11/2021,19/02/2018,NO,,No,No,No,Services,91930,,19/02/2018,91930,"[MHR|Ruddington Hall
+        Loughborough Road
+        Nottingham 
+        NG11 6LL|NONE||No|No]","Jason Bell",30/04/2018,19/11/2021,"Open ",
+MT196313,Contract,"Look Ahead Care and Support",Awarded,2017-04-17T09:45:07Z,"Human Capital Management System","Human Capital Management System",,,London,"48450000 ","Barrie North",barrienorth@lookahead.org.uk,"Kings Buildings, 16 Smith Square",,London,"SW1P 3HQ",England,"+44 2073684893",www.lookahead.org.uk,,"http://www.mytenders.org/search/show/search_view.aspx?ID=APR141553 ",,01/11/2016,04/04/2018,01/09/2016,NO,,No,No,No,Products,315665,,05/04/2017,315665,"[MHR|Ruddington Hall, Ruddington, Nottingham|||No|No]",,01/11/2016,04/04/2018,"Open ",
+UCA/2017/DCS,Contract,"University For The Creative Arts",Awarded,2017-03-13T12:34:41Z,"Integrated HR and Payroll System","A cloud based integrated HR and Payroll administration system.  Framework RM1557V11 Lot 3",,,"South East","48000000 ",,Procurement@uca.ac.uk,"Falkner Road",,Farnham,"Gu9 7DS",England,,,,,,20/03/2017,20/03/2019,07/02/2017,NO,,No,No,No,Services,361671,,13/03/2017,361671,"[MHR|Ruddington Hall
+Loughborough Rd
+Ruddington
+Nottingham NG11 6LL|||No|No]",,20/03/2017,20/03/2019,"NotApplicable ",
+MT190252,Contract,"County Durham Housing Group",Awarded,2016-12-16T17:45:07Z,"16-17/C/004 Provision of a HR System","The contract is for the provision of a HR System to serve the group as a whole, bringing the different landlords together under a Group structure, means that we have a number of duplicated core systems. The aim of the new system is to gain efficiencies by reducing the number of systems supported.
+The contract duration is 3 years with an option to extend for a further 2 years.",,,"North East","48450000 48000000 72263000 72260000 72268000 72267000 72267100 ","Samantha Taylor",procurement@cdhg.co.uk,"Spectrum 6","Spectrum Business Park",Durham,"SR7 7TT",England,"+44 1913497777",,,"http://www.mytenders.org/search/show/search_view.aspx?ID=DEC136232 ",,18/10/2016,18/10/2019,19/09/2016,NO,,Yes,No,No,Services,112760,137996,13/12/2016,137996,"[Mhr|Ruddington Hall, Ruddington, Nottingham|||No|No]","James Collins",18/10/2016,18/10/2019,"Open ",
+227020,Contract,"University Of The West Of England",Awarded,2016-08-18T14:18:36Z,"UWE/015/2015E Consultancy for iTrent Implementation.","UWE/015/2015E Consultancy for iTrent Implementation. M2-M17 of Agreement Schedule 7.1",,,"South West","79631000 ","Helen Baker",Helen.Baker@uwe.ac.uk,"Coldharbour Lane",Frenchay,Bristol,"BS16 1QY",England,,,,,,17/06/2016,17/06/2016,17/06/2016,NO,,No,No,No,Services,150000,,17/06/2016,150000,"[MHR|Ruddington Hall
+Ruddington
+Nottingham|||No|No]",,17/06/2016,17/06/2016,"NotApplicable ",
+227154,Contract,"University Of The West Of England",Awarded,2016-08-15T15:38:36Z,"Software Licences for HR/Payroll System","Software Licences",,,"South West","48000000 ","Helen Baker",Helen.Baker@uwe.ac.uk,"Coldharbour Lane",Frenchay,Bristol,"BS16 1QY",England,,,,,,21/06/2016,21/06/2016,21/06/2016,NO,,No,No,No,Services,151092,,21/06/2016,151092,"[MHR|Ruddington Hall
+Ruddington
+Nottingham|||No|No]",,21/06/2016,21/06/2016,"NotApplicable ",
+"
+            MT181631",Contract,"Science Museum Group",Awarded,2016-08-11T16:45:10Z,"HR System & Payroll Service","The Group employ approximately 1100 staff on three payrolls (two of which will be paid via this solution, although HR records will be kept on this solution for all three payrolls), across six sites around the UK.  We have an agile, fluid organisation structure with a high number of part time and rostered employees, as well as frequent secondments to project teams and matrix working.
+The requirement is for a HR and payroll database solution with a payroll bureau service.  The payroll bureau service would tend towards the fully managed end of the scale.  SMG would engage with one key supplier who would manage the provision of all areas of the solution.  The system should either be a fully integrated HR and Payroll system or separate HR and Payroll systems with an established, reliable interface which could be adapted to SMG's data needs.",,,"Any region","79631000 79211110 ","Anthony Latham",feedback@sciencemuseum.org.uk,"Science Museum","Exhibition Road",London,"SW7 2DD","
+              England
+            ","+44 2079424000",http://www.sciencemuseum.org.uk,,"http://www.mytenders.org/search/show/search_view.aspx?ID=AUG129434 ",,24/09/2015,23/09/2019,15/05/2015,NO,,Yes,No,No,Services,305013,,23/09/2015,305013,"[Mhr|Ruddington Hall,Ruddington, Nottingham|||No|No]",,24/09/2015,23/09/2019,"Restricted ",
+138cbd34-32e9-4487-8bb5-97077cd3c5d0,Contract,"City of Wolverhampton College",Awarded,2020-09-21T10:11:40Z,"CA7533 - Further Competition: HR and Payroll System via CPC Corporate Software Framework","The City of Wolverhampton College has a requirement to appoint a supplier for the supply, implementation and maintenance of Human Resource and Payroll Management software. Although these are separate lots on the CPC Framework, the College is looking to appoint a single provider to supply an integrated solution.\
+\
+Includes Lots: \
+Lot 2: Human Resource Management System Software\
+Lot 3: Payroll System Software\
+\
+To access this competition: \
+\
+Registered:\
+Login to https://suppliers.multiquote.com and view the opportunity CA7533.\
+\
+Not registered:\
+Visit https://suppliers.multiquote.com then register and quote CA7533 as the reason for registration. \
+\
+ Any queries please contact MultiQuote on 0151 482 9230.",,"WV14 6BT","Any region","48000000 ","Daniel Harris",support@multiquote.com,"Wellington Road Campus",,Wolverhampton,"WV14 6BT",England,"0151 482 9230",https://suppliers.multiquote.com,,,,01/08/2020,31/07/2025,01/08/2020,NO,,Yes,No,No,Works,0,0,21/09/2020,60557,"[MHR|Ruddington Hall,  , Ruddington, NG11 6LL|NONE||No|No][MHR|Ruddington Hall,  , Ruddington, NG11 6LL|NONE||No|No]","Bid Team",01/08/2020,31/07/2025,"Open ",,00:00
+BIP538081122,Contract,"Watford Borough Council",Awarded,2020-10-30T09:45:03Z,"Payroll & HR Services","The provision of payroll and HR services, including an integrated HR system for Watford Borough Council, Three Rivers District Council and West Herts Crematorium with the flexibility to add further clients during the contract term.",,,"East of England","79631000 ",,howard.hughes@watford.gov.uk,"Town Hall",,Watford,"WD17 3EX",UK,+441923278370,,,"https://www.delta-esourcing.com/delta/respondToList.html?noticeId=538081122 ",,01/09/2020,31/03/2028,02/07/2020,NO,,Yes,No,No,Services,490085,,02/07/2020,490085,"[MHR International UK Limited|Britannia House
+        Mere Way
+        Nottingham
+        NG11 6JS|NONE||No|No]",,01/09/2020,31/03/2028,"Open ",,00:00
+BIP534034317,Contract,"Southway Housing Trust",Awarded,2020-10-16T12:00:27Z,"*** CONTRACT AWARD *** Integrated Recruitment, HR & Payroll Solution","This is a Contract Award Notice for the provision of a modern and integrated, single supplier Recruitment, HR, and Payroll solution",,,"North West","48000000 ","Jon Drummond",chris.shaw@shawc.co.uk,"Southern Gate","729 Princess Road",Manchester,"M20 2LT",UK,+4407722067596,,,"https://www.delta-esourcing.com/delta/respondToList.html?noticeId=534034317 ",,02/09/2020,01/04/2026,01/09/2020,NO,,Yes,No,No,Products,117043,179810,01/09/2020,117043,"[MHR International UK Limited|Peterbridge House
+        The Lakes
+        Northampton
+        NN4 7HB|NONE||No|No]",,02/09/2020,01/04/2026,"Open ",,00:00
+101180,Contract,"DEPARTMENT FOR DIGITAL, CULTURE, MEDIA & SPORT",Awarded,2020-09-02T15:43:02Z,"DCMS Hosted HR and Managed Payroll","Contract for the provision of iTrent HR and Payroll Software and managed payroll services.",,"SW1A 2BQ",,"48000000 ","DCMS Commercial",commercial@dcms.gov.uk,"100 Parliament Street",,London,SW1A2BQ,England,,,,,,31/05/2018,30/05/2020,10/05/2018,NO,,Yes,No,No,Services,406254,,20/05/2018,406254,"[MHR INTERNATIONAL UK LIMITED|Ruddington Hall,Loughborough Road, Ruddington
+NOTTINGHAM
+NOTTINGHAMSHIRE
+NG11 6LL
+GB|COMPANIES_HOUSE|01852206|Yes|No]",,31/05/2018,30/05/2020,"CallOffFromFrameworkAgreement ",,12:00
+TMHS097,Contract,"M H S Homes Ltd",Awarded,2020-08-26T14:31:52Z,"HR Payoll System","HR Payroll software system",,,"South East","48000000 72000000 ","Alexandra Hackwell",procurement@mhs.org.uk,"mhs homes",,CHATHAM,ME44LL,England,"01634 354138",,,,,31/07/2020,30/07/2022,31/07/2020,NO,,Yes,No,No,Products,63,63,31/07/2020,63086.35,"[MHR INTERNATIONAL UK LIMITED|Ruddington Hall,Loughborough Road, Ruddington
+NOTTINGHAM
+NOTTINGHAMSHIRE
+NG11 6LL
+GB|COMPANIES_HOUSE|01852206|Yes|No]",,31/07/2020,30/07/2022,"CallOffFromFrameworkAgreement ",,00:00
+BURY001-DN491589-88192782,Contract,"Bury Council",Awarded,2020-08-06T16:12:19Z,"Integrated HR and Payroll System","Contract for an integrated HR and Payroll hosted system via G-Cloud 11. For the period 1st August 2020 to 1st August 2022 with an option to extend for a further 2 x 12 month periods.",,,"North West","72200000 ","Malcolm Shaft",m.g.shaft@bury.gov.uk,"Town Hall","Knowsley Street",Bury,"BL9 0SW","United Kingdom","+44 1612536176",http://www.bury.gov.uk/,,,,01/08/2020,01/08/2022,30/07/2020,NO,,Yes,Yes,No,Services,653140.84,,30/07/2020,653140.84,"[MHR International UK Limited|Ruddington Hall, Loughborough Road, Ruddington, Nottinghamshire, NG11 6LL|NONE||No|No]","Neil McKinlay",01/08/2020,01/08/2022,"Other ",,00:00
+"UID 8432",Contract,"STAR Procurement",Awarded,2020-06-29T11:34:25Z,"HR & Payroll Software","Rochdale Council has awarded a contract for the provision of a HR & Payroll system hosted by the supplier.",,"OL16 1UX",,"72000000 ","Natalie McCarthy",natalie.mccarthy@star-procurement.gov.uk,"1FE Trafford Town Hall",,MANCHESTER,M320TH,England,01619121616,,,,,01/07/2020,30/06/2022,01/06/2020,NO,,No,No,No,Services,422832,694664,09/06/2020,422832,"[MHR INTERNATIONAL UK LIMITED|Ruddington Hall,Loughborough Road, Ruddington
+NOTTINGHAM
+NOTTINGHAMSHIRE
+NG11 6LL
+GB|COMPANIES_HOUSE|01852206|No|No]",,01/07/2020,30/06/2022,"CallOffFromFrameworkAgreement ",
+CAF195-18,Contract,Cafcass,Awarded,2020-06-17T12:08:38Z,"Payroll and HR software and hosting provision","FOR TRANSPARENCY PURPOSES ONLY awarded against G Cloud 10 Framework agreement RM155.10
+
+iTrent Payroll and HR software and hosting provision
+
+Contract awarded for 1 year with a 1 year optional extension
+This Call-Off Contract is for the provision of Services under:
+[Lot 1 - Cloud hosting]
+[Lot 2 - Cloud software]
+[Lot 3 - Cloud support]",,,England,"48000000 ",CAFCASS,procurement@cafcass.gov.uk,CAFCASS,"21 Bloomsbury Street",London,"WC1B 3HF",England,"0300 456 4000",https://www.cafcass.gov.uk,,,,01/01/2019,31/01/2020,03/12/2018,NO,,No,No,No,Services,63790,109200,03/12/2018,109200,"[MHR INTERNATIONAL UK LIMITED|Ruddington Hall,Loughborough Road, Ruddington
+NOTTINGHAM
+NOTTINGHAMSHIRE
+NG11 6LL
+GB|COMPANIES_HOUSE|01852206|No|No]",,01/01/2019,31/01/2020,"CallOffFromFrameworkAgreement ",
+"SSDC - HR",Contract,"STAFFORDSHIRE COUNTY COUNCIL",Awarded,2020-06-05T12:00:29Z,"HR and Payroll solution (G-Cloud Call-Off)","HR and Payroll solution to deliver a high quality, supportive and accurate hosting service to South Staffordshire District Council, a high quality and streamlined data processing approach for the HR IT system and data reporting solution.",,,"West Midlands","48000000 ","Paul Taylor-Grime",paul.taylor-grime@staffordshire.gov.uk,"2 Staffordshire Place",,STAFFORD,ST162LP,England,"01785 854510",,,,,31/03/2020,31/03/2022,10/02/2020,NO,,Yes,No,No,Products,58852,58852,23/03/2020,58852,"[MHR INTERNATIONAL UK LIMITED|Peterbridge House, The Lakes, Northampton, United Kingdom, NN4 7HB|COMPANIES_HOUSE|1852206|No|No]",,31/03/2020,31/03/2022,"CallOffFromFrameworkAgreement ",
+"UID 8433",Contract,"STAR Procurement",Awarded,2020-05-07T08:34:03Z,"HR & Payroll Solution","Trafford Metropolitan Borough Council have awarded a contract for an Integrated Human Resource System and Hosting for themselves and Greater Manchester Police (GMP)",,,"North West","72000000 ","Natalie McCarthy",natalie.mccarthy@star-procurement.gov.uk,"1FE Trafford Town Hall",,MANCHESTER,M320TH,England,01619121616,,,,,01/04/2020,31/03/2022,02/03/2020,NO,,Yes,No,No,Services,900080,1492560,24/03/2020,900080,"[MHR INTERNATIONAL UK LIMITED|Ruddington Hall,Loughborough Road, Ruddington
+NOTTINGHAM
+NOTTINGHAMSHIRE
+NG11 6LL
+GB|COMPANIES_HOUSE|01852206|No|No]",,01/04/2020,31/03/2022,"CallOffFromFrameworkAgreement ",
+"UID 8107",Contract,"STAR Procurement",Awarded,2020-05-07T08:16:41Z,"HR & Payroll System & Hosting","Stockport Metropolitan Borough Council have awarded a contract for an Integrated Human Resource System and Hosting",,,"North West","72000000 ","Natalie McCarthy",natalie.mccarthy@star-procurement.gov.uk,"1FE Trafford Town Hall",,MANCHESTER,M320TH,England,01619121616,,,,,31/03/2020,31/03/2022,02/03/2020,NO,,Yes,No,No,Services,456867.52,722625.04,24/03/2020,456867.52,"[MHR INTERNATIONAL UK LIMITED|Ruddington Hall,Loughborough Road, Ruddington
+NOTTINGHAM
+NOTTINGHAMSHIRE
+NG11 6LL
+GB|COMPANIES_HOUSE|01852206|No|No]",,31/03/2020,31/03/2022,"CallOffFromFrameworkAgreement ",
+2044-2019,Contract,"South Yorkshire Police Headquarters",Awarded,2020-03-03T14:37:11Z,"Award of a Contract for West Yorkshire Police Payroll Service","Award of a contract for payroll services from G Cloud 11.",,,"Yorkshire and the Humber","79631000 ","Bhagy Mistry",bhagy.mistry@southyorks.pnn.police.uk,"5 Carbrook Hall Road",,SHEFFIELD,S92EH,England,,,,,,13/12/2019,12/12/2023,12/12/2019,NO,,No,No,No,Services,1049280,,13/12/2019,1049280,"[MHR INTERNATIONAL UK LIMITED|Ruddington Hall,Loughborough Road, Ruddington
+NOTTINGHAM
+NOTTINGHAMSHIRE
+NG11 6LL
+GB|COMPANIES_HOUSE|01852206|No|No]",,13/12/2019,12/12/2023,"CallOffFromFrameworkAgreement ",
+CN0597,Contract,"Gambling Commission",Awarded,2020-01-28T14:48:13Z,"Managed Payroll Services","Supply of Software and Payroll Service",,,"Any region","79211110 ","Ben Valentine",bvalentine@gamblingcommission.gov.uk,"4th Floor, Victoria Square House Victoria Square",,Birmingham,B24BP,England,07813149597,,,,,17/12/2019,16/12/2021,16/12/2019,NO,,Yes,No,No,Services,193547,193547,17/12/2019,129453,"[MHR INTERNATIONAL UK LIMITED|Ruddington Hall,Loughborough Road, Ruddington
+NOTTINGHAM
+NOTTINGHAMSHIRE
+NG11 6LL
+GB|COMPANIES_HOUSE|01852206|No|No]",,17/12/2019,16/12/2021,"CallOffFromFrameworkAgreement ",
+"GLD015 CB",Contract,"Government Legal Service",Awarded,2019-12-03T15:55:05Z,"GLD015 CB: Hosted HR and Managed Payroll","For the provision of the iTrent HR and Payroll software for up to 3000 employees",,,"Any region","30000000 48000000 72000000 ","Chris Stonehouse",chris.stonehouse@governmentlegal.gov.uk,"102 Petty France",,London,SW1H9AJ,England,"020 7210 1453",,,,"Call off from a Framework Agreement",01/05/2019,30/04/2021,19/04/2019,NO,,No,No,No,Products,343610.74,,19/04/2019,343610.74,"[MHR INTERNATIONAL UK LIMITED|Ruddington Hall,Loughborough Road, Ruddington
+NOTTINGHAM
+NOTTINGHAMSHIRE
+NG11 6LL
+GB|COMPANIES_HOUSE|01852206|No|No]",,01/05/2019,30/04/2021,"CallOffFromFrameworkAgreement ",
+TPR1056,Contract,"DEPARTMENT FOR WORK AND PENSIONS",Awarded,2019-10-03T14:40:19Z,"HR & Payroll Solution","Payroll & HR Software Services",,,"South East","79211110 ","Neil Goddard",neil.goddard@thepensionsregulator.gsi.gov.uk,"Napier House","Trafalgar Place",Brighton,"BN1 4DW",England,01273627259,,,,,01/07/2019,30/06/2021,30/06/2019,NO,,No,No,No,Services,150513,,30/06/2019,150398,"[MHR International|Peterbridge House
+The Lakes
+Northampton
+NN4 7HB|COMPANIES_HOUSE|1852206|No|No]",,01/07/2019,30/06/2021,"CallOffFromFrameworkAgreement ",
+tender_195599/800569,Contract,"Big Lottery Fund, operating as The National Lottery Community Fund",Awarded,2019-09-24T11:19:08Z,"BIG001-0878 Hosted HR & Payroll and Bureau Service","Replace its numerous on-premise Human Resources systems, with a cloud-based solution, Software as a Service (SaaS) solution for effective people management HRMS.",,,"Any region","48000000 48450000 79211110 79631000 ","Procurement Team",procurement@tnlcommunityfund.org.uk,"1 Plough Place",,London,"EC4A 1DE",England,,https://www.tnlcommunityfund.org.uk/about/customer-service/supplier-zone,,,,17/04/2019,16/04/2021,15/01/2019,NO,,Yes,No,No,Services,0,,24/09/2019,0.01,"[MHR International UK Limited|Ruddington Hall, Ruddington, Nottingham, Nottinghamshire, NG11 6LL, UNITED KINGDOM|NONE||No|No]","Julie Mills",17/04/2019,16/04/2021,"CallOffFromFrameworkAgreement ",
+"BHCC - 007160",Contract,"BRIGHTON & HOVE CITY COUNCIL",Awarded,2019-08-07T15:14:27Z,"BHCC Hosted iTrent HR and Payroll software","Hosted HR and Payroll software and Bureau Payroll Services, for HR and Payroll purposes internally within the Customer's organisation.",,,"South East","48000000 ","Procurement Team",procurement@brighton-hove.gov.uk,"Grand Avenue",,HOVE,BN32LS,England,"01273 291949",,,,,14/04/2019,13/08/2020,01/04/2019,NO,,No,No,No,Services,200000,,02/04/2019,200000,"[MHR INTERNATIONAL UK LIMITED|Ruddington Hall,Loughborough Road, Ruddington
+NOTTINGHAM
+NOTTINGHAMSHIRE
+NG11 6LL
+GB|COMPANIES_HOUSE|01852206|No|No]",,14/04/2019,13/08/2020,"CallOffFromFrameworkAgreement ",
+"EHRC 1819-13",Contract,"EQUALITY AND HUMAN RIGHTS COMMISSION",Awarded,2019-07-05T08:33:54Z,"EHRC 1819-13 HR and Payroll System","G-cloud services for an integrated Human Resources and Payroll System",,,"North West,London,Scotland,Wales","48000000 ",,procurementhelpdesk@equalityhumanrights.com,"Arndale House, The Arndale Centre",,MANCHESTER,M43AQ,England,,,,,,03/12/2018,02/12/2020,30/11/2018,NO,,Yes,No,No,Services,186467.4,,30/11/2018,186467.4,"[MHR INTERNATIONAL UK LIMITED|Ruddington Hall,Loughborough Road, Ruddington
+NOTTINGHAM
+NOTTINGHAMSHIRE
+NG11 6LL
+GB|COMPANIES_HOUSE|01852206|No|No]",,03/12/2018,02/12/2020,"CallOffFromFrameworkAgreement ",
+SFO/CS/HR/iTrent,Contract,"Serious Fraud Office",Awarded,2019-05-31T11:50:05Z,iTrent,"G Cloud 10 Award for iTrent software.",,,London,"48450000 ","Daniel Fagan",daniel.fagan@sfo.gsi.gov.uk,"2-4 Cockspur Street",,London,SW1Y5BS,England,02072397495,,,,,01/06/2019,31/05/2021,31/05/2019,NO,,No,No,No,Services,53891,,22/05/2019,53891,"[MHR International UK Ltd|Ruddington Hall,
+Ruddington, 
+nottingham,
+NG11 6LL|COMPANIES_HOUSE|1852206|No|No]","Laurell Mitchell",01/06/2019,31/05/2021,"CallOffFromFrameworkAgreement ",
+BIP382328242,Contract,"Plus Dane Housing Limited",Awarded,2019-03-11T08:00:17Z,"Provision of a People Management System","Plus Dane Housing Ltd seeks to appoint a competent and experienced Service Provider to provide a cloud hosted, fully integrated, HR, OD &, HMRC compliant, Payroll solution that can be accessed securely by its employees, managers and service specialists.",,,"North West","79631000 ",,carol.rabone@plusdane.co.uk,"13-15 Rodney Street",,Liverpool,"L1 9EF",UK,,,,"https://www.delta-esourcing.com/delta/respondToList.html?noticeId=382328242 ",,11/03/2019,21/02/2024,22/02/2019,NO,,Yes,No,No,Services,167000,,22/02/2019,167000,"[MHR International UK Ltd|Loughborough Road,
+        Nottingham
+        NG11 6LL|NONE||No|No]",,11/03/2019,21/02/2024,"Open ",
+"DN331042 (Award)",Contract,"Wakefield Council Customer Service",Awarded,2018-12-12T10:58:56Z,"HR & Payroll System","Provision of a fully hosted and supported HR & Payroll System.  The contract will be awarded for an initial contract period of 5 years from Go Live (plus implementation period).  Extension options will be available beyond this initial contract period to allow extensions up to a maximum of 15 years.
+
+The Tender is advertised at www.yortender.co.uk with reference: DN331042.
+
+Please download all tender documents in the first instance and use the messaging function on www.yortender.co.uk ref DN331042 to ask any questions.
+
+All tenders must be submitted via www.yortender.co.uk by 12:00 midday on 28/06/2018.",,,"Yorkshire and the Humber","48000000 ","Helen Spink",hspink@wakefield.gov.uk,"Wakefield One Po Box 700,Burton Street",,WAKEFIELD,WF12EB,England,07717701090,,,,,01/11/2018,31/03/2035,28/06/2018,YES,"DN331042 (Tender)",Yes,Yes,No,Services,3000000,,30/11/2018,793792.45,"[MHR INTERNATIONAL UK LIMITED|Ruddington Hall,Loughborough Road, Ruddington
+NOTTINGHAM
+NOTTINGHAMSHIRE
+NG11 6LL
+GB|COMPANIES_HOUSE|01852206|No|No]","Julie Mills",01/12/2018,30/11/2033,"OpenOJEU ",
+"1580 - 2017",Contract,"South Yorkshire Police Headquarters",Awarded,2018-07-17T12:49:43Z,"NORTH YORKSHIRE POLICE PAYROLL","Award of Contract for Payroll Services for North Yorkshire Police",,,"Yorkshire and the Humber","48000000 ","Carole Carrigan",carole.carrigan@southyorks.pnn.police.uk,"5 Carbrook Hall Road",,SHEFFIELD,S92EH,England,01924294924,,,,,31/07/2018,30/07/2020,30/06/2018,NO,,No,No,No,Services,236990.6,,30/06/2018,236990.6,"[MHR INTERNATIONAL UK LIMITED|Ruddington Hall,Loughborough Road, Ruddington
+NOTTINGHAM
+NOTTINGHAMSHIRE
+NG11 6LL
+GB|COMPANIES_HOUSE|01852206|No|No]","Julie Mills",31/07/2018,30/07/2020,"CallOffFromFrameworkAgreement ",
+BIP313532926,Contract,"UNIVERSITY OF DERBY",Awarded,2018-04-21T11:54:08Z,"HRMS, Payroll and Related Services system","The University of Derby wishes to invite tenders for the design, supply and installation of a HMRS, Payroll and Related Services system within the University of Derby group.",,,"East Midlands","48450000 ",,j.brailsford@derby.ac.uk,"Kedleston Road",,Derby,"DE22 1GB",UK,+441332592401,,,"https://www.delta-esourcing.com/delta/respondToList.html?noticeId=313532926 ",,23/04/2018,01/02/2019,17/04/2018,NO,,Yes,No,No,Products,716900,,17/04/2018,716900,"[MHR International UK Ltd|Mere Way
+        Ruddington
+        Nottinghamshire
+        NG11 6JS|NONE||No|No]",,23/04/2018,01/02/2019,"Open ",
+GW-LS-CS,Contract,"GATEWAY HOUSING ASSOCIATION LIMITED",Awarded,2018-02-03T13:12:53Z,"HR and Payroll system","Awarded contract for Integrated HR and Payroll software package",,,London,"30000000 ","Lynne Shea",lynne.shea@gatewayhousing.org.uk,"409-413 Mile End Road",,London,E34PB,England,02087094300,,,,,31/10/2017,31/10/2022,08/09/2017,NO,,Yes,No,No,Services,83000,,01/10/2017,83000,"[MHR INTERNATIONAL UK LIMITED|Ruddington Hall,Loughborough Road, Ruddington
+NOTTINGHAM
+NOTTINGHAMSHIRE
+NG11 6LL
+GB|COMPANIES_HOUSE|01852206|No|No]",,31/10/2017,31/10/2022,"SingleTenderActionNonOJEU ",
+ICTJC2017/03G1,Contract,"Tourism Ireland",Awarded,2018-01-19T14:11:15Z,"Implementation, Maintenance and Support of a Cloud Based HR Solution","Tourism Ireland requires a Human Resources Software Package which contains the following functions:-
+o Core HR data management including employee self service and
+manager self service
+o Leave Management
+o Time and Attendance Management
+o Learning and Development Management including recording and
+approval of training requests
+o Recording details of benefits for example salary, pension
+information, deductions etc.
+o Dynamic and Sophisticated Reporting including a Dashboard for HR, Administrators and Managers
+o Optionally, Organisation Chart Production
+This will be an off the shelf Human Resources Software Package which can be customised within the capabilities of the solution without bespoke development.
+The solution procured must work responsively across all digital devices,including traditional desktop and laptop, hybrid devices, tablet and smart phones in a variety of operating systems.
+The solution procured can be cloud based.
+In addition to the provision of the package, the successful tendering
+company should also provide for managed services and annual support of the application.",,,"Northern Ireland","48450000 72212450 ","Jackie Cunningham",jcunningham@tourismireland.com,"Tourism Ireland","Beresford House, 2 Beresford Road",Coleraine,"BT52 1GE","Northern Ireland",,,,,,12/12/2017,11/12/2019,11/12/2017,NO,,No,No,No,Services,0,,11/12/2017,0,"[MHR INTERNATIONAL UK LIMITED|Ruddington Hall,Loughborough Road, Ruddington
+NOTTINGHAM
+NOTTINGHAMSHIRE
+NG11 6LL
+GB|COMPANIES_HOUSE|01852206|No|No]","Eamon Rheinisch",12/12/2017,11/12/2019,"Other Call Off Contract for G-Cloud Framework Agreement (RM1557ix)",
+"UKHO 4500052642",Contract,"THE UNITED KINGDOM HYDROGRAPHIC OFFICE",Awarded,2017-02-13T15:36:52Z,"Human Resources and Payroll Management System","Contract for the supply, implementation and support of a hosted, integrated human resources and payroll management system",,,"South West","72000000 ",,procurement@ukho.gov.uk,"Admiralty Way",,Taunton,"TA1 2DN",England,,,,,,31/12/2016,31/12/2021,19/09/2016,NO,,Yes,Yes,No,NotSpecified,266719,,21/12/2016,266719,"[Midland Software Ltd (trading as MHR)|Peterbridge House, 3 The Lakes, Northampton, NN4 7HB|||No|No]",,31/12/2016,31/12/2021,"NotSpecified ",
+20190524083105-29016,Contract,"BCH Procurement (Representing The Police and Crime Commissioners for Bedfordshire, Cambridgeshire and Hertfordshire )",Awarded,2019-05-24T08:31:10Z,"Occupational Health Management System for Bedfordshire Police and Hertfordshire and Cambridgeshire Constabulary","BCH have identified a requirement for an Occupational Health and Health and Safety system initially to support HR but scalable to support wider business areas in the future. The system will enhance the customer service provision via automation i.e. using technology to streamline and standardise the management of business processes, customer queries and general feedback underpinned by Service Level Agreements (SLA) to ensure all requests are promptly managed in a consistent, effective and efficient manner. This will supplement the enhancements and automation being delivered by the new ABLE ERP solution comprising MHR iTrent HR & Payroll, Northgate CARM Duty Management and Advanced E-Financials.",,,"East of England","48311100 48612000 48900000 72212900 ","Laura Footner",laura.footner@herts.pnn.police.uk,"Royston Police Station, Melbourn Street",,Royston,"SG8 7BZ",ENG,"+44 1438757993",,,"https://uk.eu-supply.com/app/rfq/rwlentrance_s.asp?PID=25951&B=BLUELIGHT https://uk.eu-supply.com/ctm/Company/CompanyInformation/Index/29016 ",,03/06/2019,03/06/2026,22/11/2018,NO,,Yes,No,No,Products,120000,164000,26/02/2019,164000,"[Warwick International Computing Systems|Warwick House
+Woodhouse Road
+Horsley Woodhouse
+DE7 6AY|NONE||No|No]","Howard Watson",25/06/2019,25/06/2026,"Open ",
+"MHR 180316",Contract,"Council Of The Isles Of Scilly",Awarded,2016-03-18T17:08:13Z,"Mundesley Boarding House Heating and Hot Water Replacement","The Council of the Isles of Scilly as owners of Mundesley Boarding House are planning a comprehensive upgrade and enhancement of the heating and hot water systems of the property. Mundesley Boarding House provides residential accommodation for up to 30 young people during term time. The objective of the heating and hot water upgrade is to replace the existing oil fired wet system with a new electrical / thermodynamic system to ensure that the building operates to its greatest energy efficiency whilst maintaining satisfactory conditions for the occupants. The Council is seeking to contract with a suitable supplier for the design and installation of the electrical/thermodynamic system.",,,"South West","71321000 45315000 ","Sean Parsons",MHR@scilly.gov.uk,"Council of the Isles of Scilly","Town Hall","St Mary's, Isles of Scilly",TR210LW,England,,http://www.scilly.gov.uk/business-licensing/contracts/current-contracts/mundesley-boarding-house-and-flats-heating-and-hot,,,,02/05/2016,03/10/2016,15/04/2016,NO,,Yes,No,No,Works,40000,50000,02/05/2016,0,"[This contract was not awarded - no offers received|This contract was not awarded - no offers received|||No|No]",,02/05/2016,02/05/2016,"Other ",

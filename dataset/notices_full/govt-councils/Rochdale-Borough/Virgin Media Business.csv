@@ -1,0 +1,449 @@
+"Notice Identifier","Notice Type","Organisation Name",Status,"Published Date",Title,Description,Nationwide,Postcode,Region,"Cpv Codes","Contact Name","Contact Email","Contact Address 1","Contact Address 2","Contact Town","Contact Postcode","Contact Country","Contact Telephone","Contact Website",Attachments,Links,"Additional Text","Start Date","End Date","Closing Date","Is sub-contract","Parent Reference","Suitable for SME","Suitable for VCO","Supply Chain","OJEU Contract Type","Value Low","Value High","Awarded Date","Awarded Value","Supplier [Name|Address|Ref type|Ref Number|Is SME|Is VCSE]","Supplier's contact name","Contract start date","Contract end date","OJEU Procedure Type","Accelerated Justification","Closing Time"
+LEEDSCITY001-DN454566-01506468,Contract,"Leeds City Council",Awarded,2019-12-20T16:35:50Z,"ITS202112 Internet Circuit Uplift","Using CCS Framework RM3808, award a call-off order to Virgin Media Business Ltd for increased Internet Connectivity for a 5 year period from 01 January 2020 to 31 December 2024.",,,"Yorkshire and the Humber","72400000 ",,its.procurement@leeds.gov.uk,"St George House","2nd Floor, 40 Great George Street",Leeds,"LS1 3DL",England,"+44 1133784357",http://www.leeds.gov.uk,,,,01/01/2020,31/12/2024,13/12/2019,NO,,No,No,No,Services,259981,259981,20/12/2019,259981.65,"[Virgin Media Business Ltd|500 Brook Drive, Reading, RG2 6UU|NONE||No|No]",,01/01/2020,31/12/2024,"NotApplicable ",
+tender_190603/784374,Contract,"Public Health England",Awarded,2019-07-15T17:04:59Z,"PHE - ITC - WAN","PHE has awarded a contract to Virgin Media Business to provide a UK wide Wide Area MPLS Network that connects nationwide sites to PHE's data centres in Colindale, London & Salisbury, Wiltshire.",,,"Any region","48000000 ","Michael Brodie",michael.brodie@phe.gov.uk,"Wellington House, 133-155 Waterloo Road, London",,London,"SE1 8UG",England,,,,,,01/05/2019,30/04/2022,28/03/2019,NO,,No,No,No,Services,1488705,,28/03/2019,1488705,"[Virgin Media Business|Media House, Bartley Wood Business Park, Bartley Way, Hook, Hampshire RG27 9UP|NONE||No|No]","Rob Orr",01/05/2019,30/04/2022,"CallOffFromFrameworkAgreement ",
+NPSBARNS001-DN409029-42864860,Contract,"Barnsley Metropolitan Borough Council",Awarded,2019-05-08T13:55:41Z,"300mbps VMB Non YHPSN Circuit","Tuscan Connects Limited operated a number of services on behalf of Barnsley MBC over a 300Mbps Internet circuit delivered to Beevor Court by Virgin Media Business (VMB).  The services that TCL operated transitioned to Barnsley MBC with the circuit when the TCL contract with Bull Information Systems was terminated.  Since that time, work has been undertaken to release the 300Mbps VMB Internet circuit and so it is no longer required.",,,"Any region","32000000 48000000 ",,contractscommissioning@barnsley.gov.uk,"Gateway Plaza","Off Sackville Street",Barnsley,"S70 2RD",England,,https://www.yortender.co.uk,,,,28/02/2019,27/02/2020,11/02/2019,NO,,No,No,No,Services,11617,11617,21/02/2019,11617,"[Virgin Media Business|Bartley Wood Business Park, Bartley Wood Business Park, Hampshire, Bartley Wood Business|NONE||No|No]",,28/02/2019,27/02/2020,"Other ",
+tender_198631/744470,Contract,HS2,Awarded,2019-02-08T13:34:19Z,"Provision of additional LAN and Wi-Fi equipment including installation and support at HS2 Office.","A contract has been awarded to Virgin Media Business for the provision of additional LAN and Wi-Fi services, including installation and 12 months support.",,,London,"72710000 ","Stephen Mann",stephen.mann@hs2.org.uk,"2 Snow Hill Queensway, Snowhill",,Birmingham,"B4 6GA",England,,,,,,11/02/2019,31/03/2020,01/02/2019,NO,,No,No,No,Products,66015,,01/02/2019,66015.93,"[Virgin Media Business|Media House, Bartley Wood Business Park, Hook, Hampshire, RG27 9UP|COMPANIES_HOUSE|01785381|No|No]",,11/02/2019,31/03/2020,"SingleTenderActionNonOJEU ",
+tender_172485/677347,Contract,HS2,Awarded,2018-05-27T17:32:55Z,"Contract for the Provision of additional  Wide Area Network (WAN) Services","A contract has been awarded to Virgin Media Business for the provision of additional Wide Area Network (WAN) services as a call off under the Crown Commercial Services (CCS) Network Services Framework Agreement RM1045 in accordance with the suppliers offering reference RM1045-LOT1-VMB-VMBSSO0063 in the catalogue Publication Portal.",,,"West Midlands,London","64000000 ","Stephen Mann",stephen.mann@hs2.org.uk,"2 Snow Hill, Queensway",,Birmingham,"B4 6GA",England,,,,,,01/06/2018,31/07/2019,23/05/2018,NO,,No,No,No,Services,213487,,23/05/2018,213487,"[Virgin Media Business|Media House, Bartley Wood Business Park, Bartley Way, Hook, RG27 9UP|NONE||No|No]",,01/06/2018,31/07/2019,"Other ",
+20170112095140-36335,Contract,"Yorkshire and Humber Police Procurement (Y&HPP)",Awarded,2017-01-12T09:51:43Z,"A Network Services Contract to include Voice and Data Solutions","NYP (North Yorkshire Police) is currently in / approaching its final year of its WAN 
+(Wide Area Network) and LAN (Local Area Network) contracts with VMB (Virgin 
+Media Business). The WAN contract has already been extended to the maximum 
+term permitted.  NYP is required to have a compliant network under the PSN-P 
+legislation a further tender is required to ensure that a compliant solution 
+remains in place.
+Furthermore, NYP are moving to a new HQ in Northallerton in 2017 and will 
+require network connection at Alverton Court in March 2017. It is intended that 
+this would be the first phase of work under a new contract. NYP's Wi-Fi 
+maintenance contract expires in February 2017 and this scope of work will be 
+included in this tender. 
+Being a geographically large and rural county there are significant challenges in 
+ensuring that quality network connectivity is maintained on a 24/7/365 basis. 
+The scope of the proposed contract will include a scalable, highly available and 
+affordable solution. All NYP sites will be included in the scope with the project 
+linking into the NYP Estates Strategy and the contract will allow for rationalisation  
+of buildings and locations throughout the contract term.
+Potential suppliers will be required to demonstrate that they can provide a 
+suitable and affordable solution. It is expected that a blend of MPLS 
+(Multiprotocol Label Switching) cloud service options will be proposed to help 
+reduce annual revenue costs. 
+Due to the increased level of services running from NYP's two data centres an 
+increased bandwidth option is required. This is will be an increase above current 
+bandwidth levels to ensure availably and disaster recovery is maintained for 
+current and future systems.
+During the transition from the current network to a new solution, some disruption 
+will be encountered, however the proposed solution will ensure that this will be 
+removed or reduced where possible.",,,"Yorkshire and the Humber","72710000 72720000 ","Gerald Foster",gerald.foster@southyorks.pnn.police.uk,"North Yorkshire Police, Newby Wiske HQ.","Newby Wiske",Northallerton,"DL7 9HA",ENG,01609643499,,,"https://uk.eu-supply.com/app/rfq/rwlentrance_s.asp?PID=16562&B=BLUELIGHT https://uk.eu-supply.com/ctm/Company/CompanyInformation/Index/36335 ",,13/09/2016,12/09/2021,19/08/2016,NO,,No,No,No,Services,4200000,4500000,12/01/2017,4200000,"[Virgin Media Business|Media House, Bartley Way, Bartley Wood Business Park, Hook, Hampshire RG27 9UP|||No|No]","David Colston",13/09/2016,12/09/2021,"Other ",
+"(NRTS2) Third Party Telecoms  (Service Category 7 (SC7)) - Virgin Media",Contract,"HIGHWAYS ENGLAND COMPANY LIMITED",Awarded,2019-04-10T15:06:19Z,"National Roads Telecommunications Service (NRTS2) Third Party Telecoms  (Service Category 7 (SC7)) - Virgin Media","NRTS2 Third Party Telecoms",,,"Any region","72000000 ",,transparencysgrm@highwaysengland.co.uk,"The Cube",,Birmingham,"B1 1RN",England,,,,,,16/03/2018,16/03/2025,15/03/2018,NO,,No,No,No,Services,2060564,2060564,15/03/2018,2060564,"[Virgin Media Business|Media House, Bartley Wood Business Park, Hook, Hampshire, RG27 9UP|NONE||No|No]",,16/03/2018,16/03/2025,"SingleTenderActionNonOJEU ",
+CCSO17B01,Contract,"CROWN COMMERCIAL SERVICE",Awarded,2017-04-26T12:49:28Z,"Provision of Site to Site Connectivity","Redacted Contract Award Letter for Provision of Site to Site Connectivity",,SA67JL,,"32000000 ","Steven Lewis",Steve.lewis@crowncommercial.gov.uk,"CCS, Concept House, Cardiff Road,",,Newport,"NP10 8QQ",Wales,07909856691,,"Site to Site Connectivity - Redacted.pdf ",,,10/04/2017,09/04/2022,24/03/2017,NO,,Yes,No,No,Services,386665.5,,09/04/2017,386665.5,"[Virgin Media Business|Unit A & B Fountain Court Cardiff CF3 0FB|||No|No][Virgin Media Business|Unit A & B Fountain Court Cardiff CF3 0FB|||No|No]",,10/04/2017,09/04/2022,"Other ",
+"UID 8373",Contract,"STAR Procurement",Awarded,2020-08-06T12:53:50Z,"Trafford Council WAN Services","Trafford Council have awarded a contract to Virgin Media for their WAN Services.",,,"North West","72410000 ","Natalie McCarthy",natalie.mccarthy@star-procurement.gov.uk,"1FE Trafford Town Hall",,MANCHESTER,M320TH,England,01619121616,,,,,20/12/2019,19/12/2021,01/11/2019,NO,,No,No,No,Services,577119,,02/12/2019,577119.66,"[VIRGIN MEDIA BUSINESS LIMITED|Media House, Bartley Wood Business Park,Bartley Way
+HOOK
+Hampshire
+RG27 9UP
+GB|COMPANIES_HOUSE|01785381|No|No]","Tom Proffitt",20/12/2019,19/12/2021,"CallOffFromFrameworkAgreement ",,14:00
+"UID 8374",Contract,"STAR Procurement",Awarded,2020-08-06T12:45:19Z,"WAN Services for Stockport Council","Stockport Council have awarded a contract to Virgin Media for WAN services.",,,"North West","72410000 ","Natalie McCarthy",natalie.mccarthy@star-procurement.gov.uk,"1FE Trafford Town Hall",,MANCHESTER,M320TH,England,01619121616,,,,,01/12/2019,01/12/2021,01/11/2019,NO,,No,No,No,Services,908130,,29/11/2019,908130.6,"[Virgin Media Business Limited|500 Brook Drive
+Reading
+RG2 6UU|COMPANIES_HOUSE|01785381|No|No]","Tom Proffitt",01/12/2019,01/12/2021,"CallOffFromFrameworkAgreement ",,14:00
+LEEDSCITY001-DN379062-24686008,Contract,"Leeds City Council",Awarded,2018-12-06T16:01:09Z,"ITS201333 - Data Connectivity to Schools (Call off under CCS RM1045 Network Services - Lot 1)","Connectivity for Schools with Virgin Media via CCS Framework RM1045",,,"Yorkshire and the Humber","32412000 ","Phil Elvidge",phil.elvidge@leeds.gov.uk,"St George House","2nd Floor, 40 Great George Street",Leeds,"LS1 3DL","United Kingdom",01133784493,http://www.leeds.gov.uk,,,,01/01/2019,31/03/2021,19/11/2018,NO,,No,No,No,NotSpecified,397543,397543,06/12/2018,397543,"[Virgin Media Business|Bartley Wood Busines|NONE||No|No]","MRS PAULA MULLINS",01/01/2019,31/03/2021,"DirectAward ",
+"Proc 96-2017",Contract,"COMPETITION AND MARKETS AUTHORITY",Awarded,2018-03-22T11:14:55Z,"PSN services","CMA is looking to adjust the scope and capacity of  its VPN/PSN/SIP/Internet services and the underpinning network topology to cope with growth and support the second phase of its Cloud Strategy by adding additional scope to the Virgin contract to improve direct connection to the Azure platform via Express Route and eventually to reduce DR to VH bandwidth and allow for the eventual removal of PSN access",,,London,"32000000 ","Roopali Khurana",roopali.khurana@cma.gsi.gov.uk,"VICTORIA HOUSE, SOUTHAMPTON ROW",,LONDON,WC1B4AD,England,"02037386174 ext 6174",,,,,08/01/2018,08/01/2020,05/01/2018,NO,,No,No,No,Services,409948,,05/01/2018,0,"[VIRGIN MEDIA BUSINESS LIMITED|Bartley Way
+Hook
+Hampshire
+RG27 9UP
+GB|COMPANIES_HOUSE|01785381|No|No]",,08/01/2018,08/01/2020,"CallOffFromFrameworkAgreement ",
+02360,Contract,"UNIVERSITY HOSPITALS BIRMINGHAM NHS FOUNDATION TRUST",Awarded,2020-04-30T11:10:26Z,"Rental Charges","Media rental charges 19/20",,,"West Midlands","85000000 ","kerry pollard",kerry.pollard@uhb.nhs.uk,"Regents Court",,Birmingham,"B15 1NU",England,,,,,,17/05/2019,31/03/2020,14/05/2019,NO,,No,No,No,Services,0,,16/05/2019,46870,"[VIRGIN MEDIA BUSINESS LIMITED|Media House, Bartley Wood Business Park,Bartley Way
+HOOK
+Hampshire
+RG27 9UP
+GB|COMPANIES_HOUSE|01785381|No|No]","Jean Hanson",17/05/2019,31/03/2020,"SingleTenderActionNonOJEU ",
+RM1045,Contract,"CROWN COMMERCIAL SERVICE",Awarded,2015-11-20T17:46:57Z,"RM1045 Network Services","Crown Commercial Service (the Contracting Authority) has put in place a pan Government Agreement for mechanisms to access and gain connectivity and telecommunication services including services over the
+Public Services Network (PSN) for use by or on behalf of the UK public sector bodies listed at VI.3 of the Contract Notice (and any future successors to these organisations).
+
+The listed public sector bodies have a need for the provision of connectivity, telecommunications and other services, including PSN compliant services and non PSN compliant services, to facilitate inter-organisational collaboration through secure communication, interoperability and sharing of information.
+
+This Framework Agreement addresses this need by facilitating the provision of innovative connectivity and telecommunications and other services for the UK public sector as a whole. The services available under the Framework Agreement include data access services; local connectivity services; traditional telephony services; inbound telephony services; IP-telephony solutions; mobile, voice and data services; paging services; video conferencing; audio conferencing; and integrated communications services. Including, but not limited to, networks, Wi-Fi, gateways & related services; voice lines and minute bundles; mobile services including voice and data, pager services; email services; internet service provision, content filtering services and intruder detection systems; communication services including video and audio conferencing services, and unified communications; call centre services; and associated supporting services including but not limited to security, information assurance, design/build/operate consultancy, acquisition, technology audit and site surveys; and other services as described in the Contract Notice (provided as an attachment); the Framework Agreement; the Call Off Terms; and the Call Off Order Form .
+
+The Framework Agreement is suitable for the provision of services that are PSN compliant; and also for the provision of services at lower security levels; or that do not require PSN compliance.
+
+The services are required to be provided primarily to the UK, although the Framework Agreement may also be used by UK contracting authorities to service their overseas sites. The Contracting Authority considers that this Procurement may be suitable for economic operators that are Small or Medium Enterprises (SMEs). No weight was attached to whether or not an economic operator was an SME when assessing the most economically advantageous tender.
+
+The Framework Agreement will have an initial term of two (2) years with the option to extend by two further terms of up to one (1) year each. 
+
+Electronic auctions may be employed by Contracting Bodies using the Framework Agreement.
+
+Any stated contract values are merely estimates  of likely business.  We have not guaranteed any level of business under this Framework Agreement.",,,"Any region","64200000 ","The Minister for the Cabinet Office acting through Crown Commerc",supplier@crowncommercial.gov.uk,"9th Floor, The Capital, Old Hall Street",,Liverpool,"L3 9PP",England,,,"Network Services - Contract Notice - 359946.pdf RM1045 Network Services Description of Lots FINAL.docx RM1045 Network Services Template Call Off Term V1 REDACTED (4).pdf RM1045 Network Services   REDACTED Framework Agreement FINAL.pdf Network Services - Award Notice - 303421 (1).pdf ",,,27/07/2015,26/07/2017,19/02/2015,NO,,Yes,No,No,Services,100000000,2000000000,26/07/2015,100000000,"[Virgin Media Business Ltd|Media House, Bartley Wood Business Park Bartley Way, RG27 9UP Hook
+UNITED KINGDOM|||No|No][KCOM GROUP PLC|37 Carr Lane,
+HU1 3RE Hull UNITED KINGDOM|||No|No][Exponential-e Ltd|100 Leman Street, E1 8EU London UNITED KINGDOM|||No|No][UPDATA INFRASTRUCTURE (U K) LTD|17 Rochester Row
+SW1 1PT London
+UNITED KINGDOM|||No|No][Total Care and support Ltd|Unit 28, Time Technology Park, Blackburn Road, Burnley, Lancashire BB12 7TW Burnley
+UNITED KINGDOM|||No|No][Colt Technology Services|Beaufort House, 15 St Botolph Street, EC3A7QN London
+UNITED KINGDOM|||No|No][MLL TELECOM LTD|Jubilee House Third Avenue, Globe Park, SL7 1EY Marlow
+UNITED KINGDOM|||No|No][Eircom UK Ltd|Forsyth House, Cromac Square, BT2 8LA Belfast
+UNITED KINGDOM|||No|No][Daisy Communications Ltd|Daisy House, Lindred Road Business Park, BB9 5SR Nelson
+UNITED KINGDOM|||No|No][AZZURRI COMMUNICATIONS LTD|Azzurri House, Walsall Business Park, Walsall Road, Aldridge WS9 0RB Birmingham
+UNITED KINGDOM|||No|No][BRITISH TELECOMMUNICATIONS PLC|BT Centre, 81 Newgate St,
+EC1A 7AJ London
+￼￼￼UNITED KINGDOM|||No|No][Thales UK Ltd|2 DASHWOOD LANG ROAD, THE BOURNE BUSINESS PARK, ADDLESTONE, KT15 2NX WEYBRIDGE
+UNITED KINGDOM|||No|No][The Networking People North West Ltd|Infolab21, Lancaster University
+LA1 4WA Lancaster
+￼￼￼UNITED KINGDOM|||No|No][HighSpeed Office Ltd|Ground Floor, 50 Leman Street, London E1 8HQ E1 8HQ London
+UNITED KINGDOM|||No|No][Easynet Managed Services Ltd|St James House, Oldbury Bracknell, RG12 8TH Berkshire
+UNITED KINGDOM|||No|No][EE Ltd|Trident Place, Mosquito Way, AL10 9BW Hatfield, UNITED KINGDOM|||No|No][VODAFONE LTD|Vodafone House, The Connection, Newbury, RG14 2FN Newbury
+UNITED KINGDOM|||No|No][Datrix|29 Boundary Street, E2 7JQ London UNITED KINGDOM|||No|No][LOGICALIS LTD|110 Buckingham Avenue SL1 4PF Slough UNITED KINGDOM|||No|No][AdEPT Telecom PLC|77 Mount Ephraim,
+TN4 8BS Tunbridge Wells UNITED KINGDOM|||No|No][Maintel|61 Webber Street, SE1 0RF London UNITED KINGDOM|||No|No][Telent Technology Services Ltd|Point 3, Haywood Road CV34 5AH Warwick UNITED KINGDOM|||No|No][Pinacl Solutions UK Ltd|Perseus House, Carlton Court, St Asaph Business Park, LL17 0JG St Asaph
+UNITED KINGDOM|||No|No][UK Broadband Limited|20-22 Bedford Row WC1R 4JS London UNITED KINGDOM|||No|No][Gamma Telecom Ltd|5 Fleet Place, EC4M 7RD London UNITED KINGDOM|||No|No][FREEDOM COMMUNICATIONS UK LTD|Olds Approach. Tolpits Lane.
+WD18 9RX Watford
+￼￼￼UNITED KINGDOM|||No|No][Ideal Networks Limited|8 Arundel Place, BN2 1GD Brighton UNITED KINGDOM|||No|No][Unify Enterprise Communications Ltd|Brickhill Street, Willen Lake MK15 0DJ Milton Keynes UNITED KINGDOM|||No|No][Kelway Ltd|10 Fleet Place, EC4M 7RB London UNITED KINGDOM|||No|No][ICOM HOLDINGS LTD|2 M Trade Park, Beddow way, ME20 7BT Aylesford UNITED KINGDOM|||No|No][Netconnection Systems Ltd|Stephenson House 2 Cherry Orchard Road, CR0 6BA Croydon
+UNITED KINGDOM|||No|No][Pervasive Networks Ltd|Rivergate House, Newbury Business Park, London Road, RG14 2PZ Newbury
+UNITED KINGDOM|||No|No][Centiant International Limited|Hampshire International Business, Chineham, RG24 8GQ Basingstoke
+UNITED KINGDOM|||No|No][Block Solutions Ltd|4a-14b Shepherdess Walk, N1 7LB London
+UNITED KINGDOM|||No|No][Specialist Computer Centres Plc|James House, Warwick Road, Tyseley, B11 2LE Birmingham
+UNITED KINGDOM|||No|No][AVAYA LTD|Avaya House, Cathedral Hill, GU2 7YL Guildford UNITED KINGDOM|||No|No][DIMENSION DATA COMMUNICATIONS UK LTD|Dimension Data House, Building 2, Waterfront Business Park Fleet Road
+GU51 3QT Fleet
+￼￼￼UNITED KINGDOM|||No|No][NG Bailey IT Services Ltd|3rd Floor, The Angel Building, 407 St. John Street, EC1V 4AB London
+UNITED KINGDOM|||No|No][Level 3 Communications UK Limited|7th Floor, 10 Fleet Place
+EC4M 7RB London
+UNITED KINGDOM|||No|No][Exchange Communications Limited|EXCHANGE HOUSE, 11-17 KERR STREET, KIRKINTILLOCH G66 1LF GLASGOW
+UNITED KINGDOM|||No|No][Digital Communication Systems Limited|7-8 Benton Terrace, Sandyford Road, Jesmond,
+NE2 1QU Newcastle upon Tyne
+￼￼￼UNITED KINGDOM|||No|No][Fujitsu Services Limited|22 Baker Street, W1U 3BW London UNITED KINGDOM|||No|No][Netcall Telecom Limited|Hamilton House, 111 Marlowes, HP1 1BB Hemel Hempstead UNITED KINGDOM|||No|No][Telefónica UK Limited|260 Bath Road, SL1 4DX Slough UNITED KINGDOM|||No|No][Verizon UK Limited|Reading International Business Park Basingstoke Road RG2 6DA Reading
+UNITED KINGDOM|||No|No][TalkTalk Communications Ltd|Stanford House, Garrett Field,
+WA3 7BH Warrington
+UNITED KINGDOM|||No|No][Alternative Networks Plc|Chatfield Court, 56 Chatfield Road, SW11 3UL London
+UNITED KINGDOM|||No|No][Intrinsic Technology Limited|18 The Parks, WA12 0JQ Haydock UNITED KINGDOM|||No|No][4net Technologies Ltd|Scholar Green Road, Cobra Court, M32 0TR Manchester
+UNITED KINGDOM|||No|No][Foehn Limited|Goodwin House, 5 Union Court, TW9 1AA. Richmond
+UNITED KINGDOM|||No|No][Airwave Solutions Limited|Charter Court, 50 Windsor Road, SL1 2EJ SLOUGH
+UNITED KINGDOM|||No|No][Atos IT Services UK Ltd|4 Triton Square, Regent's Place NW1 3HG London
+UNITED KINGDOM|||No|No][Airbus DS Limited|Quadrant House, Celtic Springs, Coedkernew, NP10 8FZ Newport
+UNITED KINGDOM|||No|No][Ascom UK Ltd|Enterprise Drive, Aldridge Road, B74 2DY Streetly
+UNITED KINGDOM|||No|No][PageOne Communications Limited|17 Rochester Row SW1P 1QT London UNITED KINGDOM|||No|No][XMA Limited|44 Wilford Industrial Estate Ruddington Lane, Wilford NG11 7EP Nottingham
+UNITED KINGDOM|||No|No][Softcat Limited|Solar House, Fieldhouse Lane, SL7 1LW Marlow
+UNITED KINGDOM|||No|No][Outsourcery Hosting Ltd|4th Floor, 10 Whitfield Street, W1T 2RE London
+UNITED KINGDOM|||No|No][Voicenet Solutions Limited|T/A 8x8 Solutions Oxford House Bell Business Pk, Smeaton Close, HP19 8JR Aylesbury
+UNITED KINGDOM|||No|No]",,27/07/2015,26/07/2017,"Open ",
+BIP532228108,Contract,"DVLA Commercial Services Directorate",Awarded,2020-10-12T08:25:05Z,"Provision of Densewave Circuits","The DWDM Fibre optic solution (DenseWave) provides connectivity between Morriston, Swansea Vale and Fforestfach, at a band width which ensures there is no constraints to the business or any risk to the integrity of data/services. Without this service there will be no connectivity between the Swansea sites for storage replication.
+      
+      The contract has been awarded on a 1 year contract duration with the option to extend for a further 1 year period.",,,Wales,"32400000 ",,nicola.harper@dvla.gsi.gov.uk,"C1/E Longview Road",Morriston,Swansea,"SA6 7JL",UK,+441792788231,,,"https://www.delta-esourcing.com/delta/respondToList.html?noticeId=532228108 ",,07/10/2020,31/08/2021,29/09/2020,NO,,No,No,No,Products,79428.66,,29/09/2020,79428.66,"[Virgin Media Business|500 Brook Drive,
+        Reading,
+        RG2 6UU|NONE||No|No]",,07/10/2020,31/08/2021,"Other ",,00:00
+BIP524878702,Contract,"DVLA Commercial Services Directorate",Awarded,2020-09-14T11:35:03Z,"Provision of Densewave Circuits","The DWDM Fibre optic solution (DenseWave) provides connectivity between Morriston, Swansea Vale and Fforestfach, at a band width which ensures there is no constraints to the business or any risk to the integrity of data/services. Without this service there will be no connectivity between the Swansea sites for storage replication.
+      
+      The contract has been awarded on a 1 year contract duration with the option to extend for a further 1 year period.",,,Wales,"32400000 ",,nicola.harper@dvla.gsi.gov.uk,"C1/E Longview Road",Morriston,Swansea,"SA6 7JL",UK,+441792788231,,,"https://www.delta-esourcing.com/delta/respondToList.html?noticeId=524878702 ",,28/09/2020,31/08/2021,09/09/2020,NO,,No,No,No,Products,79428.66,,09/09/2020,79428.66,"[Virgin Media Business|500 Brook Drive,
+        Reading,
+        RG2 6UU|NONE||No|No]",,28/09/2020,31/08/2021,"NotSpecified ",,00:00
+BFDMDC001-DN497715-19443325,Contract,"Bradford Metropolitan District Council",Awarded,2020-09-08T09:01:09Z,"ISDN to SIP","The Council is looking to replace all legacy Integrated Services Digital network (ISDN) Lines and single telephone Lines within the Council with future proofed Session Initiated Protocol (SIP) Lines. Move the Council's existing WLR (Wholesale Line Rental) and BEL (Business Exchange Lines) into a supported contract.                                                                                                                                                                                         Crown Commercial RM3808 Network services 2 Lot 1: Data access services was used for the procurement of the data circuits for SIP. 
+
+Crown Commercial RM3808 Network services 2 Lot 3: Traditional Telephony Services was used for the procurement of the line rentals and call plan.
+
+",,,"Yorkshire and the Humber","32000000 32420000 ","Catherine Mullins",catherine.mullins@bradford.gov.uk,"Britannia House","Hall Ings",Bradford,"BD1 1HX","United Kingdom",,http://www.bradford.gov.uk/bmdc,,,,01/09/2020,31/08/2025,24/08/2020,NO,,Yes,No,No,Services,550000,650000,31/08/2020,630000,"[Virgin Media Business Ltd|500 Brook Drive, Reading, RG2 6UU|NONE||No|No]",,01/09/2020,31/08/2025,"Restricted ",,23:59
+18_03_01,Contract,"Nhs Business Services Authority",Awarded,2018-10-11T14:19:58Z,"ITIS Network Services WAN & LAN","The Authority is moving from a single prime supplier model that delivers its entire data and telephony network, voice and video services, managed infrastructure and data centre support and maintenance requirements to a multi-supplier model including some self-provision.
+The Authority sought and selected a Supplier to implement and provide a solution for data access services and local connectivity services (lots 1 and 2 under the Crown Commercial Service's RM1045 Network Services framework).
+The main overarching services that the Supplier is required to provide are:
+•	Gateway Services and management access: access to the Crown Hosting Data Centre and 12 sites of which 9 have Local Server Rooms. This will enable secure access to the platforms and applications hosted on the Authority's infrastructure;
+•	Connectivity: architecture will provide continuity for ICT services as well as providing connectivity to support the Authority's Digitisation and Sourcing Programme.",,,"North East,North West,Yorkshire and the Humber,East Midlands,West Midlands,East of England,London,South East,South West","32400000 72000000 ","Saima Wahid",s.wahid@nhs.net,"Stella House","Goldcrest Way","Newcastle upon Tyne",NE158NY,England,"0191 2035069",,,,"The initial term is 48 months with the option to extend by two 12-month periods, at the Authority's discretion.",25/09/2018,24/09/2022,01/06/2018,NO,,Yes,Yes,No,Services,4703055,,25/07/2018,4703055,"[Virgin Media Business Limited|Media House
+Bartley Wood Business Park
+Bartley Way
+Hook
+Hampshire
+RG27 9UP|COMPANIES_HOUSE|01785381|No|No]","Chris Burton",25/09/2018,24/09/2022,"CallOffFromFrameworkAgreement ",
+"SCC 254 - AWARD",Contract,"Sandwell Metropolitan Borough Council",Awarded,2018-03-14T11:28:44Z,"Request for Proposal for The Provision of Telephony Services - AWARD","Request for Proposal for The Provision of Telephony Services
+      
+      This is a Request for Proposal issued pursuant to paragraph 4 of Schedule 5 of the Framework Agreement RM1045 with information, instructions and guidance provided in Part A, following consideration of which the submission (Part B) should be completed and returned by all suppliers who wish to submit a proposal for the requirement described in the following pages.
+      Sandwell Metropolitan Borough Council (the Council) wishes to invite interested parties (""Suppliers"") to participate in an exercise to establish a Contract for the provision of Telephony Services to the Council (""the Request for Proposal"").  The procurement exercise will be a General Further Competition under Crown Commercial Services Framework Agreement RM1045 Network Services, Lot 3 Traditional Telephony Services. 
+      
+      Scope of Contract 
+      
+      The Council has a requirement to identify and appoint a suitably qualified and experienced contractor to provide a 1+1+1 year term service, to supply the goods/services specified within the Specification.
+      
+      The total estimated value excluding VAT for the contract is £95,000 per annum. This value is based on historical spend data and is intended to be used as a guide only and is not a guarantee of the level of business that will be generated from the contract.
+      
+      Period of Contract
+      
+      The Contract shall take effect on the commencement date and (unless it is otherwise terminated in accordance with its terms or it is otherwise lawfully terminated) shall expire at the end of the period as set out in the award letter.  The Contract is expected to commence on 9th April 2018 and will be for a period of 1+1+1 years. Performance and best value will be reviewed after each 12 month period.
+      
+      The Council will be using the In-tend e-Tendering System for this Procurement exercise, please visit https://in-tendhost.co.uk/sandwellmbc to access the Sandwell MBC In-tend Supplier Portal.
+      
+      From here you will be able to gain immediate access to the Request for Proposal for Provision of Telephony Services and other related documents.
+      
+      In Order To View the On-Line Questionnaire and Submit a Tender, you will be required to` Opt-In`.   
+      
+      Please be mindful that if you are cut and pasting your question responses onto the On-Line Questionnaire that you do so from a notepad document, this is due to the fact that some special characters are not accepted within the On-Line Questionnaire. 
+      
+      For a Step by Step user guide to the Sandwell MBC In-tend Supplier Portal please click on the `Guidance for Suppliers` section of the website. All procurement responses must be carried out via the Sandwell MBC In-tend Supplier Portal.  
+      
+      If you require further assistance in respect of the system please contact the In-tend support team on 0844 272 8810.
+      
+      Closing date: Friday 26th January 2018 at 15:00hrs",,"B69 3DB","West Midlands","51340000 50334000 50334100 32552000 ","Carol Wintle",carol_wintle@sandwell.gov.uk,"Freeth Street",Oldbury,"West Midlands","B69 3DB","United Kingdom","0121 569 2817",,,,,09/04/2018,31/03/2021,26/01/2018,NO,,No,No,No,Services,0,,26/02/2018,0,"[Virgin Media Business|Media House, Bartley Wood Business Park, Hook, Hampshire, United Kingdom, RG27 9UP|NONE||No|No]","Paula Mullins",09/04/2018,31/03/2021,"Restricted ",
+"16 076 LAN Refresh",Contract,"CHESHIRE EAST COUNCIL",Awarded,2016-12-09T09:50:25Z,"LAN Refresh","**This Contract has been awarded following a mini competition under CCS framework RM1045 Lot2** Cheshire East ICT Services currently manage both Cheshire East (CEC) and Cheshire West & Chester (CWaC) Councils LAN & WAN infrastructure across the Cheshire footprint.
+During the normal course of business and ongoing migration to the PSN solution it has been noted that a number of Cisco network switches installed in corporate sites are no longer supported by the manufacturer. This is both for software and firmware updates",,,"North West","72000000 ","Michael  Ashworth",michael.ashworth@cheshireeast.gov.uk,"Cheshire East Council, Westfields","Middlewich Road",Sandbach,"CW11 1HZ",England,"+44 1270686440",,,,,23/11/2016,22/11/2023,14/11/2016,NO,,Yes,No,No,Services,3069483,,22/11/2016,3069483,"[Virgin Media Business Limited|Media House, Bartley Wood Business Park, Bartley Way, Hook, RG27 9UP|||No|No]",,23/11/2016,22/11/2023,"Restricted ",
+ICT11665,Contract,"TRANSPORT FOR LONDON",Awarded,2016-01-14T11:46:30Z,"Wifi for TfL Corporate","Supply of Business Communications Equipment and Services",,,London,"72400000 ",,CommercialCoE@TfL.gov.uk,"50 Victoria Street,",,London,"SW1H 0TL",England,,,,,,04/08/2015,04/08/2017,04/08/2015,NO,,No,No,No,Services,171650,171650,04/08/2015,171650,"[Virgin Media Business Limited|Media House
+Bartley Wood Business Park
+Hock
+Hampshire
+RG27 9UP|||No|No]",,04/08/2015,04/08/2017,"Restricted ",
+"RM5873 SO10400",Contract,"CROWN COMMERCIAL SERVICE",Awarded,2015-09-21T10:37:17Z,"RM5873 SO10400 Provision of Internet Links Contract","The Department for Transport works with our agencies and partners to support the transport network that helps the UK’s businesses and gets people and goods travelling around the country.  The Authority plan and invest in transport infrastructure to keep the UK on the move.
+
+DfT(c) has an existing direct internet link at its office in Great Minster House, London. This link has been in place for over five years and traffic volumes are expected to increase beyond their capacity (currently 100Mbps).  DfT(c) was looking to replace this link with a new one offering higher capacity.",,,"Any region","32412000 ",,spot.buying@crowncommercial.gov.uk,"Crown Commercial Service","Concept House",Newport,"NP10 8QQ",Wales,,,"Outcome Letter Successful - Virgin Media Business - Redacted.pdf ",,,09/09/2015,08/09/2017,29/07/2015,NO,,No,No,No,Products,40539.84,40539.84,08/09/2015,40539.84,"[Virgin Media Business|Virgin Media Business
+700 Waterside Drive
+Aztec West
+Bristol
+BS32 4ST|||No|No]",,09/09/2015,08/09/2017,"Other ",
+BFDMDC001-DN505991-93484414,Contract,"Bradford Metropolitan District Council",Awarded,2020-11-03T08:01:19Z,"WAN Ethernet Extensions","City of Bradford MDC is looking to re-contract for its Wide Area Network provision across the district. This will be procured via a Direct Award on the Crown Commercial RM3808 Network Services 2 Lot 1 Data Access Services for a period of 2 years +1.",,,"Yorkshire and the Humber","72700000 ","Catherine Mullins",catherine.mullins@bradford.gov.uk,"Britannia House","Hall Ings",Bradford,"BD1 1HX","United Kingdom",,http://www.bradford.gov.uk/bmdc,,,,01/11/2020,19/01/2021,20/10/2020,NO,,No,No,No,Services,471000,471000,23/10/2020,470872.6,"[Virgin Media Business Ltd|500 Brook Drive, Reading, RG2 6UU|NONE||No|No]",,01/11/2020,31/10/2022,"DirectAward ",,23:59
+BIP538127897,Contract,"Student Loans Company",Awarded,2020-10-30T10:55:02Z,"Avaya Hardware and Licences","Provision of hardware and software to support the need as a consequence of COVID to support call centre staff working from home",,,Scotland,"32551400 ",,commercia@slc.co.uk,"100 Bothwell Street",,Glasgow,"G2 7JD",UK,+441413062000,,,"https://www.delta-esourcing.com/delta/respondToList.html?noticeId=538127897 ",,01/07/2020,31/12/2020,30/06/2020,NO,,No,No,No,Products,307000,,30/06/2020,307000,"[Virgin Media Business|500 Brook Drive
+        Reading
+        RG2 6UU|NONE||No|No]",,01/07/2020,31/12/2020,"Other ",,00:00
+NOTTCITY001-DN502661-74042300,Contract,"Ashfield District Council",Awarded,2020-10-02T14:33:34Z,"CPU 4185 Hosted Telephony Migration","Hosted Telephony",,,"United Kingdom","48000000 72000000 ","Mabs Karim",mabs.karim@nottinghamcity.gov.uk,"Loxley House","Station Street",Nottingham,"NG2 3NG",England,"+44 1158763564",http://www.nottinghamcity.gov.uk,,,,29/09/2020,29/09/2023,27/09/2020,NO,,Yes,Yes,No,Services,65276.99,65276.99,28/09/2020,65276.99,"[Virgin Media Business limited|500 Brook Drive, Reading. RG2 6UU|NONE||No|No]",,29/09/2020,29/09/2023,"DirectAward ",,12:00
+"BHCC - 012188",Contract,"BRIGHTON & HOVE CITY COUNCIL",Awarded,2020-10-02T12:07:59Z,"BHCC Telecommunications 2020","Supply of data and telephony lines and support of Centrex & BEL services.",,,"South East","50334110 64200000 ","Procurement Team",procurement@brighton-hove.gov.uk,"Kings House,Grand Avenue",,HOVE,BN32LS,England,"01273 291949",,,,,01/08/2020,31/07/2021,03/06/2020,NO,,No,No,No,Services,198000,,31/07/2020,198000,"[Virgin Media Business Ltd|500 Brook Drive, Reading, RG2 6UU|COMPANIES_HOUSE|01785381|No|No]",,01/08/2020,31/07/2021,"RestrictedOJEU ",,17:00
+4098,Contract,"Police & Crime Commissioner For Staffordshire",Awarded,2020-09-18T08:40:41Z,"Circuit Rental for Staffordshire Fire & Rescue Service","Call Off Contract awarded under Crown Commercial Services Network Services 2 Framework  RM3808",,,"West Midlands","32412000 ","Adam Marshall",adam.marshall@staffordshire.pnn.police.uk,"Block 9 Weston Road",,Stafford,ST180YY,England,"01785 232257",,,,,31/08/2020,30/08/2025,28/08/2020,NO,,No,No,No,Services,118310,,31/08/2020,118310,"[VIRGIN MEDIA BUSINESS LIMITED|Media House,Bartley Wood Business Park Bartley Way
+HOOK
+Hampshire
+RG27 9UP
+GB|COMPANIES_HOUSE|01785381|No|No]","Jean Hanson",31/08/2020,30/08/2025,"CallOffFromFrameworkAgreement ",,00:00
+BFDMDC001-DN489654-16736611,Contract,"Bradford Metropolitan District Council",Awarded,2020-07-31T09:29:10Z,"5gb Internet Circuit","The Council require installation and annual rental of 2 x 5gb internet circuits with associated firewall hardware, software and support. This will be purchased via the Direct Award route in Crown Commercial Services RM3808 Network services 2 Lot 1: Data access services and Lot 2: Local connectivity services.",,,England,"72000000 ","Catherine Mullins",catherine.mullins@bradford.gov.uk,"Britannia House","Hall Ings",Bradford,"BD1 1HX","United Kingdom",,http://www.bradford.gov.uk/bmdc,,,,30/07/2020,29/07/2025,22/07/2020,NO,,No,No,No,Services,528000,528000,24/07/2020,528000,"[Virgin Media Business Ltd|500 Brook Drive, Reading, RG2 6UU|NONE||No|No]",,30/07/2020,29/07/2025,"DirectAward ",
+C18817,Contract,"HOME OFFICE",Awarded,2020-06-08T14:19:22Z,"Dedicated Internet Access for the Office of the Immigration Services Commissioner","Dedicated Internet Access for the Office of the Immigration Services Commissioner.",,,London,"72400000 ","Andy Nunney",andy.nunney@homeoffice.gov.uk,"Peel Building, Marsham Street",,LONDON,SW1P4DF,England,"07796 191 211",,,,,04/06/2020,03/12/2022,03/06/2020,NO,,No,No,No,Services,27200,,04/06/2020,27200,"[Virgin Media Business Limited|500 Brook Drive,
+Reading.
+RG2 6UU.|COMPANIES_HOUSE|01785381|No|No]",,04/06/2020,03/12/2022,"SingleTenderActionNonOJEU ",
+KNOWS001-DN478944-39025469,Contract,"Knowsley Council",Awarded,2020-05-19T17:02:24Z,"Provision and support of voice/telephony services for Knowsley Council and Schools.","Voice/telephony services for Knowsley Council and schools",,,"North West","50334000 ","Katie Lawler",katie.lawler@knowsley.gov.uk,"2nd Floor, Municipal Building","Archway Road",Huyton,"L36 9YU",England,"+44 1514435096",http://www.knowsley.gov.uk,,,,01/04/2020,31/03/2022,18/03/2020,NO,,No,No,No,Services,168000,168000,26/03/2020,168000,"[Virgin Media Business|RG2 6UU|NONE||No|No]","Mr Rory Sherwood-Parkin",01/04/2020,31/03/2022,"DirectAward ",
+KNOWS001-DN478936-40373698,Contract,"Knowsley Council",Awarded,2020-05-19T16:03:38Z,"Supply, Support and Maintenance of the Fibre Data Network","KMBC has implemented a contract for the Supply, Support and Maintenance of the Fibre Data Network Direct Award using the Crown Commercial Services Framework Agreement RM3808 - Network Services 2 (Lot 1)",,,England,"72720000 ","Kelly Black",kelly.black@knowsley.gov.uk,"2nd Floor, Municipal Building","Archway Road",Huyton,"L36 9YU",England,"+44 1514434938",http://www.knowsley.gov.uk,,,,01/04/2020,31/03/2022,18/03/2020,NO,,Yes,Yes,No,Services,882000,882000,19/03/2020,882000,"[Virgin Media Business|RG2 6UU|NONE||No|No]","MRS Jean Hanson",01/04/2020,31/03/2022,"DirectAward ",
+KNOWS001-DN478943-30758744,Contract,"Knowsley Council",Awarded,2020-05-19T15:43:30Z,"Management, monitoring and maintenance of the local area network","Management, monitoring and maintenance of the local area network",,,England,"50312600 ","Faye Williamson",faye.williamson@knowsley.gov.uk,"2nd Floor, Municipal Building","Archway Road",Huyton,"L36 9YU",England,"+44 1514434246",http://www.knowsley.gov.uk,,,,01/04/2020,31/03/2022,18/03/2020,NO,,No,No,No,Services,143866,143866,26/03/2020,143866.2,"[Virgin Media Business|RG2 6UU|NONE||No|No]","MRS Jean Hanson",01/04/2020,31/03/2022,"DirectAward ",
+RBGKEW/558,Contract,"ROYAL BOTANIC GARDENS, KEW",Awarded,2020-04-02T12:06:17Z,"National Ethernet","National ethernet - internet connectivity curcuits",,TW93AE,,"72300000 ",,procurement@kew.org,"Kew Green",,RICHMOND,TW93AE,England,,,,,,01/03/2020,28/02/2023,09/02/2020,NO,,No,No,No,Services,150000,,29/02/2020,150000,"[Virgin Media Business|500 Brook Drive
+Reading
+RG2 6UU|NONE_OTHER||No|No]",,01/03/2020,28/02/2023,"SingleTenderActionNonOJEU ",
+DN471813,Contract,"WAKEFIELD COUNCIL",Awarded,2020-03-18T14:21:57Z,"WAN Services","WAN Services RM3808 Lot1",,,"Yorkshire and the Humber","32430000 ","Helen Spink",hspink@wakefield.gov.uk,"Wakefield One Po Box 700,Burton Street",,WAKEFIELD,WF12EB,England,07717701090,,,,,01/04/2020,31/03/2021,17/03/2020,NO,,Yes,No,No,Services,331156,,18/03/2020,331156,"[VIRGIN MEDIA BUSINESS LIMITED|Media House, Bartley Wood Business Park,Bartley Way
+HOOK
+Hampshire
+RG27 9UP
+GB|COMPANIES_HOUSE|01785381|No|No]","Jean Hanson",01/04/2020,31/03/2021,"CallOffFromFrameworkAgreement ",
+271097,Contract,"University Of The West Of England",Awarded,2019-09-09T14:51:28Z,"Telephone Call Charges","Telephone Call Charges (01/08/2019 to 31/07/2020)",,"BS16 1QY",,"64212000 ","Vicky Johnson",vicky.johnson@uwe.ac.uk,"Coldharbour Lane",,BRISTOL,BS161QY,England,01173283959,,,,,01/08/2019,31/07/2020,03/07/2019,NO,,No,No,No,Products,25000,,03/07/2019,25000,"[VIRGIN MEDIA BUSINESS LIMITED|Media House, Bartley Wood Business Park,Bartley Way
+HOOK
+Hampshire
+RG27 9UP
+GB|COMPANIES_HOUSE|01785381|No|No]","Paula Mullins",01/08/2019,31/07/2020,"Other SS",
+DN397243,Contract,"KINGSTON-UPON-HULL CITY COUNCIL",Awarded,2019-09-09T11:23:50Z,"Mobile connectivity requirements","Hull City Council is looking for one Supplier to deliver the provision of mobile voice and data services, and as a minimum, the ability to:
+•	Provide a significant cost saving based on the current contract.
+•	Manage & resource the transition from the current provider to another if required.
+•	Provide a reliable mobile phone network primarily across Kingston upon Hull and the East Riding of Yorkshire which delivers reliable and uncongested Voice & 4G Data networks and the ability to move to 5G as and when it becomes available.
+•	Provide a private data APN which is assured to IL2 for the sole use of Hull City Council users.
+•	Allow for the ability to 'pool' all data connections.
+
+•	Supply an fund as part of the lifetime of the contract so that aging and faulty handsets can be replaced.
+•	Provide management & control software which allows the following:
+o	The ability to securely manage devices over the mobile network (including CCTV).
+o	Device Bandwidth management (reports, quotas, caps etc).
+o	VPN services.
+o	Mobile access control.
+o	Content filtering (eg, the ability to control access to particular services such as Youtube).
+•	Provide a Service desk facility for reporting of faults/changes/orders.
+•	Provide comprehensive monthly reporting.",,,"Yorkshire and the Humber","64212000 ","Claire Route",Claire.route@hullcc.gov.uk,"Guildhall,Alfred Gelder St",,HULL,HU12AA,England,"01482 613071",,," ",,24/07/2019,23/07/2022,05/07/2019,NO,,No,No,No,Services,754380,,23/07/2019,754380,"[VIRGIN MEDIA BUSINESS LIMITED|Media House, Bartley Wood Business Park,Bartley Way
+HOOK
+Hampshire
+RG27 9UP
+GB|COMPANIES_HOUSE|01785381|No|No]","Paula Mullins",24/07/2019,23/07/2022,"CallOffFromFrameworkAgreement ",
+I-5-0113-19,Contract,"CAMBRIDGESHIRE CONSTABULARY",Awarded,2019-07-31T14:41:35Z,"CISCO switches","This was a Call-Off Contract Further Competition under the Crown Commercial Services Framework RM1045:  Network Services Lot 2.",,,"Any region","32410000 ","Anna Piotrowska",ProcurementEnquiries@Herts.pnn.police.uk,"POLICE HEADQUARTERS",,HUNTINGDON,PE296NP,England,,,,,,25/07/2019,23/07/2022,22/07/2019,NO,,Yes,No,No,Products,495031.64,,24/07/2019,495031.64,"[VIRGIN MEDIA BUSINESS LIMITED|Media House, Bartley Wood Business Park,Bartley Way
+HOOK
+Hampshire
+RG27 9UP
+GB|COMPANIES_HOUSE|01785381|No|No]","Paula Mullins",25/07/2019,23/07/2022,"CallOffFromFrameworkAgreement ",
+OH-P755,Contract,"ONWARD GROUP LIMITED",Awarded,2019-07-26T11:43:54Z,"Managed Wider Area Network (WAN) Services","Onward Group Limited has appointed a suitably qualified and experienced provider of Managed Wider Area Network (WAN) Services, by way of a General Further Competition (GFC) under Crown Commercial Service's Framework Agreement for Network Services (RM1045). 
+Core services fell under Lot 1 - Data Access Services, so all suppliers listed under this lot were invited to tender.
+The contract for these services is let for an initial period of three years (Call-off Initial Period) with an option to extend for a further one year (Call-off Extension Period).",,,"North West","32430000 ",,procurement@onward.co.uk,"12 Hanover St",,LIVERPOOL,L14AA,England,"0161 875 8045",,,,,26/06/2019,25/06/2022,26/04/2019,NO,,No,No,No,Services,684668,856672,25/06/2019,684668,"[VIRGIN MEDIA BUSINESS LIMITED|Bartley Way
+Hook
+Hampshire
+RG27 9UP
+GB|COMPANIES_HOUSE|01785381|No|No]",,26/06/2019,25/06/2022,"CallOffFromFrameworkAgreement ",
+ENFLD001-DN412157-56988221,Contract,"London Borough of Enfield",Awarded,2019-07-19T11:42:10Z,"Cisco Kit Renewal for 6 months","Cisco Kit Renewal for 6 months",,,London,"72000000 ","Mehmet Mehmet-Emin",mehmet.mehmet-emin@enfield.gov.uk,"3rd Floor, Civic Centre","Silver Street",Enfield,"EN1 3XA",England,"+44 2083794138",http://www.enfield.gov.uk/,,,,09/05/2019,30/10/2019,30/04/2019,NO,,No,No,No,NotApplicable,9111,9111,03/05/2019,9111.84,"[Virgin Media Business|Bartley Wood Busines|NONE||No|No]","Mr Matt Allen",09/05/2019,30/10/2019,"Open ",
+"CS0219 (B)",Contract,"PENSION PROTECTION FUND",Awarded,2019-07-08T16:26:31Z,"Network Circuit","Supply of network circuit.",,,"Any region","32400000 ","Joseph Gillinder",commercial.services@ppf.co.uk,"RENAISSANCE, 12 DINGWALL ROAD",,CROYDON,CR02NA,England,"020 8406 2018",,,,,21/03/2019,20/03/2021,21/03/2018,NO,,Yes,No,No,Products,95000,,19/03/2019,95000,"[VIRGIN MEDIA BUSINESS LIMITED|Media House, Bartley Wood Business Park,Bartley Way
+HOOK
+Hampshire
+RG27 9UP
+GB|COMPANIES_HOUSE|01785381|No|No]","Paula Mullins",21/03/2019,20/03/2021,"CallOffFromFrameworkAgreement ",
+CS0219,Contract,"PENSION PROTECTION FUND",Awarded,2019-07-08T16:23:33Z,"Network Circuits (3)","Supply of network circuits.",,,"Any region","32400000 ","Joseph Gillinder",commercial.services@ppf.co.uk,"RENAISSANCE, 12 DINGWALL ROAD",,CROYDON,CR02NA,England,"020 8406 2018",,,,,21/03/2019,20/03/2020,21/03/2018,NO,,Yes,No,No,Products,96187,,19/03/2019,96187,"[VIRGIN MEDIA BUSINESS LIMITED|Media House, Bartley Wood Business Park,Bartley Way
+HOOK
+Hampshire
+RG27 9UP
+GB|COMPANIES_HOUSE|01785381|No|No]","Paula Mullins",21/03/2019,20/03/2020,"CallOffFromFrameworkAgreement ",
+"003139968sm2019/324 (Via CCS Framework)",Contract,"The Manchester College",Awarded,2019-04-02T09:25:01Z,"Network Services Agreement RM1045 (41 Novus Prisons)","Network Services Agreement RM1045 (41 Novus Prisons)",,,"Any region","64210000 ","Stewart Maloney MCIPS, CPSM",smaloney@themanchestercollege.ac.uk,"34 Whitworth Street",,MANCHESTER,M13HB,England,"0161 920 3886 ext 3886",,,,,01/04/2019,03/06/2019,08/03/2019,NO,,No,No,No,Products,1,,28/03/2019,1,"[Virgin Media Business|Concord Business Park, Threapwood Rd, Manchester M22 0EY|NONE||No|No]",,01/04/2019,01/11/2022,"CallOffFromFrameworkAgreement ",
+"YAS 182 2018_19",Contract,"Yorkshire Ambulance Service Nhs Trust",Awarded,2019-03-07T16:24:38Z,WAN,"Upgrade to WAN",,,"Yorkshire and the Humber","32430000 ","Janna Bridgman",janna.bridgman1@nhs.net,"Springhill 2,Brindley Way, Wakefield 41 Industrial Estate",,WAKEFIELD,WF20XQ,England,07976586892,,"YAS 182 2018_19 WAN contract draft v 10 fully signed.pdf ",,,31/01/2019,30/01/2022,30/01/2019,NO,,No,No,No,Products,1362229,,30/01/2019,1362229,"[Virgin Media Business|Media House
+Bartley Wood Business Park
+Hook 
+Hampshire
+RG27 9UP|NONE||No|No]",,31/01/2019,30/01/2022,"CallOffFromFrameworkAgreement ",
+CN1001821,Contract,"Nottinghamshire Police Force",Awarded,2019-03-06T09:56:07Z,"WAN Connectivity Variation - Notts","Contract awarded utilising CCS Framework RM1045",,,"East Midlands","32400000 ","Rachel Buck",Rachel.buck@emscu.pnn.police.uk,"Sherwood Lodge",,NOTTINGHAM,NG58PP,England,,,,,,30/04/2018,11/03/2021,29/04/2018,NO,,No,No,No,Services,59338.5,,29/04/2018,59338.5,"[Virgin Media Business Limited|Communications House
+Bartley Wood Business Park
+Bartley Way
+Hampshire
+RG27 9UP|NONE||No|No]",,30/04/2018,11/03/2021,"CallOffFromFrameworkAgreement ",
+CN1001778,Contract,"Nottinghamshire Police Force",Awarded,2019-03-06T09:26:42Z,"WAN Network Connectivity Services","Direct Award utilising CCS Network Services Framework RM1045",,,"East Midlands","32400000 ","Rachel Buck",Rachel.buck@emscu.pnn.police.uk,"Sherwood Lodge",,NOTTINGHAM,NG58PP,England,,,,,,13/03/2018,11/03/2021,11/03/2018,NO,,No,No,No,Services,601979.35,,12/03/2018,601979.35,"[Virgin Media Business Limited|Media House
+Bartley Wood Business Park
+Bartley Way 
+Hook
+RG27 9UP|NONE||No|No]",,13/03/2018,11/03/2021,"CallOffFromFrameworkAgreement ",
+ITC-2019-262,Contract,"FUTURE CITIES CATAPULT",Awarded,2019-02-22T15:14:50Z,"Office Internet Service","Internet Service Three Year Contract for workplace.",,,London,"72411000 ",,procurement@futurecities.catapult.org.uk,"1 Sekforde Street",,LONDON,"EC1R 0BE",England,,,,,,28/01/2019,27/01/2021,18/01/2019,NO,,Yes,Yes,No,Services,60000,,25/01/2019,59500,"[VIRGIN MEDIA BUSINESS LIMITED|Bartley Way
+Hook
+Hampshire
+RG27 9UP
+GB|COMPANIES_HOUSE|01785381|No|No]",,28/01/2019,27/01/2022,"CompetitiveQuotationNonOJEU ",
+"PROC 90-2018",Contract,"COMPETITION AND MARKETS AUTHORITY",Awarded,2019-02-04T12:23:16Z,"Addition of Canary Wharf site to IPVPN","Provision of new circuits to enable CMA IT to install the network infrastructure for the new office which is expected in late July 2019.",,,London,"32412110 72400000 ",,commercial@cma.gsi.gov.uk,"Victoria House","Southampton Row",London,"WC1B 4AD",England,,,,,,06/11/2018,01/02/2020,05/11/2018,NO,,Yes,No,No,Services,89948,,06/11/2018,89948,"[Virgin Media Business Limited|Concord House, Concord Business Park, Threapwood Road, Whythenshawe, Manchester, M22 0EY|NONE||No|No]",,07/11/2018,01/02/2020,"SingleTenderActionNonOJEU ",
+tender_196178/734775,Contract,"Bath and Northeast Somerset, Swindon and Wiltshire STP",Awarded,2018-12-27T11:02:36Z,"MIA Link Upgrade Internet Service","Great Western Hospital intends to implement FOC Guest Wi-Fi services to Patients and Staff. 
+
+The provision of FOC Wi-Fi requires the Trust to upgrade our Internet lines from the current 200Meg, to increase them both to 1000Meg (1Gb).",,"SN3 6BB","South West","32412110 ","Great Western Hospitals NHS Foundation Trust",emily.ohare@nhs.net,"Marlborough Road",,Swindon,"SN3 6BB",England,,,,,,20/11/2018,19/11/2023,20/11/2018,NO,,Yes,No,No,Services,78000,,20/11/2018,78000,"[Virgin Media Business|Media House, Bartley Wood Business Park, Hook, Hampshire, RG27 9UP|NONE||No|No]",,20/11/2018,19/11/2023,"CallOffFromFrameworkAgreement ",
+LEEDSCITY001-DN384024-38897699,Contract,"Leeds City Council",Awarded,2018-12-19T14:52:40Z,"ITS201092 Mobile Voice, Data & Telephony Services","ITS201092 Mobile Voice, Data & Telephony Services",,,"Yorkshire and the Humber","64200000 ","Paul Doherty",paul.1.doherty@leeds.gov.uk,"St George House","2nd Floor, 40 Great George Street",Leeds,"LS1 3DL",England,"+44 1133785904",http://www.leeds.gov.uk,,,,01/02/2019,31/01/2022,21/11/2018,NO,,No,No,No,Services,2137998,2137998,19/12/2018,2137998,"[Virgin Media Business Limited|Media House, Bartley Wood Business Park, Bartley Wood, Hampshire RG27 9UP|NONE||No|No]",,01/02/2019,31/01/2022,"Restricted ",
+BIP365939195,Contract,"Telford & Wrekin Council",Awarded,2018-12-18T15:28:12Z,"GB-Telford: HSCN Acces Agreement RM3825","Health and Social Care Network access for NHS (N3 replacement)",,,"West Midlands","32412100 ","Sandy Brazier",sandy.brazier@telford.gov.uk,"Darby House","Lawn Central",Telford,"TF3 4JA",UK,+441952381123,,,"https://www.delta-esourcing.com/delta/respondToList.html?noticeId=365939195 ","Aggregated procurement via NHS digital in conjunction with Crown Commercial Services",18/12/2018,12/12/2022,13/12/2018,NO,,No,No,No,Services,24331,,13/12/2018,24331,"[Virgin Media Business|Media House
+        Bartley Wood Business Park
+        Hook
+        Hampshire
+        RG27 9UP|NONE||No|No]","Tony Pellerin",18/12/2018,12/12/2022,"NotSpecified ",
+BIP359858219,Contract,"DVLA Commercial Services Directorate",Awarded,2018-12-09T09:29:11Z,"PSN Links-Procurement 1","To provide DVLA with carrier connectivity, ensuring the information being shared is passed to and from the UK in a secure manner.",,,Wales,"32400000 ",,nicola.harper@dvla.gsi.gov.uk,"C1/E Longview Road",Morriston,Swansea,"SA6 7JL",UK,+441792788231,,,"https://www.delta-esourcing.com/delta/respondToList.html?noticeId=359858219 ",,31/10/2018,31/12/2021,27/09/2018,NO,,Yes,No,No,Services,201061,,27/09/2018,201061.5,"[Virgin Media Business|Grosvenor House,
+        Redditch
+        B974DL|NONE||No|No]",,31/10/2018,31/12/2021,"Other ",
+BIP359448339,Contract,"DVLA- Commercial Services Directorate",Awarded,2018-11-22T12:54:11Z,"PSN Connectivity Links- Mainframe","DVLA has a contract for PSN connectivity that is due to expire. DVLA will require PSN connectivity beyond this date for a number of services.",,,Wales,"32400000 ",,nicola.harper@dvla.gov.uk,"C1/E Longview Road",Morriston,Swansea,"SA6 7JL",UK,+441792788231,,,"https://www.delta-esourcing.com/delta/respondToList.html?noticeId=359448339 ",,07/12/2018,05/11/2021,16/11/2018,NO,,No,No,No,Services,286943,,16/11/2018,286943.51,"[Virgin Media Business|Grosvenor House
+        Redditch
+        B97 4DL|NONE||No|No]",,07/12/2018,05/11/2021,"Other ",
+tender_175372/721467,Contract,OFCOM,Awarded,2018-11-02T16:52:01Z,"ITT 21 2018 Wide Area Network Contract","The design, implementation and support for the Wide Area Network (WAN) to Ofcom.",,"SE1 9HA","North West,London,Scotland,Wales,Northern Ireland","72720000 ",,victoria.lord@ofcom.org.uk,"Riverside House, 2a Southwark Bridge Road",,London,"SE1 9HA",England,,,,,,01/05/2019,30/04/2023,15/08/2018,NO,,Yes,No,No,Services,387132,,01/10/2018,496605,"[Virgin Media Business|Media House, Bartley Wood Business park, Bartley Way, Hook, RG27 9UP|COMPANIES_HOUSE|01785381|No|No]","Chris Hughes",01/05/2019,30/04/2023,"CallOffFromFrameworkAgreement ",
+1708-2018,Contract,"South Yorkshire Police Headquarters",Awarded,2018-10-26T13:16:38Z,"Mobile Devices, Data and Ancillaries","This Contract Award Notice relates to a contract for the PCC for West Yorkshire. Published by Yorkshire and the Humber Regional Procurement team.
+
+Contract awarded under the Crown Commercial Services Framework RM1045 ""Network Services"", lot 6.
+
+The contract includes, but is not limited to: mobile connectivity; voice, voice and data, and data sims; mobile devices and ancillaries; support and maintenance (including a service desk); APN provision, and support and maintenance.
+
+Values stated within this notice are estimates only.",,,"Yorkshire and the Humber","32250000 64212000 ","Vicky Murray",procurement@southyorks.pnn.police.uk,"West Yorkshire Police HQ","PO Box 9",Wakefield,"WF1 3QP",England,101,,,,,12/10/2018,11/10/2021,06/04/2018,NO,,No,No,No,Services,1500000,,22/05/2018,1500000,"[VIRGIN MEDIA BUSINESS LIMITED|Communications House Bartley Wood Business Park,Bartley Way
+HOOK
+Hampshire
+RG27 9UP
+GB|COMPANIES_HOUSE|01785381|No|No]",,12/10/2018,11/10/2021,"CallOffFromFrameworkAgreement ",
+259463,Contract,"University Of The West Of England",Awarded,2018-10-09T11:00:01Z,"Telephone Call Charges","Telephone Call Charges until 31/07/2019",,"bs16 1qy",,"64214400 ",,purchasing@uwe.ac.uk,"Coldharbour Lane",,BRISTOL,BS161QY,England,,,,,,20/07/2018,31/07/2019,19/07/2018,NO,,No,No,No,Services,35000,,19/07/2018,35000,"[VIRGIN MEDIA BUSINESS LIMITED|Communications House Bartley Wood Business Park,Bartley Way
+HOOK
+Hampshire
+RG27 9UP
+GB|COMPANIES_HOUSE|01785381|No|No]","Paula Mullins",20/07/2018,31/07/2019,"SingleTenderActionNonOJEU ",
+BIP348885987,Contract,"DVLA Commercial Services Directorate",Awarded,2018-10-04T11:14:10Z,"PSN Links-Procurement 1","To provide DVLA with carrier connectivity, ensuring the information being shared is passed to and from the UK in a secure manner.",,,Wales,"32400000 ",,nicola.harper@dvla.gsi.gov.uk,"C1/E Longview Road",Morriston,Swansea,"SA6 7JL",UK,+441792788231,,,"https://www.delta-esourcing.com/delta/respondToList.html?noticeId=348885987 ",,31/10/2018,31/12/2021,27/09/2018,NO,,Yes,No,No,Services,201061,,27/09/2018,201061.5,"[Virgin Media Business|Grosvenor House,
+        Redditch
+        B974DL|NONE||No|No]",,31/10/2018,31/12/2021,"Other ",
+18-37,Contract,"UNIVERSITY OF WOLVERHAMPTON ENTERPRISE LIMITED",Awarded,2018-09-04T17:00:18Z,"Data and Internet Services","Supply and maintenance of Data Circuits and one off internet line across the University estate, as well as relocation of existing circuits.",,,"West Midlands","72300000 ",Procurement,procurement@wlv.ac.uk,"Wulfruna Street",,WOLVERHAMPTON,WV11LY,England,,,,,,14/08/2018,31/07/2021,01/08/2018,NO,,No,No,No,Services,65594,,13/08/2018,185907,"[VIRGIN MEDIA BUSINESS LIMITED|Bartley Way
+Hook
+Hampshire
+RG27 9UP
+GB|COMPANIES_HOUSE|01785381|No|No]",,14/08/2018,31/07/2021,"SingleTenderActionNonOJEU ",
+BIP336702204,Contract,"Student Loans Company",Awarded,2018-08-01T13:46:14Z,"GB-Glasgow: Internet Breakouts and WIFI","Internet Breakouts and WIFI",,,Scotland,"72400000 ","Linda Milne",linda_milne@slc.co.uk,"100 Bothwell Street",,Glasgow,"G2 7JD",UK,01413062053,,,"https://www.delta-esourcing.com/delta/respondToList.html?noticeId=336702204 ",,19/02/2018,18/02/2023,16/02/2018,NO,,No,No,No,Services,2000000,,16/02/2018,2000000,"[Virgin Media Business|260, 270 and 280 Bartley Way
+        Bartley Wood Business Park
+        Hook
+        Hampshire
+        RG27 9UP|NONE||No|No]","Simone Friskey",19/02/2018,18/02/2023,"NotSpecified ",
+253400,Contract,"University Of The West Of England",Awarded,2018-07-25T12:34:32Z,"Ethernet Extension","Ethernet Extension 10Gb installation charge, 60 months to move the existing Frenchay-BA circuit from D Block at Bower Ashton, to F Block",,"BS16 1QY",,"32415000 ",,purchasing@uwe.ac.uk,"Coldharbour Lane",,BRISTOL,BS161QY,England,,,,,,31/01/2018,01/02/2023,30/01/2018,NO,,No,No,No,NotApplicable,85610,,30/01/2018,85610,"[Virgin Media Business IRB|Business Payments
+PO Box 4459
+Worthing
+BN13 1XP|NONE||No|No]",,31/01/2018,01/02/2023,"CallOffFromFrameworkAgreement ",
+"CCTE17A10 - 00166442.2",Contract,"Crown Commercial Service",Awarded,2018-07-12T14:51:56Z,"HMT - WAN Services contract","This contract has already been awarded and is published for transparency purposes.
+HM Treasury is the government's economic and finance ministry, maintaining control over public spending, setting the direction of the UK's economic policy and working to achieve strong and sustainable economic growth.
+The requirement covers the delivery of PSN compliant connectivity services to the Authority's premises.
+The contract was awarded following a further competition under the Network Services framework ref RM1045; Lot 1 - Data access services.",,,"Any region","64200000 ","Crown Commercial Service",supplier@crowncommercial.gov.uk,"Floor 9, The Capital Building, Old Hall Street",,Liverpool,"L3 9PP",England,3450103503,https://www.gov.uk/government/organisations/crown-commercial-service,"00166442.2; HMT WAN - Award Letter - CF v1.0.pdf ",,,27/09/2017,26/03/2021,28/08/2017,NO,,Yes,No,No,Services,300000,530000,26/09/2017,530000,"[Virgin Media Business Limited|Media House, 260-280 Bartley Way, Bartley Wood Business Park RG27 9UP Hook England|NONE||No|No]",,27/09/2017,26/03/2021,"CallOffFromFrameworkAgreement ",
+C002568,Contract,"West Midlands Fire Service",Awarded,2018-07-06T12:15:10Z,"WIDE AREA NETWORK 2018-21 (CCS RM1045)","Requirement to upgrade current wide area network and rental for 3 years, with option to extend for a further 2 years.  To be called off from CCS framework agreement RM1045",,,"West Midlands","32430000 ","Jacky Perkins",jackie.perkins@wmfs.net,"99 Vauxhall Road",,BIRMINGHAM,B74HW,England,"0121 3806176",,,,,29/06/2018,29/06/2021,25/06/2018,NO,,Yes,Yes,No,Services,543000,1153000,26/06/2018,1153000,"[VIRGIN MEDIA BUSINESS LIMITED|Bartley Way
+Hook
+Hampshire
+RG27 9UP
+GB|COMPANIES_HOUSE|01785381|No|No]",,29/06/2018,29/06/2021,"CallOffFromFrameworkAgreement ",
+"CCIS16A29 - Provision of Telephony Maintenance Contract",Contract,"Crown Commercial Service",Awarded,2018-06-19T15:28:26Z,"Provision of Telephony Maintenance Contract","Please note that this publication is for transparency purposes only. 
+The Driver Vehicle and Licensing Agency (DVLA) were inviting bids for the Provision of a Telephony Maintenance Contract.",,,"Any region","50334100 ","Crown Commercial Service",technology.operations@crowncommercial.gov.uk,"Floor 9, The Capital Building, Old Hall Street",,Liverpool,"L3 9PP",England,,,"Redacted Outcome Letter.pdf Redacted Order Form.pdf ",,,01/06/2018,31/05/2021,02/10/2017,NO,,Yes,Yes,No,Products,14323107.52,,24/05/2018,14323107.52,"[Virgin Media Business Limited|Hook, England|NONE||No|No]",,01/06/2018,31/05/2021,"CallOffFromFrameworkAgreement ",
+LGSS001-DN318535-14184117,Contract,"Cambridgeshire County Council",Awarded,2018-05-18T13:36:48Z,"CCC EDUCATION ICT DATACENTRE REQUIREMENT: UNDER THE CPSN FRAMEWORK UNDER THE HEADING ""INFORMATION TECHNOLOGY SERVICES""","The ICT Service (Education) a traded service wholly owned by Cambridgeshire County Council (CCC) are utilising the Cambridgeshire Public Services Network Framework in respect of Hardware and Software for their Data Centre for use in education.",,,"East of England","48000000 30200000 ",,procurement@northamptonshire.gov.uk,"Shire Hall",,Cambridge,"CB3 0AP","United Kingdom",,https://www.lgss.co.uk/about/,,,,09/04/2018,08/04/2023,19/02/2018,NO,,Yes,Yes,No,Services,596415,596415,29/03/2018,596415.91,"[Virgin Media Business|Bartley Wood Busines|NONE||No|No]","MRS PAULA MULLINS",09/04/2018,08/04/2023,"Open ",
+DERBSCITY001-DN316507-02767176,Contract,"Derby City Council",Awarded,2018-03-29T15:05:35Z,"TD1326 - CISCO Meraki Cloud Licenses","Tenders are invited for the supply of CISCO Meraki Cloud Licenses Advanced and Enterprise). The current three (3) year co-terminating license agreement for Derby City Council's CISCO Meraki equipment (which includes Security Appliances, Switches and Wireless Access Points) expires on 20/04/2018. The contract period is thirty seven (37) months; the contract is estimated to commence 01/04/2018 and expire 30/04/2021. Please note, suppliers wishing to express interest and obtain the documentation must do so by 14:00 on 26 February 2018. It is recommended that you express interest and obtain the documentation well before this time to allow sufficient time to prepare and submit a comprehensive response. The deadline for returns is 14:00 on 27 February 2018.",,,"East Midlands","30200000 32420000 ","Andrew Grover",procurement@derby.gov.uk,"The Council House","Corporation Street",Derby,"DE1 2FS",England,"+44 1332643270",http://www.derby.gov.uk/,,"https://www.eastmidstenders.org ","The procurement documents are available for unrestricted and full direct access, free of charge, at: https://www.eastmidstenders.org
+Additional information can be obtained from the abovementioned address.
+Tenders or requests to participate must be submitted to the abovementioned address.
+",01/04/2018,30/04/2021,27/02/2018,NO,,Yes,No,No,Products,90000,,14/03/2018,90000,"[Virgin Media Business|Bartley Wood Busines|NONE||No|No]","MRS PAULA MULLINS",01/04/2018,30/04/2021,"Open ",
+tender_159797/662898,Contract,"Department for Work and Pensions",Awarded,2018-03-26T15:07:43Z,"PSN Data Centre Connections","This contract will provide PSN Connectivity from two DWP Data Centres",,,"Any region","32400000 ",,dwppsnprocurement@dwp.gsi.gov.uk,"Peel Park",,Blackpool,"FY4 5ES",England,,,"Redacted.pdf ",,,31/01/2018,29/03/2021,31/01/2018,NO,,Yes,No,No,Services,91440,,31/01/2018,91440,"[Virgin Media Business|1st Floor Griffin House, W6 8BS|NONE||Yes|Yes]",,31/01/2018,29/03/2021,"Other ",
+249337,Contract,"University Of The West Of England",Awarded,2018-02-02T15:03:53Z,"Telephone line rentals","Telephone line rental until 31/7/18",,"bs16 1qy",,"64214400 ","Charlotte Rutherford",charlotte.rutherford@uwe.ac.uk,"Coldharbour Lane",,BRISTOL,BS161QY,England,01173282227,,,,,20/09/2017,31/07/2018,19/09/2017,NO,,No,No,No,Services,35000,,19/09/2017,35000,"[VIRGIN MEDIA BUSINESS LIMITED|Communications House Bartley Wood Business Park,Bartley Way
+HOOK
+Hampshire
+RG27 9UP
+GB|COMPANIES_HOUSE|01785381|No|No]","Paula Mullins",20/09/2017,31/07/2018,"OpenNonOJEU ",
+TR/NWAS/03/17-CCS,Contract,"NORTH WEST AMBULANCE SERVICE NHS TRUST",Awarded,2017-11-30T12:23:57Z,"Provision of Replacement WAN Services","North West Ambulance Service NHS Trust (NWAS) had a requirement to replace the current WAN service which must be fully PSN compliant.",,,"North West","32400000 ",,procurement.supplies@nwas.nhs.uk,"399 Chorley New Road",,Bolton,"BL1 5DD",England,,,,,,17/12/2017,16/12/2022,25/08/2017,NO,,Yes,No,No,Services,0,,30/11/2017,0,"[Virgin Media Business Limited|Virgin Media Business Limited
+Media House
+Bartley Wood Business Park
+Bartley Way
+Hook RG27 9UP|NONE||No|No]",,17/12/2017,16/12/2022,"CallOffFromFrameworkAgreement ",
+P103541,Contract,"MET OFFICE",Awarded,2017-10-17T14:20:28Z,"Data connection","Contract called off from Government Framework Agreement RM1045.",,,"South West","32400000 ",,procurement.enquiries@metoffice.gov.uk,"FitzRoy Road",,Exeter,"EX1 3PB",England,,,"P103541_REDACT_Redacted.pdf ",,,07/06/2017,31/08/2018,06/06/2017,NO,,Yes,No,No,Services,141000,,06/06/2017,141000,"[Virgin Media Business|Mayfair Business Park,
+Broad lane,
+Bradford,
+BD4 8YD|||No|No]",,07/06/2017,31/08/2018,"CallOffFromFrameworkAgreement ",
+"BHCC - 007611",Contract,"BRIGHTON & HOVE CITY COUNCIL",Awarded,2017-08-02T11:19:49Z,Telecommunications,"Supply of data & telephony lines and support services",,,"South East","64200000 ","Richard Allen",Richard.Allen@brighton-hove.gov.uk,"Bartholomew House, Bartholomew Square",,Brighton,"BN1 1JS",England,,,,,,01/08/2017,31/07/2019,31/07/2017,NO,,Yes,No,No,Services,243144,,31/07/2017,243144,"[Virgin Media Business Ltd|Media House, Bartley Wood Business Park, Hook, Hampshire RG27 9UP|||No|No]",,01/08/2017,31/07/2019,"DirectAward ",
+TR-NWAS-15-16,Contract,"NORTH WEST AMBULANCE SERVICE NHS TRUST",Awarded,2017-07-21T10:29:52Z,"Supply of Mobile Data and Telephony Services","Award Notice for Mobile Data and Telephony Services at North West Ambulance Service NHS Trust to provide a fully managed service to supply, maintain and support  a number of services including but not limited to integration into the NWAS fixed network infrastructure for data services, SMS and voice telephony services.
+The managed service element is not be required for tablet devices.
+The contract will be awarded for 5 years.",,,"North West","32500000 ",,procurement.supplies@nwas.nhs.uk,"Ladybridge Hall","Chorley New Road",Bolton,"BL1 5DD",England,,,,,,01/09/2017,31/08/2022,03/05/2017,NO,,No,No,No,Services,0,,10/07/2017,0,"[Virgin Media Business Limited|Media House, Bartley Wood Business Park,  Bartley Way, Hook RG27 9UP|||No|No]",,01/09/2017,31/08/2022,"Other ",
+2016-UCS-LW01,Contract,"THE PENNINE ACUTE HOSPITAL N H S TRUST",Awarded,2017-07-17T14:30:35Z,"Unified Communications Solution","The purpose of this further competition exercise run under a CCS Framework Agreement was to select a service provider whose provision of a Unified Communications Solution represented value for money, high quality service; combined with the ability to identify and implement service efficiencies across the Trust.",,,"North West","32412100 ",,procurement.nm@pat.nhs.uk,"The Pennine Acute Hospitals NHS Trust","North Manchester General Hospital, Delaunays Road, Crumpsall",Manchester,"M8 5RB",England,,,,,,11/07/2017,10/07/2022,02/02/2017,NO,,No,No,No,Products,4051925,,10/07/2017,4051925,"[Virgin Media Business Limited|Media House, 
+Bartley Wood Business Park, Bartley Way, 
+Hook, 
+Hampshire 
+RG27 9UP|||No|No]",,11/07/2017,10/07/2022,"Other ",
+UY/PROC/453,Contract,"UNIVERSITY OF YORK",Awarded,2017-06-30T15:07:49Z,"Telephone System Maintenance","Contract to provide maintenance and support for the University of York Telephone System. Contract awarded through the Crown Commercial Services RM1045 Framework Agreement.",,YO105DD,,"50334110 ","Rob Allan (Procurement Category Manager)",rob.allan@york.ac.uk,"University of York, Heslington",,York,YO105DD,England,,www.york.ac.uk,,,,01/08/2017,31/07/2022,10/05/2017,NO,,Yes,Yes,No,Services,0,,30/06/2017,0,"[Virgin Media Business|Media House, Bartley Wood Business Park, Hook, Hampshire, RG27 9UP|||No|No]","Heather Watson",01/08/2017,31/07/2022,"Other ",
+LPOOL001-DN255809-77333908,Contract,"Liverpool City Council",Awarded,2017-06-14T14:12:17Z,"Further Competition under CCS Framework RM1045 Lot 3 Traditional Telephony Services","Delivery of a fixed telephony service for Liverpool City Council establishments",,,"North West","72000000 ","Cheryl Cunliffe",cheryl.cunliffe@liverpool.gov.uk,"4th Floor, Cunard Building",,Liverpool,"L3 1DS",England,"+44 1512330592",http://www.liverpool.gov.uk,,,,01/04/2017,31/03/2020,30/09/2016,NO,,No,No,No,Services,941709,941709,09/02/2017,941709.6,"[Virgin Media Business|RG27 9UP|||No|No]","Joanna Spencer",01/04/2017,31/03/2020,"Other ",
+BIP262187507,Contract,"Muir Group Housing Association",Awarded,2017-06-10T11:36:04Z,"*** CONTRACT AWARD *** Server, Storage and Disaster Recovery Solution","CONTRACT AWARD for a Fully Resilient Server and Storage solution which includes all the required LAN & WAN connectivity between the servers proposed storage solution.
+      Upgrade of VMWare to the latest version
+      Upgrade of Citrix to the latest version.
+      24*7*365 monitoring service for their IT environment at the primary and DR location.
+      Implementation and Support for 5 years.",,,"North West","48800000 ",,chris.shaw@shawc.co.uk,"80 Lightfoot Street",Hoole,Chester,"CH2 3AL",UK,,,,"https://www.delta-esourcing.com/delta/respondToList.html?noticeId=262187507 ",,07/06/2017,01/09/2022,06/06/2017,NO,,Yes,No,No,Services,1151070,,06/06/2017,1151070,"[Virgin Media Business|Concord House, Concord Business Park
+        Threapwood Road
+        Wythenshawe
+        Manchester
+        M22 0EY|||No|No]",,07/06/2017,01/09/2022,"Open ",
+SO-18686.,Contract,"CROWN COMMERCIAL SERVICE",Awarded,2017-04-27T11:11:58Z,"PROVISION OF TELEPHONY SERVICES","This requirement is for the renewal of existing DVLA core telephony services including call charges and line rental. The current contract is due to expire July 2016. However, DVLA have contingency extension options in place to cover services whilst the tender is concluded if required. 
+The majority of services will be delivered to DVLA premises in Swansea, which include the DVLA Contact Centre based at Swansea Vale which handles the main incoming NGN traffic. The Contact Centre is located at SA7 0EE and supports some 1100 staff, Ty Felin located at Fforestfach SA 4AW, supporting some sixty staff with very low usage, and DVLA main site located at Longview Rd SA6 7JL which supports the majority of the DDI traffic and some five thousand staff.  However, please note that DVLA also has a number of remote and home workers which could require services across the whole of the United Kingdom.   
+The tender is for continuation of DVLA's voice services, internet access and voice network circuits for the next three years, with the option to extend for two further periods of one year each.  
+ 	Voice services will include but are not limited to delivery of; 
+ 	Non geographic traffic for both 0300 and 0906 numbers  
+ 	Outbound calls  
+Rental of circuits such as ISDN30, ISDN2, analogue lines, broadband circuits, managed internet lines, SIP trunks and WAN links etc.  
+Requirements include reliability of service, online management of our nongeographic call routing, electronic billing and auditing and MI. 
+The requirement should also include capacity and capability to scale provisions in preparation for an extension of the services to provide Telephony to Other Government Depts (OGDs). While it is anticipated that this extension of the Service to OGDs will take place, this will be at the request and discretion of the DVLA.",,SA67JL,,"32000000 ","Steven Lewis",Steve.lewis@crowncommercial.gov.uk,"CCS, Concept House, Cardiff Road,",,Newport,"NP10 8QQ",Wales,07909856691,,"Redacted Award Letter.pdf Redacted Call Off Order Form.pdf ",,,21/10/2016,20/10/2019,05/08/2016,NO,,Yes,No,No,Services,769248.84,,20/10/2016,769248.84,"[Virgin Media Business Ltd|Unit A & B Fountain Court 
+Cardiff CF3 0FB|||No|No]",,21/10/2016,20/10/2019,"Other ",
+CCOS16A07,Contract,"CROWN COMMERCIAL SERVICE",Awarded,2017-04-26T12:26:11Z,"Provision of Internet Connectivity","Redacted Contract Award Letter for Internet Connectivity Contract",,SA67JL,,"32000000 ","Steven Lewis",Steve.lewis@crowncommercial.gov.uk,"CCS, Concept House, Cardiff Road,",,Newport,"NP10 8QQ",Wales,07909856691,,"Internet Connectivity Redacted.pdf ",,,22/02/2017,21/02/2020,08/02/2016,NO,,Yes,No,No,Services,136500,,16/02/2017,136500,"[Virgin Media Business|Unit A & B Fountain Court  Cardiff CF3 0FB|||No|No]",,22/02/2017,21/02/2020,"Other ",
+BIP247756289,Contract,"Driver and Vehicle Licensing Agency",Awarded,2017-03-31T11:21:56Z,"Telephony Interim Services","Support and maintenance of DVLA Telecommunications network and equipment during contract re-tender and transition.",,,Wales,"50332000 ",,stephen.jones@dvla.gsi.gov.uk,"Longview Road",Morriston,Swansea,"SA6 7JL",UK,+44179286008,,,"https://www.delta-esourcing.com/delta/respondToList.html?noticeId=247756289 ",,01/06/2017,31/05/2019,24/03/2017,NO,,No,No,No,Services,4500000,,24/03/2017,4500000,"[Virgin Media Business|Media House
+        Bartley Wood Business Park
+        Hook|||No|No]",,01/06/2017,31/05/2019,"NotSpecified ",
+229999,Contract,"University Of The West Of England",Awarded,2017-01-09T12:57:27Z,"Telephone Line Rentals","Telephone Line Rentals and Call Charges until 31/07/17",,,"South West","45314200 ",,purchasing@uwe.ac.uk,"Frenchay Campus","Coldharbour Lane",Bristol,"BS16 1QY",England,,,,,,13/09/2016,31/07/2017,12/09/2016,NO,,No,No,No,NotApplicable,35000,,12/09/2016,35000,"[Virgin Media Business|Business Payments,
+PO Box 4459,
+Worthing, BN13 1XP|||No|No]",,13/09/2016,31/07/2017,"Other ",
+SO-18686,Contract,"CROWN COMMERCIAL SERVICE",Awarded,2016-12-14T14:13:07Z,"Provision of Telephony Services","The purpose of the procurement was to renew existing telephony services for DVLA. The contract will be inclusive of voice services, outbound and inbound calls (non-geographic numbers) and internet access and voice network circuits.",,,Wales,"32412000 ",,technology.operations@crowncommercial.gov.uk,"Concept House","Cardiff Road",Newport,"NP10 8QQ",Wales,,,"Redacted Award Letter.pdf Redacted Call Off Order Form.pdf ",,"Within scope of this Contract is the flexibility to allow Other Government Departments the option of utilising the contract during it's lifespan and DVLA will interface between the Other Government Department and the successful supplier.  Other Government Department's are only able to call off this contract for services in the same arena that are being provided to DVLA within the scope of this contract.",21/10/2016,20/10/2019,05/08/2016,NO,,No,No,No,Services,800000,25000000,20/10/2016,800000,"[Virgin Media Business Ltd|.|||No|No]",,21/10/2016,20/10/2019,"Other ",
+MT189069,Contract,"Ormiston Academies Trust",Awarded,2016-12-09T09:24:31Z,"IT Connectivity Services","Ormiston Academies Trust (OAT) has taken the strategic decision to centralise the procurement and delivery of IT Connectivity Services. This includes voice circuits (telephony), broadband/internet and e-safety for all of its academies and head office.",,,"Any region","72222300 ","Dean Lowe",dean.lowe@ormistonacademies.co.uk,"Ormiston House, 144 Newhall Street",,Birmingham,"B3 1RY",England,"+44 1212365100",http://www.ormistonacademiestrust.co.uk,,"http://www.mytenders.org/search/show/search_view.aspx?ID=DEC135554 ",,01/11/2016,31/10/2021,12/08/2016,NO,,Yes,No,No,Services,345000,,01/11/2016,345000,"[Virgin Media Business|260, 278 & 280 Bartley Way, Bartley Wood Business Park, Hampshire|||No|No][Talk Straight Group|Unit 2-4 Backstone Business Park, Dansk Way, Ilkley|||No|No][Softcat|Thames Industrial Estate, Fieldhouse Lane, Marlow|||No|No]",,01/11/2016,31/10/2021,"Open ",
+P102128,Contract,"MET OFFICE",Awarded,2016-12-05T17:48:28Z,"Data connection","Further competition under the Government Framework agreement RM1045.",,,"South West","32400000 ",,procurement.enquiries@metoffice.gov.uk,"FitzRoy Road",,Exeter,"EX1 3PB",England,,,"P102128_REDACT_Redacted.pdf ",,,15/08/2016,15/08/2021,30/10/2015,NO,,Yes,No,No,Services,199975,,15/08/2016,199975,"[Virgin Media Business|Mayfair Business Park,
+Broad Lane,
+Bradford,
+BD4 8YD|||No|No]",,16/08/2016,15/08/2021,"Restricted ",
+DS219-16,Contract,"DEVON & SOMERSET FIRE & RESCUE SERVICE",Awarded,2016-11-30T12:45:50Z,"Wide Area Network","The Authority has awarded a contract for Wide Area Network services through the Network Services Framework Agreement ID: RM1045.",,,"South West","72720000 ",,procurement@dsfire.gov.uk,"Service Headquarters","The Knowle, Clyst St George",Exeter,"EX3 0NW",England,"01392 872200",www.dsfire.gov.uk,,,,01/11/2016,31/10/2018,20/10/2016,NO,,Yes,No,No,Services,483000,,20/10/2016,483000,"[Virgin Media Business Ltd|Media House, Bartley Wood Business Park, Hook, Hampshire, RG27 9UP|||No|No]",,01/11/2016,31/10/2018,"Other ",
+CCIS16A12,Contract,"CROWN COMMERCIAL SERVICE",Awarded,2016-11-24T15:54:16Z,"CCIS16A12 Provision of Cloud Connectivity","Awarded contract from Cloud Connectivity on behalf of DVLA.",,,"Any region","32400000 ",,technology.operation@crowncommercial.gov.uk,"9th Floor","The Capital",London,"L3 9PP",England,,,"Redacted Award Letter.pdf ",,,24/11/2016,31/10/2017,30/09/2016,NO,,Yes,No,No,Products,72048,,24/11/2016,72048,"[Virgin Media Business|Unit A & B Fountain Court,
+Cardiff.
+CF3 0FB|||No|No]",,01/11/2016,31/10/2017,"Other ",
+LPOOL001-DN215003-41578337,Contract,"Liverpool City Council",Awarded,2016-10-19T11:18:42Z,"Further Competition under CCS Network Services Framework RM1045 Lot 1 for Private Data Circuits and Broadband (SOR1a and 5)","Further Competition under CCS Network Services Framework RM1045 Lot 1 for Private Data Circuits and Broadband (SOR1a and 5)",,,"North West","32000000 ","Kimberley Fisher",kimberley.fisher@liverpool.gov.uk,"4th Floor, Cunard Building",,Liverpool,"L3 1DS",UK,"+44 1512330591",http://www.liverpool.gov.uk,,,,17/10/2016,16/10/2019,09/08/2016,NO,,No,No,No,Services,1561128,1561128,16/10/2016,1561128,"[Virgin Media Business Limited|RG27 9UP|||No|No]",,17/10/2016,16/10/2019,"Other ",
+P101183,Contract,"MET OFFICE",Awarded,2016-05-19T11:49:59Z,"Data Connection Installation","Data Connection Installation",,,"South West","72000000 ",.,procurement.enquiries@metoffice.gov.uk,"Fitzroy Road",,Exeter,"EX1 3PB",England,,,"P101183_REDACT.pdf ",,,15/05/2016,31/05/2016,15/02/2016,NO,,Yes,No,No,Services,210500,,15/02/2016,210500,"[Virgin Media Business|SFSC, PO Box 1001,
+Mayfair Business Park,
+Broad Lane,
+Bradford,
+BD4 8YD|||No|No]",,15/05/2016,31/05/2016,"Other ",
+P101181,Contract,"MET OFFICE",Awarded,2016-05-16T14:25:05Z,"Internet connection","Internet connection",,,"South West","72400000 ",.,procurement.enquiries@metoffice.gov.uk,"Fitzroy Road",,Exeter,"EX1 3PB",England,,,"P101181_REDACT_Redacted.pdf ",,,15/02/2016,15/02/2019,15/02/2016,NO,,Yes,No,No,Services,14100,,15/02/2016,14100,"[Virgin Media Business|Communications House,
+1 Chippingham Street,
+Attercliffe, 
+Sheffield, 
+S9 3SE|||No|No]",,15/02/2016,15/02/2019,"Other ",
+217565,Contract,"University Of The West Of England",Awarded,2016-04-04T14:05:47Z,"Telephone Line Rentals","Telephone Line Rentals (01/08/15 to 31/07/16)",,,"South West","32551000 ","Andrew Parsons",Andrew7.Parsons@uwe.ac.uk,"Coldharbour Lane",Frenchay,Bristol,"BS16 1QY",England,,,,,,17/08/2015,17/08/2015,17/08/2015,NO,,No,No,No,Services,35000,,17/08/2015,35000,"[Virgin Media Business - ICOMS|Business Payments
+PO Box 4459
+Worthing|||No|No]",,17/08/2015,17/08/2015,"NotApplicable ",
+I-1-0044-16,Contract,"Bedfordshire Police",Awarded,2016-03-02T12:41:41Z,"Annual Renewal of Cisco/Juniper Estate","The Cambridgeshire ICT Department are requesting a Quotation for the Renewal of the Cisco/Juniper Estate, the Cambridgeshire ICT Department require a 1 Year Renewal to commence from the 1st April 2016 – 31st March 2017 the hardware for the support will need to be 8x5 NBD a total price will be required for the complete requirement, all information can be found on EU-Supply.com",,,"East of England","30200000 ","Chris Wain",christopher.wain@bedfordshire.pnn.police.uk,"Bedfordshire Police Hq",,Bedford,MK439AX,England,,,,,"The Cambridgeshire ICT Department are requesting a Quotation for the Renewal of the Cisco/Juniper Estate, the Cambridgeshire ICT Department require a 1 Year Renewal to commence from the 1st April 2016 – 31st March 2017 the hardware for the support will need to be 8x5 NBD a total price for the whole requirement is required and the opportunity is available on eu-supply.com ",01/04/2016,31/03/2017,14/03/2016,NO,,Yes,No,No,NotApplicable,0,,07/04/2016,65000,"[Virgin Media Business|Media House
+Bartley Wood Business Park
+Bartley Way
+Hook 
+RG27 9UP|||No|No]",,01/04/2016,31/03/2017,"Other ",
+RBGKEW/123,Contract,"ROYAL BOTANIC GARDENS",Awarded,2016-02-23T11:54:01Z,"Internet and Wide Area Network Data Connectivity Services","Provision of the following services:
+
+•	In and outbound Internet connectivity at the Kew site (TW9 3AE)
+•	In and outbound Internet connectivity at the Wakehurst Place site (RH16 6TN)
+•	Inter-site Wide Area Network data connectivity (TW9 3AB – RH16 6TN)
+•	Management and proactive monitoring of the services provided 
+•	Professional services to facilitate transition of service with minimal disruption",,,"London,South East","32410000 32430000 ",,procurement@kew.org,"The Herbarium, Kew Green",Kew,Richmond,"TW9 3AE",England,,,,,,29/01/2016,28/01/2018,06/11/2015,NO,,Yes,No,No,Services,85000,,18/12/2015,85000,"[Virgin Media Business|Communications House, Bartley Wood Business Park, Bartley Way, Hook, RG27 9UP|||No|No]",,29/01/2016,28/01/2018,"Other ",
+BIP173456085,Contract,"Muir Group Housing Associations",Awarded,2015-11-23T10:57:04Z,"CONTRACT AWARD - MANAGED WAN","Managed WAN, Internet and SIP Service",,,"North West","32412110 32430000 ",,chris.shaw@shawc.co.uk,"80 Lightfoot Street",Hoole,Chester,"CH2 3AL",UK,,,,"https://www.delta-esourcing.com/delta/respondToList.html?noticeId=173456085 ",,01/12/2015,31/05/2021,04/11/2015,NO,,No,No,No,Services,0,,04/11/2015,565965,"[Virgin Media Business|Virgin Media House
+Concord Business Park
+Threapwood Road
+Manchester
+M22 0EY|||No|No]",,01/12/2015,31/05/2021,"Open ",
+"LeO IP-VPN ITQ 2015",Contract,"LEGAL OMBUDSMAN",Awarded,2015-08-20T07:36:48Z,IP-VPN,"Provision of non PSN 100Mb VPN connection",,,"West Midlands","72720000 ","Paul Partridge",paul.partridge@legalombudsman.org.uk,"Edward House, Quay Place, Edward St",,Birmingham,"B1 2RA",England,,,,,,25/05/2015,24/05/2018,24/04/2015,NO,,No,No,No,Services,61710,,19/05/2015,61710,"[Virgin Media Business|Media House, Bartley Wood Business Park, Hook, Hampshire, RG27 9UP|||No|No]",,29/05/2015,24/05/2018,"Other ",
+"RM5223 SB-8542",Contract,"CROWN COMMERCIAL SERVICE",Awarded,2015-05-20T09:56:42Z,"Provision of Managed Internet Service","A replacement managed internet Service is required",,,London,"48200000 72400000 ",,spot.buying@crowncommercial.gov.uk,"Room 2Y92, Concept House, Cardiff Road",,Newport,"NP10 8QQ",Wales,,,"PSNC Call-Off - Transparency.pdf ",,,01/06/2015,01/06/2018,27/02/2015,NO,,Yes,No,No,Services,47811,,26/03/2015,47811,"[Virgin Media Business Ltd|Waterside Drive
+Aztec West
+Aldmonsbury
+Bristol
+Avon
+BS32 4ST|||No|No]",,01/06/2015,01/06/2018,"Restricted ",
+17-1256Q-LR,Contract,"ST HELENS & KNOWSLEY TEACHING HOSPITALS NHS TRUST",Awarded,2017-11-09T14:25:49Z,"Cisco Telephones","Cisco 7821 UC telephones x 1207",,,"North West","32552100 ","Lynne Redmond",lynne.redmond@sthk.nhs.uk,"Nightingale House","Whiston Hospital",Liverpool,"L35 5DR",England,"0151 478 7689",,,,,19/09/2017,20/09/2017,18/09/2017,NO,,Yes,No,No,Products,98913.65,124321,18/09/2017,98913.65,"[BT||||No|No][Daisy Communications Ltd||||No|No][Telent Technology||||No|No][Updata Infrastructure||||No|No][Virgin Media Business||||No|No]",,19/09/2017,20/09/2017,"CallOffFromFrameworkAgreement ",

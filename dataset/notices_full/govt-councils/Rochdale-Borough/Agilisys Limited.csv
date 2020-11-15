@@ -1,0 +1,87 @@
+"Notice Identifier","Notice Type","Organisation Name",Status,"Published Date",Title,Description,Nationwide,Postcode,Region,"Cpv Codes","Contact Name","Contact Email","Contact Address 1","Contact Address 2","Contact Town","Contact Postcode","Contact Country","Contact Telephone","Contact Website",Attachments,Links,"Additional Text","Start Date","End Date","Closing Date","Is sub-contract","Parent Reference","Suitable for SME","Suitable for VCO","Supply Chain","OJEU Contract Type","Value Low","Value High","Awarded Date","Awarded Value","Supplier [Name|Address|Ref type|Ref Number|Is SME|Is VCSE]","Supplier's contact name","Contract start date","Contract end date","OJEU Procedure Type","Accelerated Justification","Closing Time"
+MRTN001-DN487888-05098867,Contract,"London Borough of Merton",Awarded,2020-09-16T12:55:18Z,"ICT Service Design Review","Review ICT Service Delivery and produce a strategic improvement plan.\r
+\r
+The scope of work includes a requirement to undertake an initial review and assessment of the current IT architecture, existing service capacity and capabilities that are currently in place, and then provide recommendations on a future strategy for the service based on the findings.\r
+The work shall be carried out in three phases:\r
+\r
+1. Discovery\r
+1a. Architecture\r
+1b. Project & commercial\r
+2. Business capability mapping\r
+3. Review and report creation",,,London,"72222100 72222200 ","Tom Davis",tom.davis@merton.gov.uk,"Civic Centre","London Rd",Morden,"SM4 5DX","United Kingdom","+44 2082745215",http://www.merton.gov.uk/,,,,01/10/2020,31/03/2021,14/08/2020,NO,,Yes,Yes,No,Services,40000,40000,16/09/2020,40000,"[Agilisys Limited|W6 9DL|NONE||No|No]","Miss Gemma Teagle",01/10/2020,31/03/2021,"NotApplicable ",,23:59
+BRISTOLCC001-DN361762-68288488,Contract,"Bristol City Council",Awarded,2020-01-17T17:15:57Z,"Hosting and support for Unit4 Business World (""UBW"") finance system","The provision of support and hosting of the Council's Unit4 Business World finance system.",,,"South West","72000000 ","Geraint Harris",geraint.harris@bristol.gov.uk,"City Hall","College Green",Bristol,"BS1 5TR","United Kingdom","+44 1179223194",https://www.bristol.gov.uk/,,"https://procontract.due-north.com/Advert?advertId=82758b74-d765-e911-80f7-005056b64545 ",,25/06/2019,24/06/2022,24/05/2019,NO,,No,No,No,Services,500000,,12/07/2019,673000,"[Agilisys Limited|Third Floor, One Hammersmith Broadway, London W6 9DL|NONE||No|No]",,01/12/2019,30/11/2024,"Open ",
+TIS0323,Contract,"The Insolvency Service",Awarded,2019-12-24T12:18:16Z,"Business World Licencing and Support","Provision of SaaS Licencing and Support for Business World under the G-Cloud 11 Framework Agreement (RM1557.11). 
+",,,"West Midlands","72261000 ","Lisa Ellis",lisa.ellis@insolvency.gov.uk,"Cannon House","18 Priory Queensway",Birmingham,"B4 6FD",England,"0121 698 4422",www.insolvency.gov.uk,"RM1557.11-G-Cloud-11-Call-Off-Contract Redacted.docx ",,,28/07/2019,27/07/2021,27/07/2019,NO,,Yes,No,No,Services,0,2500000,27/07/2019,2500000,"[AGILISYS LIMITED|Hammersmith
+W6 9DL
+GB|COMPANIES_HOUSE|04327369|No|No]",Partner,28/07/2019,27/07/2021,"CallOffFromFrameworkAgreement ",
+BRISTOLCC001-DN391908-69203100,Contract,"Bristol City Council",Awarded,2019-02-08T11:36:34Z,"Hosting and support of the BCC corporate Finance system, ABW.","Hosting and support of the BCC corporate Finance system, ABW.",,,"South West","72000000 ","Michael Pilcher",Michael.Pilcher@bristol.gov.uk,"City Hall","College Green",Bristol,"BS1 5TR","United Kingdom",,https://www.bristol.gov.uk/,,,,28/05/2019,30/11/2019,04/02/2019,NO,,Yes,Yes,No,Services,220000,220000,06/02/2019,220000,"[Agilisys Limited|W6 9DL|NONE||No|No]","Mr Darren London",28/05/2019,30/11/2019,"Other ",
+tender_138078/717231,Contract,"NHS Business Services Authority",Awarded,2018-10-08T08:34:46Z,"NHS Business Services Authority IT Infrastructure Sourcing - Managed Infrastructure Services","The Authority's contract with its incumbent supplier for ICT managed services is due to expire on 31 December 2019.  The incumbent supplier provides all ICT managed services on an aggregated basis.  In this re-procurement of services the Authority is following a disaggregated model.  The new overarching target operating model (""TOM""), of which this contract for managed infrastructure services forms a part, is designed to enhance internal systems and service integration capabilities by replacing the single supplier ICT managed services with services provided by a  mix of in-house and external suppliers.
+
+This contract award notice relates to a contract for the design, implementation and maintenance of the centralised and distributed platforms and infrastructure services needed to support the Authority's in-scope business applications.  The centralised platforms and infrastructure services for these will be designed and built within the data centres by the managed infrastructure supplier; followed by a cutover of data and applications from the incumbent data centres.  Infrastructure services hosted on the Authority's sites will be transitioned to the new supplier via a 'walk in, takeover' approach.  This service will also include cloud brokerage where applications are able to be cloud hosted and so reduce the footprint of the residual ""on-premise"" data centre estate.
+
+The contract is in the form of a tailored version of the Crown Commercial Service's Model services Agreement.  The TOM involves a move away from dependency on a single prime supplier to a multi-supplier environment with suppliers being onboarded, offboarded and managed by the Authority under service integration and management function arrangements.  Collaboration and cooperation across the supplier base is critical to the success of the TOM in that end-to-end service delivery can only be achieved where the key suppliers are working together collaboratively.  Each supplier's ability to perform the services and meet service levels is in part dependent on one or more of the other suppliers and this has been recognised in the contract with the inclusion of collaboration principles, seeking to enable a coordinated approach to ensure the seamless, continuous, effective, timely and proper delivery of services.",,,"North East,North West,Yorkshire and the Humber,East Midlands,West Midlands,East of England,London,South East,South West","72000000 ","Sean  Murphy",sean.murphy4@nhs.net,"Stella House, Goldcrest Way, Newburn Riverside Business Park",,"Newcastle upon Tyne","NE15 8NY",England,"0191 2035068",,,,"
+The initial term of the contract is 4 years.  There is the option to extend for two further 12-month periods.
+
+A contract award notice was submitted, using the eNotices portal for European public procurement, on 4 October 2018.",22/08/2018,21/08/2022,17/04/2018,YES,tender_138078/596077,Yes,No,No,Services,29893718,,22/08/2018,29893718,"[Agilisys Limited|Third Floor, One Hammersmith Broadway, London, W6 9DL|COMPANIES_HOUSE|04327369|No|No]",,22/08/2018,21/08/2022,"CompetitiveProcedureWithNegotiationOJEU ",
+FFPS,Contract,"The Insolvency Service",Awarded,2017-11-01T17:19:37Z,"Future Finance and Planning System","A supplier market analysis exercise was undertaken on the using the Crown Commercial Services Framework RM1557viii (G Cloud 8) where a shortlist of potential suppliers who could meet the requirements of The Insolvency Service - Future Finance and Planning System (FFPS) were identified.  
+
+A tender exercise and subsequent procurement were executed using the G Cloud 8 framework for the group wide finance system",,,"West Midlands","48000000 ",,Procurement@insolvency.gsi.gov.uk,"Abbey Orchard Street,",,"London,","SW1P 2HT",England,,,"FFPS - Call Off.pdf ",,,28/07/2017,27/07/2019,26/07/2017,NO,,Yes,No,No,Services,1500000,2000000,27/07/2017,1800000,"[Agilisys Limited|Registered office: One Hammersmith Broadway, Hammersmith, London W6 9DL, UK.  
+
+Registered in England No 04327369|||Yes|No]",,28/07/2017,27/07/2019,"Other G Cloud 8 Framework",
+SEFT001-DN264458-69209749,Contract,"Sefton Council",Awarded,2017-06-19T10:55:15Z,"ARFQ - Insourcing Project Manager","Sefton Council currently outsources a number of key services under a 10 year agreement which commenced in October 2008.  These services are:
+
+•	ICT
+•	Revenues & Benefits
+•	Customer Services
+•	Transactional HR & Payroll; and
+•	Accounts Payable
+
+The contract is due to conclude in September 2018, and Sefton Council with their outsourced partner has commenced a programme of work relating to an agreed Exit Plan.  
+
+As part of this programme, Sefton Council are advertising for an experienced Insourcing Project Manager. This post is required to ensure the orderly transition of services from the Service Provider to the Council and /or any replacement Service Provider for ICT by 1st October 2018.",,,"North West","79410000 79414000 79415000 79416000 79417000 79418000 79419000 ","Lynda Mitchell",lynda.mitchell@sefton.gov.uk,"7th Floor Merton House","Stanley Road",Bootle,"L20 3UU","United Kingdom","+44 1519344070",http://www.sefton.gov.uk/,,,,12/06/2017,31/10/2018,23/05/2017,NO,,Yes,Yes,No,Services,140000,140000,13/06/2017,140000,"[Agilisys Limited|W6 9DL|||No|No]","Mr Darren London",16/06/2017,31/10/2018,"Open ",
+LEICSCC001-DN232063-34025187,Contract,"Leicestershire County Council",Awarded,2017-03-23T14:42:10Z,"Consultancy Support re: An assessment of the effectiveness of the current Information & Technology service, and of future strategic direction and supporting plans","The scope of the review will cover a number of areas as follows:-
+
+•	Information & Technology Strategy - whether fit for purpose in setting direction for the medium term.
+•	Current capacity for strategic planning, horizon scanning, bringing ideas and innovation into the Council.
+•	Assessment of emerging transition/improvement plan.
+•	Assessment of strategic and technical roadmaps and general direction of travel e.g. simplification, use of cloud.
+•	Current structures - including leadership and management capacity and capability.
+•	Effectiveness of new Target Operating Model, and synergies between all parts of the service.
+•	Assessment of current and future budget provision, set against size of organisation and agenda, current & desired state.
+•	Balance between in-house resources and those that are externally commissioned or provided via contractors.
+•	Positioning of function i.e. business led v ICT led decisions.
+•	Possible future models of delivery.
+•	Comparison of LCC I & T service against other organisations of a similar size and industry best practice
+Documentation will be provided to the appointed consultant (structure charts, I&T Strategy, budget information, restructure documents, target operating model, roadmaps, other technical documents as necessary) in order that the time can be spent on discussions and analysis rather than data collection.  Consultants should therefore share at proposal stage the assumptions made regarding information required at project commencement.
+
+The client for the work will be a small panel comprising:-
+•	Director of Corporate Resources
+•	Assistant Director (Corporate Services)
+•	Head of Information & Technology",,,"East Midlands","72000000 ","Manjit Saroya",Manjit.Saroya@leics.gov.uk,"County Hall","Leicester Road Glenfield",Leicester,"LE3 8RA",England,"+44 1163057780",http://www.leics.gov.uk,,"https://procontract.due-north.com/Advert?advertId=189cd652-6cd2-e611-80da-005056b64545 ",,27/01/2017,26/01/2018,17/01/2017,NO,,No,No,No,Services,40000,40000,24/01/2017,40000,"[Agilisys Limited|26-28 Hammersmith Grove, Hammersmith, London, Greater London, W6 7AW, United Kingdom|||Yes|No]",,27/01/2017,28/02/2017,"Open ",
+KMCLGM-002,Contract,"Kirklees Council",Awarded,2017-02-01T16:21:23Z,"KMCLGM-002 Information Goverance Consultant Support","Provision of Information Governance Consultant Support. 
+
+This requirement has been split in to four (4) activities:
+ 1. Information Management Strategy Development
+2. Information Asset Register 
+3. Transparency and Publication Improvements 
+4. Records Management Plan",,,"Yorkshire and the Humber","79411000 79413000 ",,procurement@kirklees.gov.uk,"Civic Centre 3",,Huddersfield,"HD1 2EY",England,,,,,,13/02/2017,13/10/2017,23/01/2017,NO,,Yes,No,No,Services,58800,,30/01/2017,58800,"[Agilisys Limited|26 Hammersmith Broadway, London W6 7AW|||No|No]",,13/02/2017,13/10/2017,"Open ",
+SEFT001-DN171037-56691382,Contract,"Sefton Council",Awarded,2016-07-13T13:44:32Z,"ARFQ - To provide Sefton Council with Additional Resource for the Development of a New Target Operating Model for Key Council Services ","Sefton Council currently outsources a number of key services under a 10 year agreement which commenced in October 2008. These services are:
+
+•	ICT
+•	Revenue & Benefits
+•	Customer Services
+•	Transactional HR & Payroll; and
+•	Accounts Payable
+
+This agreement is due to end in September 2018, and Sefton Council has commenced a programme of work to determine the specification that supports the optimum delivery model for the services after that date, and that reflects the business requirements of the Council & the Resource envelope available.
+
+As part of this programme, Sefton Council is seeking external expertise to help develop these business requirements and identify the optimum target operating model for the abovementioned key Council services.
+",,,"North West","66170000 72000000 73220000 ","Lynda Mitchell",lynda.mitchell@sefton.gov.uk,"7th Floor Merton House","Stanley Road",Bootle,L203UU,UK,"+44 1519344070",http://www.sefton.gov.uk/,,"https://procontract.due-north.com/Advert?advertId=dbd3d0e4-fe48-e611-8114-000c29c9ba21 ",,17/08/2016,31/01/2017,04/08/2016,NO,,Yes,No,No,Services,100000,100000,19/08/2016,98300,"[Agilisys Limited|W6 7AW|||No|No]",,22/08/2016,31/01/2017,"Open ",
+BIP163002387,Contract,"Haringey Council",Awarded,2015-10-04T10:42:03Z,"Strategic Partner toSsupport the Customers Services Transformation Programme","The tender was for a Strategic Partner to support the London Borough of Haringey in delivering the CST Programme.
+Haringey invited tenders for the provision of consultancy services to assist in the implementation of the CST Programme in accordance with the terms and conditions of the MCAS Framework (ref RM662 – Lot 3).  
+
+Procurement description – to deliver a programme of performance improvement alongside delivering a better customer experience rather than delivering large scale financial efficiencies.
+
+Nature of works – to develop an over arching strategy and vision for ways customers access services, supported by a new target operating model for Customer Services",,,London,"79418000 66171000 79221000 79412000 73220000 79411100 66170000 79411000 72221000 72224000 79414000 79400000 98200000 79410000 ",,Andrew.Rostom@haringey.gov.uk,"10 Station Road, Alexandra House,",,London,"N22 7TR",UK,+442084898316,,,"https://www.delta-esourcing.com/delta/respondToList.html?noticeId=163002387 ",,07/10/2013,29/07/2016,30/07/2013,NO,,No,No,No,Services,2085000000,,30/07/2013,2085000000,"[Agilisys Limited|Fourth Floor, 1 One Hammersmith Broadway
+London
+W6 9DL|||No|No]",,07/10/2013,29/07/2016,"Negotiated ",

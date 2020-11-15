@@ -1,0 +1,17 @@
+"Notice Identifier","Notice Type","Organisation Name",Status,"Published Date",Title,Description,Nationwide,Postcode,Region,"Cpv Codes","Contact Name","Contact Email","Contact Address 1","Contact Address 2","Contact Town","Contact Postcode","Contact Country","Contact Telephone","Contact Website",Attachments,Links,"Additional Text","Start Date","End Date","Closing Date","Is sub-contract","Parent Reference","Suitable for SME","Suitable for VCO","Supply Chain","OJEU Contract Type","Value Low","Value High","Awarded Date","Awarded Value","Supplier [Name|Address|Ref type|Ref Number|Is SME|Is VCSE]","Supplier's contact name","Contract start date","Contract end date","OJEU Procedure Type","Accelerated Justification","Closing Time"
+2017113,Contract,"HER MAJESTYS LAND REGISTRY",Awarded,2017-10-04T15:39:08Z,"Elasticsearch Gold Subscription","Gold Subscription for 6 Nodes",,,"Any region","79980000 ",,CorporateProcurement@landregistry.gov.uk,"Procurement & Commercial Group","Land Registry Procurement Unit, PO Box 292,",Plymouth,"PL5 9BY",England,,,,,,12/07/2017,11/07/2018,14/06/2017,NO,,No,No,No,Services,21000,,11/07/2017,21000,"[Elasticsearch Ltd|London|||No|No]",,12/07/2017,11/07/2018,"Other Direct Award",
+P107947,Contract,"MET OFFICE",Awarded,2020-07-27T16:45:11Z,"IT Services","IT Services.",,,"South West","72000000 ",,procurement.enquiries@metoffice.gov.uk,"Fitzroy Road",,EXETER,EX13PB,England,,,,,,20/03/2020,25/03/2021,19/03/2020,NO,,Yes,No,No,Services,101000,,19/03/2020,101000,"[ELASTICSEARCH LTD|5 SOUTHAMPTON STREET 
+DAVIDSON BUILDING 
+LONDON
+W2CE 7HA|COMPANIES_HOUSE|08362475|Yes|No]",,20/03/2020,25/03/2021,"SingleTenderActionNonOJEU ",
+P105509,Contract,"MET OFFICE",Awarded,2019-01-29T15:09:10Z,"Subscription to IT services","IT services subscription",,,"South West","48000000 ",,procurement.enquiries@metoffice.gov.uk,"Fitzroy Road",,EXETER,EX13PB,England,,,,,,09/10/2018,09/10/2019,08/10/2018,NO,,Yes,No,No,Services,29500,,08/10/2018,29500,"[Elasticsearch LTD|5 Southampton Street,
+Davidson Building,
+London, 
+W2CE 7HA|NONE||Yes|No]",,09/10/2018,09/10/2019,"CompetitiveQuotationNonOJEU ",
+DN298480,Contract,"Department Of International Trade",Awarded,2017-09-13T17:14:30Z,"Billable Nodes for Platinum Subcription","Billable nodes for a platinum subscription includes commercial license and support for Elastic's X-Pack.",,,"Any region","72000000 ",,DITcommercialenquiries@trade.gsi.gov.uk,"3 Whitehall Place",,London,"SW1A 2AW",England,,,,,,06/07/2017,05/07/2018,15/06/2017,NO,,No,No,No,Services,22500,,15/06/2017,22500,"[Elasticsearch Ltd|5 Southampton Street
+Davidson Building
+W2CE 7HA|||No|No]",,06/07/2017,05/07/2018,"CallOffFromFrameworkAgreement ",
+P101559,Contract,"MET OFFICE",Awarded,2016-08-18T14:36:55Z,"Software licence","Contract called off from Government Framework Agreement.",,,"South West","48000000 ",,procurement.enquiries@metoffice.gov.uk,"Fitzroy Road",,Exeter,"EX1 3PB",England,,,"P101559_REDACT_Redacted.pdf ",,,19/04/2016,30/04/2019,19/04/2016,NO,,Yes,No,No,Services,63900,,19/04/2016,63900,"[Elasticsearch Ltd|5 Southampton Street,
+Davidson Building,
+London,
+W2CE 7HA|||No|No]",,19/04/2016,30/04/2019,"Other ",

@@ -1,0 +1,819 @@
+"Notice Identifier","Notice Type","Organisation Name",Status,"Published Date",Title,Description,Nationwide,Postcode,Region,"Cpv Codes","Contact Name","Contact Email","Contact Address 1","Contact Address 2","Contact Town","Contact Postcode","Contact Country","Contact Telephone","Contact Website",Attachments,Links,"Additional Text","Start Date","End Date","Closing Date","Is sub-contract","Parent Reference","Suitable for SME","Suitable for VCO","Supply Chain","OJEU Contract Type","Value Low","Value High","Awarded Date","Awarded Value","Supplier [Name|Address|Ref type|Ref Number|Is SME|Is VCSE]","Supplier's contact name","Contract start date","Contract end date","OJEU Procedure Type","Accelerated Justification","Closing Time"
+tender_200635/748427,Contract,HS2,Awarded,2019-02-22T09:01:37Z,"Renewal of Check Point Gateways and Check Point Management Console Subscription.","A contract has been awarded to Phoenix Software Ltd for the provision of Check Point Gateways and Check Point Management Console Subscriptions for the period 23.02.2019 to 22.02.2020. .",,,"West Midlands,London","48000000 ","Stephen Mann",stephen.mann@hs2.org.uk,"2 Snow Hill Queensway, Snowhill",,Birmingham,"B4 6GA",England,,,,,,23/02/2019,22/02/2020,21/02/2019,NO,,Yes,No,No,Products,49804,,21/02/2019,49804.01,"[Phoenix Software Ltd|Bytes House, Randalls Way, Leatherhead, Surrey, KT22 7TW|COMPANIES_HOUSE|02548628|No|No]",,23/02/2019,22/02/2020,"SingleTenderActionNonOJEU ",
+"DDaT19144 - Talend Cloud Data Management Platform",Contract,"UK SHARED BUSINESS SERVICES LIMITED",Awarded,2019-06-18T13:48:32Z,"DDaT19144 - Talend Cloud Data Management Platform","UKRI are procuring Talend Cloud Data Management Platform and Platinum support via direct award to Phoenix Software via the KCS framework.",,,"South West","48000000 ",,ddatprocurement@uksbs.co.uk,"Polaris House","North Star Avenue",SWINDON,SN21FF,England,,,,,,10/06/2019,09/06/2020,09/06/2019,NO,,Yes,No,No,Products,81450.88,,09/06/2019,81450.88,"[Phoenix Software Ltd|Bytes House, Randalls Way, Leatherhead, Surrey, United Kingdom, KT22 7TW|NONE||No|No]",,10/06/2019,09/06/2020,"CallOffFromFrameworkAgreement ",
+tender_204020/762985,Contract,"Public Health England",Awarded,2019-04-30T17:06:42Z,"PHE - Corporate - ICT - Support Contract for Exascaler ES7K HPC Storage System","Public Health England, an executive agency of the Department of Health and Social and Social Care (DH) (hereafter referred to as ""Public Health England"" or ""PHE"" also referred to as the ""Contracting Authority"" or the ""Authority"" or the ""Employer"") awarded the contract to the Phoenix Software Limited following a competitive tender in accordance with Crown Commercial Service Framework RM3733 for EXAscaler support on an existing DataDirect Networks (DDN) ES7K system and associated items. PHE purchased a HPC storage system from DDN via the OCF Plc distributor. DDN will only provide support contracts through original vendor for each storage system, in this case OCF plc. As a result , only responses from approved re-seller or Partners of OCF PLC was considered.",,,"Any region","72610000 ",,tenders@phe.gov.uk,"61 COLINDALE AVENUE",,LONDON,"NW9 5EQ",England,,,,"https://phe.bravosolution.co.uk/web/login.shtml ",,12/04/2019,29/03/2020,12/04/2019,NO,,Yes,No,No,Services,11085,,19/03/2019,117561,"[Phoenix Software Ltd|Phoenix Software Ltd., Blenheim House, York Rd, Pocklington, York YO42 1NS|NONE||No|No]",,30/03/2019,29/03/2020,"CallOffFromFrameworkAgreement ",
+tender_200394/758851,Contract,"Public Health England",Awarded,2019-04-01T12:11:39Z,"PHE - Corporate - ICT - High ghz Levona Server and associated items","Public Health England, an executive agency of the Department of Health and Social and Social Care (DH) (hereafter referred to as ""Public Health England"" or ""PHE"" also referred to as the ""Contracting Authority"" or the ""Authority"" or the ""Employer"") awarded the contract to the Phoenix Software Limited following a competitive tender in accordance with Lot 1 Commercial Service Framework RM3733 for high-GHZ servers and associated items. Only responses from approved re-seller or Partners of OCF PLC was considered.",,,"Any region","30200000 ",,tenders@phe.gov.uk,"61 COLINDALE AVENUE",,LONDON,"NW9 5EQ",England,,,,"https://phe.bravosolution.co.uk/web/login.shtml ",,20/03/2019,30/04/2019,28/02/2019,NO,,Yes,No,No,NotSpecified,12570,,19/03/2019,12570,"[Phoenix Software Ltd|Bytes House, Randalls Way, Leatherhead, Surrey, United Kingdom, KT22 7TW|NONE||No|No]",,20/03/2019,30/04/2019,"CallOffFromFrameworkAgreement ",
+tender_200211/758834,Contract,"Public Health England",Awarded,2019-04-01T12:02:22Z,"PHE - Corporate - ICT - Supply of High-RAM Lenovo servers and associated items","Public Health England, an executive agency of the Department of Health and Social and Social Care (DH) (hereafter referred to as ""Public Health England"" or ""PHE"" also referred to as the ""Contracting Authority"" or the ""Authority"" or the ""Employer"") awarded the contract to the Phoenix Software Limited following a competitive tender in accordance with Lot 1 Commercial Service Framework RM3733 for high performance RAM servers and associated items. Only responses from approved re-seller or Partners of OCF PLC was considered.",,,"Any region","30200000 ",,tenders@phe.gov.uk,"61 COLINDALE AVENUE",,LONDON,"NW9 5EQ",England,,,,"https://phe.bravosolution.co.uk/web/login.shtml ",,19/03/2019,30/04/2019,27/02/2019,NO,,Yes,No,No,NotSpecified,33909,,19/03/2019,117561,"[Phoenix Software Ltd|Bytes House, Randalls Way, Leatherhead, Surrey, United Kingdom, KT22 7TW|NONE||No|No]",,19/03/2019,30/04/2019,"CallOffFromFrameworkAgreement ",
+SSAN17,Contract,"Victory Housing Trust",Awarded,2017-08-02T12:13:07Z,"Server and Storage Area Network (SAN) - Contract Award under Lot 1 CCS Framework RM3733","This notice is to notify the market that Victory Housing Trust in North Walsham, UK have made a Contract Award to Phoenix Software Limited following a Further Competition for the supply of Servers and Storage Area Network refresh under Lot 1 of the Crown Commercial Service RM3733 Technology Products 2 Agreement.",,"NR28 0NB",,"48820000 ",,mark.turner@victoryhousing.co.uk,"Tom Moore House","Cromer Road","North Walsham","NR28 0NB",England,,,,,,07/08/2017,31/08/2020,14/07/2017,NO,,Yes,No,No,NotApplicable,129509.04,,21/07/2017,129509.04,"[Phoenix Software Ltd|Blenheim House
+York Road
+Pocklington
+York
+YO42 1NS|||No|No]",,02/08/2017,31/08/2020,"Other ",
+WARRINGTONLIVE001-DN470601-47478063,Contract,"Warrington Borough Council",Awarded,2020-04-21T08:17:04Z,"Provision of a Managed Software Asset Management Service","Provision of a software asset management service for the purpose of tracking the use of proprietary software under licence granted by third parties.",,,"North West","72000000 ","Christopher Hilditch",childitch@warrington.gov.uk,"New Town House","Buttermarket Street",Warrington,"WA1 2NH",England,,http://www.warrington.gov.uk/,,,,21/04/2020,21/04/2023,01/04/2020,NO,,Yes,No,No,Services,75000,75000,15/04/2020,75000,"[Phoenix Software Ltd|YO42 1NS|NONE||Yes|No]","Ms Bids Admin",21/04/2020,21/04/2023,"Other ",
+30006010,Contract,"LEEDS TRINITY UNIVERSITY",Awarded,2018-09-18T15:16:52Z,"Campus software license agreements 2018-19 - call off contract from SUPC awarded Software License Re-sellers Agreement","campus software licenses 2018-19",,LS185HD,,"48000000 ","Mark Hayter",m.hayter@leedstrinity.ac.uk,"Brownberrie Lane, Horsforth",,LEEDS,LS185HD,England,"01132837100 ext 471",,,,,01/08/2018,31/07/2019,31/07/2018,NO,,Yes,No,No,Products,0,,31/07/2018,43369,"[Phoenix Software Ltd|Blenheim House
+York Road
+Pocklington
+York|NONE||No|No]",,01/08/2018,31/07/2019,"CallOffFromFrameworkAgreement ",
+5a9a091c-62b1-4742-a589-cf38c8e89630,Contract,"Yeovil College",Awarded,2020-10-13T11:29:47Z,"CA7720 - CPC/KL/01/2018: Software Licenses & Associated Services for Academies & Schools","This is a re-tender of the current Software Licenses - Academies & Schools framework which was originally tendered for at the beginning of 2014 and launched to CPC members in July 2014.  The new framework will be available to all Schools & Academies who are CPC members https://www.thecpc.ac.uk/members/regions.php.  The new framework will be split into 4 lots and will run for an initial duration of 2 years with the option to extend by two possible one year extensions.  CPC Membership is open to the entire Education Sector, details of which are available here: https://www.gov.uk/guidance/get-information-about-schools\
+\
+To access this competition: \
+\
+Registered:\
+Login to https://suppliers.multiquote.com and view the opportunity CA7720.\
+\
+Not registered:\
+Visit https://suppliers.multiquote.com then register and quote CA7720 as the reason for registration. \
+\
+ Any queries please contact MultiQuote on 0151 482 9230.",,"BA21 4DR","Any region","48000000 ","Christine Young",support@multiquote.com,"Holland's Campus","Mudford Road",Yeovil,"BA21 4DR",England,"0151 482 9230",https://suppliers.multiquote.com,,,,01/10/2020,30/09/2023,01/10/2020,NO,,Yes,No,No,Services,0,0,13/10/2020,91946,"[Phoenix Software Ltd|Blenheim House, York Road, Pocklington, YO42 1NS|NONE||No|No]","Bids Team",01/10/2020,30/09/2023,"Open ",,00:00
+DN463378,Contract,"Basingstoke & Deane Borough Council",Awarded,2020-06-18T11:55:51Z,"SUPPLY OF MICROSOFT ENTERPRISE AGREEMENT UNDER FRAMEWORK RM3733 TECHNOLOGY PRODUCTS 2, LOT 2","Basingstoke and Deane Borough Council ('the Council') were looking to enter into a three year contract for the provision of a Microsoft Enterprise Agreement.
+
+The aims and objectives of the services were:
+
+(i) To be the councils Licensing Solutions Partner (LSP) for its Microsoft Enterprise Agreement.
+
+(ii) To help the council manage its Microsoft licensing to ensure good value from its investments while ensuring that the council continues to maintain software compliance.
+
+(iii) To help the council manage the Software Assurance Benefits available under the agreement",,,"South East","48000000 ","Procurement Team",procurement@basingstoke.gov.uk,"Civic Offices",,BASINGSTOKE,RG214AH,England,"01256 844844",,,,,01/04/2020,31/03/2023,21/02/2020,NO,,Yes,No,No,Services,0,,03/03/2020,558490.54,"[Phoenix Software Ltd|Blenheim House
+York Road
+Pocklington
+north Yorkshire
+YO42 1NS|COMPANIES_HOUSE|2548628|Yes|No]",,01/04/2020,31/03/2023,"Other further competition under a framework",
+WYRE002-DN446338-51878251,Contract,"Wyre Forest District Council",Awarded,2019-12-20T10:57:19Z,"Contract for the Provision of Microsoft Licences Software Assurance for Current Server / SQL SCE","Provision of Microsoft Licences Software Assurance for Current Server/SQL SCE",,,"West Midlands","48000000 ","Jackie Reed",procurement@wyreforestdc.gov.uk,"Wyre Forest House","Finepoint Way",Kidderminster,"DY11 7WF",England,"+44 1562732928",https://www.wyreforestdc.gov.uk,,"https://procontract.due-north.com/Advert?advertId=3ffe4cf6-1302-ea11-80fb-005056b64545 ",,28/11/2019,27/11/2022,15/11/2019,NO,,No,No,No,Products,100000,100000,19/11/2019,91337.1,"[Phoenix Software Ltd|Blenheim House, York Road, Pocklington, York  YO42 1NS|NONE||Yes|No]",,28/11/2019,27/11/2022,"Open ",
+"CCD00724 - AWARD",Contract,"Supply Hertfordshire",Awarded,2019-12-17T09:04:38Z,"SBC 0819 VDI Infrastructure Hardware & Software Replacement - AWARDED - AWARD","Stevenage Borough Council are currently seeking quotes for the provision of the VDI Infrastructure Hardware & Software Replacement project. via CCS: RM3733 framework
+      The quotation documents can be accessed from the 'My Tenders' area of the Supply Hertfordshire website and selecting the 'View Details' button of this project.
+      
+      Please note the deadline for returns and allow sufficient time to make your return as late returns will not be permitted.
+      Any questions relating to this quote should be made via correspondence on the website and can be addressed to the main contact as shown in the details above.",,"SG1 1HN","East of England","44316400 72268000 ","Sharon Wallace (SBC)",sharon.wallace@stevenage.gov.uk,Danestrete,Stevenage,Hertfordshire,"SG1 1HN","United Kingdom","01438 242854",,,,,02/01/2020,30/06/2020,23/09/2019,NO,,No,No,No,Services,0,,09/12/2019,558830,"[Phoenix Software Ltd|Blenheim House, York Road, Pocklington, United Kingdom, YO42 1NS|NONE||No|No]","Keith Martin",02/01/2020,30/06/2020,"NotApplicable ",
+THANET001-DN452743-02576284,Contract,"Thanet District Council",Awarded,2019-12-10T15:54:49Z,"Antivirus Software","Award notice for provision of Antivirus Software.  Please note this contract has already been awarded and is published for Transparency purposes only.",,,"South East","48000000 ","Linda Taylor",linda.taylor@thanet.gov.uk,"Thanet District Council","Cecil Street",Margate,"CT9 1XZ","United Kingdom","+44 1843577031",http://www.thanet.gov.uk/,,,,25/11/2019,24/11/2022,01/11/2019,NO,,Yes,No,No,Services,42835,42835,11/11/2019,42835,"[Phoenix Software Ltd|Blenheim House, York Road, Pocklington, York|NONE||Yes|No]",,25/11/2019,24/11/2022,"Restricted ",
+3ffcc84c-03f8-4bcd-8d99-90f600501aba,Contract,"Halesowen College",Awarded,2019-11-11T12:37:16Z,"CA6622 - SUPC02: Software License Resellers Agreement for Colleges","Software License Resellers Agreement for Colleges
+
+To access this competition: 
+
+Registered:
+Login to https://suppliers.multiquote.com and view the opportunity CA6622.
+
+Not registered:
+Visit https://suppliers.multiquote.com then register and quote CA6622 as the reason for registration. 
+
+ Any queries please contact MultiQuote on 0151 482 9230.",,"B63 3NA","Any region","48000000 72000000 ","Corinne Youren",support@multiquote.com,"Whittingham Road",,Halesowen,"B63 3NA",England,"0151 482 9230",https://suppliers.multiquote.com,,,,01/11/2019,31/10/2020,01/11/2019,NO,,Yes,No,No,Works,0,,11/11/2019,61000,"[Phoenix Software Ltd|Blenheim House, York Road, Pocklington, YO42 1NS|NONE||No|No]","Bids Team",01/11/2019,31/10/2020,"Open ",
+DDaT19186,Contract,"UK SHARED BUSINESS SERVICES LIMITED",Awarded,2019-07-23T13:55:30Z,"Micro Focus Software Licencing Renewal","This was for the licencing renewal for the Micro focus software for the period of 1st August 2019 - 31st July 2020.
+
+This was awarded based on a three quote process carried out with the chosen supplier being the most cost effective.",,"SN2 1PL",,"48000000 ",,ddatprocurement@uksbs.co.uk,"Polaris House","North Star Avenue",SWINDON,SN21FF,England,,,,,,01/08/2019,31/07/2020,23/07/2019,NO,,Yes,No,No,Products,27640,,23/07/2019,27640,"[Phoenix Software Ltd|Blenheim House,
+York Road,
+Pocklington,
+York,
+Yorkshire,
+YO42 1NS|NONE||No|No]",,01/08/2019,31/07/2020,"CompetitiveQuotationNonOJEU ",
+SDDC-AB-SH-2018-041,Contract,"Chesterfield Royal Nhs Foundation Trust",Awarded,2018-12-07T13:17:33Z,"South Derbyshire District Council -  Microsoft Enterprise Agreement","South Derbyshire District Council (SDDC) has an existing Microsoft Enterprise Agreement, due to expire on 31 December 2018, providing licences and software assurance. 
+SDDC is looking to award a contract for 3 years, to remain licenced for our current products but also to meet the requirements outlined in Specification in Annex B2 of Section B. Prospective suppliers are asked to recommend the most cost effective method for the SDDC to ensure the required licences remain in place. The items required for this procurement are as follows;
+•	Provision of all Licences and software assurance
+•	On-going account management and service reviews
+•	Appropriate training and planning vouchers
+•	Option to call off a Microsoft Effective Licence Position Audit during the contract
+•	Option to add licences at any time during the contract of Microsoft products",,,"Any region","48000000 ","Amanda Gregory",amanda.gregory4@nhs.net,"Chesterfield Road, Calow, Heath",,CHESTERFIELD,S445BL,England,"01246 513563",,,,,01/01/2019,31/12/2021,09/11/2018,NO,,Yes,No,No,Services,0,,04/12/2018,273852.36,"[Phoenix Software Ltd|Blenheim House 
+York Road 
+Pocklington 
+North Yorkshire 
+YO42 1NS|NONE||Yes|No]",,01/01/2019,31/12/2021,"CallOffFromFrameworkAgreement ",
+DN335648,Contract,"Harrogate Borough Council",Awarded,2018-09-03T11:47:23Z,"Provision of Management and Renewal of Microsoft Subscription Licences and Software Assurance Package","Provision of Management and Renewal of Microsoft Subscription Licences and Software Assurance Package
+Quotes invited under the Kent Commercial Services Framework - framework Y17038",,,"Yorkshire and the Humber","48000000 ",,procurement@harrogate.gov.uk,"Civic Centre","PO Box 787",HARROGATE,"HG1 9RW",England,01423500600,,,,,29/06/2018,29/06/2021,30/04/2018,NO,,No,No,No,Services,1263194,,25/05/2018,1263194,"[Phoenix Software Ltd|Blenheim House, York Road, Pocklington, North Yorkshire, YO42 1NS, United Kingdom|NONE||No|No]",,29/06/2018,29/06/2021,"CallOffFromFrameworkAgreement ",
+IOW001-DN326871-68428982,Contract,"Isle of Wight Council",Awarded,2018-08-01T15:10:25Z,"Software Maintenance and Support for Existing Sophos Security Systems","Further Competition to award a Software Maintenance and Support for Existing Sophos Security Systems contract for a period of three years from 1 April 2018 to 31 March 2021 with the option to extend for a further period of up to one year at the sole discretion of the Authority using Crown Commercial Services Framework RM3733 TECHNOLOGY PRODUCTS 2 (Lot 2)",,,"South East","72261000 ","Vanessa Squibb",vanessa.squibb@iow.gov.uk,"County Hall","High Street",Newport,"PO30 1UD","United Kingdom","+44 1983821000",http://www.iwight.com,,,"
+The contract is for a period of three years from 1 April 2018 to 31 March 2021with the option to extend for a further period of up to one year at the sole discretion of the Authority. Any values give are for the whole contract period including any possible extension period.",01/04/2018,31/03/2021,20/03/2018,NO,,Yes,No,No,Services,184000,184000,22/03/2018,125496.5,"[Phoenix Software Ltd|Blenheim House, York Road, Pocklington, York, YO42 1NS, UK|NONE||No|No]",,01/04/2018,31/03/2021,"Other ",
+6ebf27db-c12d-4cbc-a8cf-b5b2302dfa40,Contract,"Doncaster College",Awarded,2018-06-20T13:01:24Z,"CA4909 - SUPC02: Software License Resellers Agreement for Colleges","Software License Resellers Agreement for Colleges
+
+To access this competition: 
+
+Registered:
+Login to https://suppliers.multiquote.com and view the opportunity CA4909.
+
+Not registered:
+Visit https://suppliers.multiquote.com then register and quote CA4909 as the reason for registration. 
+
+ Any queries please contact MultiQuote on 0151 482 9230.",,"DN1 2RF","Any region","72000000 48000000 ","Sue Gold",support@multiquote.com,"The Hub","Chappell Drive",Doncaster,"DN1 2RF",England,"0151 482 9230",https://suppliers.multiquote.com,,,,01/07/2018,30/06/2021,06/06/2018,NO,,Yes,No,No,Works,0,,20/06/2018,160000,"[Phoenix Software Ltd|Blenheim House, York Road, Pocklington, YO42 1NS|NONE||No|No]","Bids Team",01/07/2018,30/06/2021,"Open ",
+NTHDVN001-DN311517-10522125,Contract,"North Devon District Council",Awarded,2018-01-02T14:42:21Z,"Virtual Desktop Infrastructure","Contract for End user Virtual Desktop Infrastructure (VDI) Workspace One - Software/Hardware and professional Services.
+
+Direct Award from KCS Professional Framework - CBC Framework Y17038 - The Supply of Software Products and Associated Services",,,"South West","48000000 72000000 ",,supplyingndc@northdevon.gov.uk,"Lynton House",,"Commercial Road","EX31 1DG","United Kingdom",,http://www.northdevon.gov.uk/,,,,22/12/2017,21/12/2022,15/12/2017,NO,,No,No,No,Products,388499,388499,21/12/2017,388499.27,"[Phoenix Software Ltd|YO42 1NS|NONE||Yes|No]","Ms Bids Admin",22/12/2017,21/12/2022,"Other ",
+CHEAST001-DN245883-53556622,Contract,"Cheshire East Borough Council",Awarded,2017-03-27T10:04:25Z,"16 126 Citrix Software Support & Maintenance (Select) for existing Licences","A 3 year contract to renew and upgrade the Software Support and Maintenance for the 3335 exisiting Citrix licences for Cheshire East Council.",,,"North West","48000000 ","Ann Hope",ann.hope@cheshireeast.gov.uk,Westfields,"Middlewich Road",Sandbach,"CW11 1HZ",England,"+44 86595",http://www.cheshireeast.gov.uk/,,,,26/03/2017,25/03/2020,16/03/2017,NO,,Yes,Yes,No,Services,643330,,17/03/2017,643000,"[Phoenix Software Ltd|Blenheim House, York Road, Pocklington, YORK YO42 1NS|||Yes|No]","Kirsty Jibson",26/03/2017,25/03/2020,"Other ",
+201,Contract,"The University of Lincoln",Awarded,2017-03-02T14:10:36Z,"Microsoft Licensing","This is a Contract Award Notice for the
+provision of Microsoft Software Licenses under the SUPC Software Licence Resellers Agreement Lot 1 (Microsoft and Associated
+Services).",,"LN6 7TS",,"48000000 ","Matthew Hird",mhird@lincoln.ac.uk,"University of Lincoln","Brayford Pool",Lincoln,"LN6 7TS",England,,,,,,01/02/2017,31/01/2020,18/01/2017,NO,,No,No,No,Products,500000,1000000,18/01/2017,450000,"[Phoenix Software Ltd|Blenheim House, York Road, Pocklington, York, YO42
+1NS|||No|No]",,01/02/2017,31/12/2020,"Other ",
+"PROJECT - 00004049 - AWARD",Contract,"Coventry - Solihull - Warwickshire",Awarded,2017-01-13T14:32:45Z,"COV - Safeguarding software for Coventry Schools - AWARD","This tender is for the supply and implementation of a safeguarding software system that will protect pupils in schools in Coventry from on-line dangers. The system must support schools in meeting their safeguarding duties in ensuring that appropriate filters and monitoring is in place to ensure that children cannot access harmful or inappropriate materials whilst on-line. It must also ensure that children are protected from the risk of radicalisation under the Prevent Duty \n      \n      The duration of the contract will be for an initial period of three years with the option to extend for seven further 1 year periods at the agreement of both parties. The contract will commence on or as close as possible to 1st April 2017.",,"CV1 2PW","West Midlands","48000000 ","Michael Duffy",michael.duffy@coventry.gov.uk,"New Union Street",Coventry,Coventry,"CV1 2PW","United Kingdom","024 7683 3539",,,,,01/04/2017,31/03/2020,05/12/2016,NO,,Yes,No,No,Products,0,500000,13/01/2017,0,"[Phoenix Software Ltd|Blenheim House, York Road, Pocklington, United Kingdom, YO42 1NS|||No|No]","Jonathan Scott",01/04/2017,31/03/2020,"Open ",
+7620117183,Contract,"FCO SERVICES",Awarded,2016-02-12T15:16:05Z,"Autodesk Software Support - Various Autocad Licences","Autodesk Software Support - Various Autocad Licences",,,"West Midlands","48218000 ",,CSCG.GovernanceSupport@fco.gov.uk,"Hanslope Park",,"Milton Keynes","MK19 7BH",England,,,,,,19/04/2015,18/04/2016,19/04/2015,NO,,Yes,No,No,Services,23109,,19/04/2015,23109,"[Phoenix Software Ltd|Unknown|||No|No]",,19/04/2015,18/04/2016,"Other ",
+SO15081,Contract,"CROWN COMMERCIAL SERVICE",Awarded,2016-01-06T10:03:58Z,"SO15081 Provision of Forum Sentry & Red Hat Licences Contract","The Home Office (the Authority) were developing an extension to a software solution that integrates several computer systems. 
+
+The solution is an Enterprise Service Bus solution mainly based on the RedHat JBoss Fuse stack with Forum Sentry security gateways that is already in use in the Home Office. In order to build the extension to the system additional software licenses are required to support the development and test environments.",,,"Any region","30000000 48000000 ",,spot.buying@crowncommercial.gov.uk,"Crown Commercial Service","Concept House",Newport,"NP10 8QQ",Wales,,,"Outcome Letter Successful - Phoenix - Redacted.pdf ",,,18/12/2015,17/12/2016,27/11/2015,NO,,No,No,No,Services,232160.81,,15/12/2015,232160.81,"[Phoenix Software Ltd|Blenheim House
+York Road
+Pocklington
+YO42 1NS|||No|No]",,18/12/2015,17/12/2016,"Other ",
+CF-0121200D58000000L5A4EAK1,Contract,"Home Office",Awarded,2020-10-21T15:47:31Z,"Proc613 Crowd License","renewal Software license",,"SW1P 4DF","Any region","48517000 ","Corrine Elomri",corrine.elomri2@homeoffice.gov.uk,"2 Marsham St, Westminster",,London,"SW1P 4DF",GB,,,,,,11/11/2020,10/11/2021,21/10/2020,NO,,No,No,No,NotApplicable,4517.58,4517.58,20/10/2020,4517.58,"[PHOENIX SOFTWARE LTD|Blenheim House, York Road, Pocklington, York, YO42 1NS YO42 1NS|NONE||No|No]",,11/11/2020,10/11/2021,"CallOffFromFrameworkAgreement ",,00:00
+CF-0120800D58000000L5A4EAK1,Contract,"Home Office",Awarded,2020-10-21T13:35:24Z,"Proc610 Zabbix support","software license",,"SW1P 4DF","Any region","48517000 ","Corrine Elomri",corrine.elomri2@homeoffice.gov.uk,"2 Marsham St, Westminster",,London,"SW1P 4DF",GB,,,,,,16/10/2020,15/10/2021,20/09/2020,NO,,Yes,No,No,NotApplicable,8332.47,8332.47,14/10/2020,8332.47,"[PHOENIX SOFTWARE LTD|Blenheim House, York Road, Pocklington, York, YO42 1NS YO42 1NS|NONE||No|No]",,16/10/2020,15/10/2021,"CallOffFromFrameworkAgreement ",,00:00
+20200614120132-30310,Contract,"South West Police Procurement Department (SWPPD)",Awarded,2020-06-14T12:01:37Z,"Regional Software License Reseller Contract","Procurement closed - contract awarded",,,"Any region","48000000 ","Richard Smith",richard.smith2@devonandcornwall.pnn.police.uk,"Police HQ, Middlemoor",,Exeter,"EX2 7HQ",ENG,,http://www.devon-cornwall.police.uk/your-right-to-information,,"https://uk.eu-supply.com/app/rfq/rwlentrance_s.asp?PID=31204&B=BLUELIGHT https://uk.eu-supply.com/ctm/Company/CompanyInformation/Index/30310 ",,01/07/2020,30/06/2023,24/02/2020,NO,,Yes,No,No,Products,14000000,25000000,08/06/2020,25000000,"[Phoenix Software Ltd|Phoenix Software Ltd
+Blenheim House
+York Road
+Pocklington
+York
+YO42 1NS|NONE||No|No]","Rachael Goodchild",01/07/2020,30/06/2023,"Open ",
+tender_236215/860200,Contract,"MHRA Buyer Organisation",Awarded,2020-06-05T08:08:56Z,"Software Licence Renewals June 2020","VMware and Visual Paradigm -1 Year Subscription",,"E14 4PU",London,"72222300 ",,purchasing@nibsc.org,"10 South Colonnade",,London,"E14 4PU",England,,,,,,05/06/2020,04/06/2021,27/05/2020,NO,,Yes,No,No,Services,30000,,05/06/2020,30000,"[Phoenix Software Ltd|Blenheim House, York Road, Pocklington ,YO42 1NS|COMPANIES_HOUSE|2548628|No|No]",,05/06/2020,04/06/2021,"CallOffFromFrameworkAgreement ",
+tender_236215/858469,Contract,"MHRA Buyer Organisation",Awarded,2020-05-28T08:02:12Z,"April 2020 Renewals","Suite of Software Licence Renewals",,"E14 4PU",London,"72222300 ",,purchasing@nibsc.org,"10 South Colonnade",,London,"E14 4PU",England,,,,,,06/04/2020,05/04/2021,30/03/2020,NO,,Yes,No,No,Services,32700,,06/04/2020,32700,"[Phoenix Software Ltd|Blenheim House, York Road, Pocklington ,YO42 1NS|COMPANIES_HOUSE|2548628|No|No]",,06/04/2020,05/04/2021,"NegotiatedProcedureWithoutPriorPublicationOJEU ",
+1382767b-729d-4b2f-a91d-fe945f7e73da,Contract,"Milton Keynes College",Awarded,2020-01-06T11:56:51Z,"CA6653 - MK College Microsoft campus licence","Software License Resellers Agreement for Colleges
+
+To access this competition: 
+
+Registered:
+Login to https://suppliers.multiquote.com and view the opportunity CA6653.
+
+Not registered:
+Visit https://suppliers.multiquote.com then register and quote CA6653 as the reason for registration. 
+
+ Any queries please contact MultiQuote on 0151 482 9230.",,"MK6 5LP","Any region","48000000 72000000 ",,support@multiquote.com,"Chaffron Way Campus",Leadenhall,"Milton Keynes","MK6 5LP",England,"0151 482 9230",https://suppliers.multiquote.com,,,,31/10/2019,30/10/2022,31/10/2019,NO,,Yes,No,No,Works,0,,06/01/2020,202000,"[Phoenix Software Ltd|Blenheim House, York Road, Pocklington, YO42 1NS|NONE||No|No]","Bids Team",31/10/2019,30/10/2022,"Open ",
+DDaT19309,Contract,"UK SHARED BUSINESS SERVICES LIMITED",Awarded,2019-12-31T12:11:06Z,"Supply of EES Microsoft Licences","**PLEASE NOTE THIS IS AN AWARD NOTICE NOT A CALL FOR COMPETITION**
+
+This requirement is for the supply of EES licences.
+
+This was sourced via direct award method against KCS Software Products & Associated Services framework Lot 1 (Reference: Y17038)",,"SN2 1PL",,"48000000 ",,ddatprocurement@uksbs.co.uk,"Polaris House","North Star Avenue",SWINDON,SN21FF,England,,,,,,01/01/2020,31/12/2020,23/12/2019,NO,,Yes,No,No,Products,169999.56,,23/12/2019,169999.56,"[Phoenix Software Ltd|Blenheim House,
+York Road,
+Pocklington,
+York,
+Yorkshire,
+YO42 1NS|NONE_OTHER||No|No]",,01/01/2020,31/12/2020,"CallOffFromFrameworkAgreement ",
+007018,Contract,"Newcastle City Council",Awarded,2019-11-29T11:10:07Z,"007018 - Microsoft Enterprise License for Schools","1       The below specification covers the requirements for Newcastle City Council 007018- Schools Microsoft Enterprise Agreement renewal which is a call off from Crown Commercial Services Technology Products 2 Framework Agreement (Lot 2 - Packaged Software), reference RM3733.",,,"North East","48000000 ","Aaron Rush",aaron.rush@newcastle.gov.uk,"Civic Centre",,NEWCASTLE-UPON-TYNE,"NE1 8QH",England,"0191 211 5871",,,,,26/11/2019,25/11/2022,11/10/2019,NO,,Yes,No,No,Services,151991.28,,25/11/2019,153630,"[Phoenix Software Ltd|Phoenix Software Ltd
+Blenheim House
+York Road
+Pocklington
+North Yorkshire
+YO42 1NS|NONE||Yes|No]",,26/11/2019,25/11/2022,"CallOffFromFrameworkAgreement ",
+20190909120137-30466,Contract,"Cleveland Police",Awarded,2019-09-09T12:01:41Z,"Microsoft Enterprise Agreement","Under CCS Framework RM 3733 - Technology Products 2 - Lot 2 - Software, Cleveland Police are looking to procure Microsoft Enterprise Agreement for their desktop and laptop estates",,TS176AJ,"Any region","48624000 ","Angela Hall",Angela.hall@cleveland.pnn.police.uk,"Unit 1, Ash House, III Acre, Princeton Drive, Thor",,"Stockton on Tees","TS17 6AJ",ENG,"+44 1642301452",www.cleveland.police.uk,,"https://uk.eu-supply.com/app/rfq/rwlentrance_s.asp?PID=29494&B=BLUELIGHT https://uk.eu-supply.com/ctm/Company/CompanyInformation/Index/30466 ",,01/09/2019,31/08/2022,09/08/2019,NO,,Yes,No,No,Products,1591000,1648000,01/09/2019,1592000,"[Phoenix Software Ltd|Blenheim House
+York Road
+Pocklington
+York YO42 1NS|NONE||No|No]",,01/09/2019,31/08/2022,"Open ",
+18abeb18-4ac5-4647-8f2c-739604211c4e,Contract,"Airedale NHS Foundation Trust",Awarded,2019-07-22T14:04:04Z,"CA6272 - Contract for the supply of Microsoft Licences","Further Competition under Crown Commercial Services (CCS) framework: RM3733, Technology Products 2, Lot 2 - Packaged Software 
+
+
+To access this competition: 
+
+Registered:
+Login to https://suppliers.multiquote.com and view the opportunity CA6272.
+
+Not registered:
+Visit https://suppliers.multiquote.com then register and quote CA6272 as the reason for registration. 
+
+ Any queries please contact MultiQuote on 0151 482 9230.",,"BD20 6TD","Any region","48218000 ","Rosanne Buffrey",support@multiquote.com,"Airedale General Hospital","Skipton Road",Keighley,"BD20 6TD",England,"0151 482 9230",https://suppliers.multiquote.com,,,,19/07/2019,18/07/2022,19/07/2019,NO,,Yes,No,No,Services,0,,22/07/2019,1322972.74,"[Phoenix Software Ltd|Blenheim House, York Road, Pocklington, YO42 1NS|NONE||No|No]","Bids Team",19/07/2019,18/07/2022,"Open ",
+7620127820-1,Contract,"FCO SERVICES",Awarded,2019-05-29T15:48:09Z,"Technology Products 2 - Purchase of IT Hardware & Software Products",https://ccs-agreements.cabinetoffice.gov.uk/contracts/rm3733,,"MK19 7BH",,"44316400 48000000 ",,PurchasingEnquiries@fco.gov.uk,"HANSLOPE PARK",,"MILTON KEYNES",MK197BH,England,,,,,N/A,31/03/2019,30/10/2019,30/03/2019,NO,,Yes,No,No,Products,10855.04,,30/03/2019,10855.04,"[PHOENIX SOFTWARE LTD|KT22 7TW|NONE||Yes|No]",,31/03/2019,30/10/2019,"CompetitiveDialogueOJEU ",
+7620127820,Contract,"FCO SERVICES",Awarded,2019-04-05T10:59:13Z,"Technology Products 2 - Purchase of IT Hardware & Software Products",https://ccs-agreements.cabinetoffice.gov.uk/contracts/rm3733,,"MK19 7BH",,"44316400 48000000 ",,PurchasingEnquiries@fco.gov.uk,"HANSLOPE PARK",,"MILTON KEYNES",MK197BH,England,,,,,N/A,09/01/2019,30/10/2019,08/01/2019,NO,,Yes,No,No,Products,10855.04,,08/01/2019,10855.04,"[PHOENIX SOFTWARE LTD|KT22 7TW|NONE||Yes|No]",,09/01/2019,30/10/2019,"CompetitiveDialogueOJEU ",
+4200619636,Contract,"NEWCASTLE UNIVERSITY",Awarded,2019-03-27T15:24:54Z,"1REY - Service-General Consultancy","Service-General Consultancy - Supply of software implementation services:
+
+Hubspot deployment",,,"North East","72263000 ","Helen Gayton",purchasing@ncl.ac.uk,"King's Gate Newcastle University",,NEWCASTLE-UPON-TYNE,NE17RU,England,"0191 208 6220",,,,,14/01/2019,15/01/2019,13/01/2019,NO,,Yes,No,No,Services,374362.56,,13/01/2019,374362.56,"[Phoenix Software Ltd|Blenheim House
+York Road
+York
+YO42 1NS|NONE||No|No]",,14/01/2019,15/01/2019,"CallOffFromFrameworkAgreement ",
+1a306567-2f13-40ba-a460-40b302e3aa4f,Contract,"Southend University Hospital NHS Foundation Trust",Awarded,2019-03-27T10:09:53Z,"CA5849 - SE2542 Packaged Software - Lot 2","2.2	The MSB group are undertaking several new Digital service developments which involve new ways of working and the introduction of new systems. The associated hardware to deliver this project has incurred the requirement to purchase licences for this equipment to join the domain/network and access server resources. The list of licences we require for this are listed below. 
+
+To access this competition: 
+
+Registered:
+Login to https://suppliers.multiquote.com and view the opportunity CA5849.
+
+Not registered:
+Visit https://suppliers.multiquote.com then register and quote CA5849 as the reason for registration. 
+
+ Any queries please contact MultiQuote on 0151 482 9230.",,"SS2 6GE","Any region","48517000 ","Laura Johnston",support@multiquote.com,"Britannia House, Unit 11-13","Britannia Business Park",Southend,"SS2 6GE",England,"0151 482 9230",https://suppliers.multiquote.com,,,,27/03/2019,31/03/2019,27/03/2019,NO,,Yes,No,No,Services,0,,27/03/2019,106285,"[Phoenix Software Ltd|Blenheim House, York Road, Pocklington, YO42 1NS|NONE||No|No]","Bids Team",27/03/2019,31/03/2019,"Open ",
+"CU2647 - DN374926",Contract,"Milton Keynes Council",Awarded,2018-11-05T14:24:52Z,"Microsoft Enterprise Support Agreement","Microsoft Enterprise Support Agreement - Call off under Software Products and Associated Services KCS Framework - Y17038 (Lot 1)",,,"South East","48000000 ",,contracts@milton-keynes.gov.uk,"Civic Offices, 1 Saxon Gate, Silbury Boulevard",,"Milton Keynes",MK93EJ,England,,,,,,05/11/2018,04/11/2021,04/11/2018,NO,,Yes,Yes,No,Services,0,,04/11/2018,1600000,"[PHOENIX SOFTWARE LTD|Blenheim House
+York Road
+Pocklington
+Yorkshire
+YO42 1NS|COMPANIES_HOUSE|02548628|Yes|No]",,05/11/2018,04/11/2021,"CallOffFromFrameworkAgreement ",
+LEEDSCITY001-DN287899-20687528,Contract,"Leeds City Council",Awarded,2018-05-25T11:32:26Z,"Roundhay School VMware Horizon View Software","210 VMware Horizon View standard edition licences with 1 year support",,,"Yorkshire and the Humber","48190000 48216000 48214000 48514000 48624000 ","Andy West",awest@roundhayschool.com,"Roundhay School","Old Park Road",Leeds,"LS8 1ND",England,"+44 1133931229",http://www.leeds.gov.uk,,"https://procontract.due-north.com/Advert?advertId=d1c5f42a-d567-e711-80e3-005056b64545 ",,20/07/2017,21/09/2017,19/07/2017,NO,,Yes,No,No,Products,40000,40000,20/07/2017,40000,"[Phoenix Software Ltd|YO42 1NS|NONE||Yes|No]","Ms Bids Admin",21/07/2017,22/07/2017,"Open ",
+"SCC 112 - AWARD",Contract,"Sandwell Metropolitan Borough Council",Awarded,2018-05-17T12:41:05Z,"The Provision of a New Microsoft Enterprise Agreement And Premier Support - AWARD","Tender for The Provision of a New Microsoft Enterprise Agreement And Premier Support
+      
+      Sandwell Metropolitan Borough Council (the Council) wishes to invite interested parties (""Tenderers"") to participate in a tender exercise to establish a Contract for the provision of a new Microsoft Enterprise Agreement and Premier Support to the Council (""the Invitation To Tender"").  The tender exercise will be a Further Competition under Crown Commercial Services Framework Agreement RM3733 Technology Products 2, Lot 2 Packaged Software. 
+      
+      Scope of Contract 
+      
+      The Council has a requirement to identify and appoint a suitably qualified and experienced contractor to provide a three-year term service, to supply the goods/services specified within the Specification.
+      
+      The total estimated value excluding VAT for the entire duration of the contract is  £3,000,000. This value is based on historical spend data and is intended to be used as a guide only and is not a guarantee of the level of business that will be generated from the contract.
+      
+      The Council will be using the In-tend e-Tendering System for this Procurement exercise, please visit https://in-tendhost.co.uk/sandwellmbc to access the Sandwell MBC In-tend Supplier Portal.
+      
+      In Order To View the On-Line Questionnaire and Submit a Tender, you will be required to` Opt-In`.   
+      
+      Please be mindful that if you are cut and pasting your question responses onto the On-Line Questionnaire that you do so from a notepad document, this is due to the fact that some special characters are not accepted within the On-Line Questionnaire. 
+      
+      For a Step by Step user guide to the Sandwell MBC In-tend Supplier Portal please click on the `Guidance for Suppliers` section of the website. All procurement responses must be carried out via the Sandwell MBC In-tend Supplier Portal.  
+      
+      If you require further assistance in respect of the system please contact the In-tend support team on 0844 272 8810.
+      
+      Closing date: Monday 11th December 2017 at 15:00hrs",,"B69 3DB","West Midlands","72222300 72250000 72315000 72611000 72600000 72610000 72253200 72000000 72261000 71356300 ","Carol Wintle",carol_wintle@sandwell.gov.uk,"Freeth Street",Oldbury,"West Midlands","B69 3DB","United Kingdom","0121 569 2817",,,,,01/04/2018,31/03/2021,11/12/2017,NO,,No,No,No,Services,0,,05/01/2018,0,"[Phoenix Software Ltd|Blenheim House, York Road, Pocklington, North Yorkshire, United Kingdom, YO42 1NS|NONE||No|No]","Claire Hobman",01/04/2018,31/03/2021,"Restricted ",
+NTHDVN001-DN339383-24747755,Contract,"North Devon District Council",Awarded,2018-05-08T15:30:23Z,"Contract for provision of Microsoft Licences","Contract for the provision of Microsoft Licences and associated services.
+
+Information technology services, maintenance of information technology software",,,"South West","48000000 ",,supplyingndc@northdevon.gov.uk,"Lynton House",,"Commercial Road","EX31 1DG",England,,http://www.northdevon.gov.uk/,,,,01/06/2018,31/05/2021,30/04/2018,NO,,No,No,No,Products,282174,282174,03/05/2018,282174.74,"[Phoenix Software Ltd|YO42 1NS|NONE||Yes|No]","Ms Bids Admin",01/06/2018,31/05/2021,"DirectAward ",
+"ESCC - 016672 - AWARD",Contract,"SE Shared Services",Awarded,2017-12-21T15:16:35Z,"ESCC - SIEM Tender - AWARD","East Sussex County Council (ESCC) is seeking a provider to deliver Splunk SIEM software licenses, support and maintenance.",,"BN7 1UE","South East","72210000 ","Robert  Sullivan (ESCC)",Robert.sullivan@eastsussex.gov.uk,"St Anne's Crescent",Lewes,"East Sussex","BN7 1UE","United Kingdom","01273 351460",www.eastsussex.gov.uk,,,,01/11/2017,01/11/2020,06/10/2017,NO,,No,No,No,Services,0,,19/10/2017,0,"[Phoenix Software Ltd|Blenheim House, Pocklington, United Kingdom, YO42 1NS|NONE||No|No]","Oliver Lee",01/11/2017,01/11/2020,"Restricted ",
+LEICSCC001-DN308154-57761653,Contract,"Leicestershire County Council",Awarded,2017-11-22T10:46:57Z,"6 New Dell Servers with 5 years Dell Pro Support Plus","Tender bids are invited for the provision of 6 New Dell servers with 5 years premier support. The council will only award to suppliers who have are authorised to resell Dell EMC hardware and services
+
+The Council currently has significant Dell EMC infrastructure in place which is managed by Dell EMC server management and maintenance software and services. Significant investment has been made in the system architecture and staff training. This ensures rapid deployment of security and bug fixes for all hardware across the estate with direct support from Dell support services. The requested servers will support the current backup and restore solution, which are configured to support the Council's DR/BC Plans.",,,"East Midlands","48821000 ","Matt Rennolds",matt.rennolds@leics.gov.uk,"County Hall","Leicester Road Glenfield",Leicester,"LE3 8RA",England,,http://www.leics.gov.uk,,,,21/11/2017,21/11/2022,17/11/2017,NO,,No,No,No,Products,90000,90000,20/11/2017,92946.78,"[Phoenix Software Ltd|Blenheim House, York Road, Pocklington, YO42 1NS|||Yes|No]","Craig Hargreaves",21/11/2017,21/11/2022,"Restricted ",
+BIP282324057,Contract,"Humberside Fire & Rescue Service",Awarded,2017-10-09T10:51:06Z,"GB-Hull: Microsoft Enterprise Agreements","Microsoft enterprise agreements and related software solutions.",,,"Yorkshire and the Humber","48000000 ","Alan Maltby",rburnham@humbersidefire.gov.uk,Headquarters,"Summergroves Way",Hull,"HU4 7BB",UK,01482567177,,,"https://www.delta-esourcing.com/delta/respondToList.html?noticeId=282324057 ","Awarded via KCS framework agreement Y17038",01/12/2017,01/12/2020,14/09/2017,NO,,No,No,No,Services,402763,,14/09/2017,402763,"[Phoenix Software Ltd|Blenheim House
+        York Road
+        Pocklington
+        YO42 1NS|||No|No]","Keith Martin",01/12/2017,01/12/2020,"NotSpecified ",
+7620123031,Contract,"FCO SERVICES",Awarded,2017-10-04T11:37:36Z,"Technology Products 2 - Purchase of IT Hardware & Software Products",http://ccs-agreements.cabinetoffice.gov.uk/suppliers?sm_field_contract_id=%22RM3733%3A1%22,,"MK19 7BH",,"30000000 48000000 72000000 ",,purchasing.enquiries@fco.gov.uk,"Hanslope Park",,"Milton Keynes","MK19 7BH",England,,,,,N/A,23/03/2017,30/10/2018,22/03/2017,NO,,Yes,No,No,Services,32931.72,,22/03/2017,32931.72,"[Phoenix Software Ltd|YO42 1NS|||Yes|No]",,23/03/2017,30/10/2018,"CompetitiveDialogueOJEU ",
+1591/MH,Contract,"UNIVERSITY OF SHEFFIELD",Awarded,2017-04-10T09:06:10Z,"1591/MH Microsoft EES (Campus) Agreement 2017","The University of Sheffield ran a mini-competition under Lot 1 of the SUPC Software Resellers Agreement framework, for it's requirements under the MS EES programme, for the period until end of February 2018.",,,"Yorkshire and the Humber","48310000 ",,m.hardy@sheffield.ac.uk,"Arts Tower","Western Bank",Sheffield,"S10 2TN",England,,,,,,01/03/2017,28/02/2018,02/02/2017,NO,,No,No,No,NotSpecified,262000,,10/02/2017,262000,"[Phoenix Software Ltd|Blenheim House
+York Road
+Pocklington
+YO42 1NS|||No|No]",,01/03/2017,28/02/2018,"NotSpecified ",
+4200450840,Contract,"NEWCASTLE UNIVERSITY",Awarded,2017-03-09T15:36:09Z,"Software service","Production ready made intranet solution",,,"North East","72511000 ",,purchasing@ncl.ac.uk,"Higham House",,"Newcastle upon Tyne","NE1 8AF",England,,,,,,04/02/2017,05/02/2017,03/02/2017,NO,,Yes,No,No,Services,73450,,03/02/2017,73450,"[Phoenix Software Ltd|Blenheim House, 'York Road, 'York, 'YO42 1NS|||No|No]",,04/02/2017,05/02/2017,"NotApplicable ",
+30000493,Contract,"LEEDS TRINITY UNIVERSITY",Awarded,2016-09-27T09:36:05Z,"Campus Agreement 2016 - 2017","Software Licenses for academic year 2016-17",,,"Yorkshire and the Humber","48000000 ",,m.hayter@leedstrinity.ac.uk,"Leeds Trinity University","Brownberrie Lane",Horsforth,"LS18 5HD",England,,,,,,22/09/2016,31/07/2017,19/09/2016,NO,,No,No,No,Products,36193.8,,22/09/2016,36193.8,"[Phoenix Software Ltd|Blenheim House York Road Pocklington York, YO42 1NS, United Kingdom|||No|No]",,22/09/2016,31/07/2017,"Other ",
+ADTF-86YZZ1-ADZL-AVR44N,Contract,"Barnsley Metropolitan Borough Council",Awarded,2016-09-21T14:45:57Z,"Mircosoft Software Licences - CCS Framework Agreement RM1054","Mini competition from CCS Framework Agreement RM1054",,"S70 2DR","Yorkshire and the Humber","48000000 ","Cheryl Gibbons",cherylgibbons@barnsley.gov.uk,"Westgate Plaza One",Westgate,Barnsley,"S70 2DR",UK,01226787963,,,,,21/09/2016,21/09/2018,19/09/2016,NO,,No,No,No,Products,0,235000,20/09/2016,235167,"[Phoenix Software Ltd|Blenheim House, York Road, Pocklington, YO42 1NS, North Yorkshire|||Yes|No]",,21/09/2016,21/09/2018,"Other ",
+A9SJ-7FCECW-AAPM-EFU70P,Contract,"North Yorkshire County Council",Awarded,2016-06-07T13:56:56Z,"Further Competition for Anti-Virus Software for North Yorkshire Schools ICT","North Yorkshire County Council Schools ICT is seeking the provision of Anti-Virus EndPoint Protection. Provide protection from the following:  Virus intrusion and propagation.  Malware intrusion and propagation.  Supported Operating Systems  End User Protection  Firewall Protection  App Protection  Threat Detection UNDER FRAMEWORK RM1054 LOT 2",,"DL7 8AD","Yorkshire and the Humber","30000000 72000000 ","Ali Wildash",ali.wildash@northyorks.gov.uk,"North Yorkshire County Council","County Hall",Northallerton,"DL7 8AD",UK,"+44 1609534915",,,,,16/06/2016,15/06/2019,30/05/2016,NO,,No,No,No,Products,0,87000,07/06/2016,88750,"[Phoenix Software Ltd|Blenheim House, York Road, Pocklington, YO42 1NS, North Yorkshire|||Yes|No]",,15/06/2016,14/06/2019,"Restricted ",
+134,Contract,"The University of Lincoln",Awarded,2016-01-18T14:16:08Z,"Microsoft EES Licensing","Award of contract under the SUPC  National Framework for Software Licence Resellers for Microsoft EES Licencing.",,"LN6 7TS","East Midlands","48000000 ","Matt Hird",mhird@lincoln.ac.uk,"Univeristy of Lincoln","Brayford Pool,",Lincoln,"LN6 7TS",England,,www.lincoln.ac.uk,,,,01/02/2016,31/01/2017,04/01/2016,NO,,No,No,No,Products,115000,,15/01/2016,115000,"[Phoenix Software Ltd|Blenheim House
+York Road
+Pocklington
+York
+YO42 1NS|||No|No]",,01/02/2016,31/01/2017," ",
+InfoMgmt011,Contract,"Peak District National Park Authority",Awarded,2015-12-18T15:18:30Z,"Tender for Supply of Microsoft Licences","The Peak District National Park Authority (PDNPA) wish to appoint a Supplier to provide an enterprise subscription for 320 Office Pro Plus Licences with software assurance.",,,"East Midlands","48624000 ","Darren Butler",darren.butler@peakdistrict.gov.uk,"Aldern House","Baslow Road",Bakewell,"DE45 1AE",England,,,,,,21/01/2016,01/02/2016,15/01/2016,NO,,Yes,No,No,Products,39000,,18/01/2016,40603.2,"[Phoenix Software LTD|Blenheim House, York Rd, Pocklington, York YO42 1NS|||No|No]",,31/01/2016,31/01/2019,"Open ",
+MC15-017,Contract,"Durham University",Awarded,2015-10-02T14:48:05Z,"Microsoft Campus Agreement","Microsoft Campus Agreement for Microsoft software used accross the university.",,,"North East","48000000 ","Catherine Harrison",catherine.harrison@durham.ac.uk,"Durham University, Procurement Service","Mountjoy Centre, Stockton Road",Durham,"DH1 3LE",England,"0191 3344537",www.durham.ac.uk,,,,01/10/2015,30/09/2018,04/09/2015,NO,,No,No,No,Products,446564.46,,30/09/2015,446564.46,"[Phoenix Software Ltd|Blenheim House
+York Road
+Pocklington 
+York
+YO42 1NS|||No|No]",,01/10/2015,30/09/2018,"Other ",
+1000219471,Contract,"Stockton Borough Council",Awarded,2015-05-13T14:21:45Z,"Further Competition for VMware Support","Stockton on Tees Borough Council is seeking quotations for the provision of Basic VMware Support for the install based detailed in 'Xentrall IB-revised-March 2015.xls' The contract is scheduled to commence on 01/05/2015 and will be for a period of 12 months.  This invitation to quote is a further competition from the Crown Commercial Services Framework RM1054; Technology Products - Lot 2 'Packaged Software' and the related terms and conditions apply",,"DL1 1RT","North East","72000000 ","David Reese",David.Reese@xentrall.org.uk,"Xentrall Shared Services","The Studios, Lingfield Point",Darlington,"DL1 1RT",UK,"01642 524854",https://www.qtegov.com/procontract/supplier.nsf,,"https://www.qtegov.com/procontract/supplier.nsf/frm_opportunity?OpenForm&contract_id=CONTRACT-9VNB-QR20AC ",,01/05/2015,30/04/2016,24/04/2015,NO,,No,No,No,Services,0,,01/05/2015,57883.71,"[Phoenix Software Ltd|Xentrall Shared Services, The Studios, Lingfield Point, Darlington, Durham, DL1 1RT|||No|No]",,01/05/2015,30/04/2016,"NotSpecified ",
+"RM5224 SO8551",Contract,"CROWN COMMERCIAL SERVICE",Awarded,2015-04-10T10:01:24Z,"VMWare & Microsoft Software Licenses","See attached",,,"North East","48000000 ",,spot.buying@crowncommercial.gov.uk,"Room 2Y92, Concept House, Cardiff Road",,Newport,"NP10 8QQ",England,"01633 811600",,"Signed contract - Transparency 1.pdf Signed contract - Transparency 3.pdf Signed contract - Transparency 4.pdf Signed contract - Transparency 5.pdf Signed contract - Transparency 2.pdf ",,,06/03/2015,05/03/2018,19/02/2015,NO,,Yes,Yes,No,Products,0,,03/04/2015,0,"[PHOENIX SOFTWARE LTD|Phoenix Software Ltd
+Blenheim House
+York Road
+Pocklington
+York
+YO42 1NS|||No|No]",,06/03/2015,05/03/2018,"Restricted ",
+BFDMDC001-DN504295-33277337,Contract,"Bradford Metropolitan District Council",Awarded,2020-10-15T08:29:06Z,"Igel Licences","City of Bradford MDC (the Council) requires the purchase of additional IGEL Licences to use on it's estate.
+
+650 x L24023000000000 IGEL Multimedia Codec-Pack Field Upgrade License for IGEL OS10 &
+1650 x BSY1L0000000000 IGEL Enterprise Management Pack 1 year subscription
+
+The proposed contract will be for an initial duration of one (1) year with a possible one (1) twelve (12) month extension. The Council reserves the right to amend the scope of the support requirement for the extension period.",,,"Yorkshire and the Humber","72000000 ","Catherine Mullins",catherine.mullins@bradford.gov.uk,"Britannia House","Hall Ings",Bradford,"BD1 1HX","United Kingdom",,http://www.bradford.gov.uk/bmdc,,,,09/11/2020,08/11/2021,30/10/2020,NO,,Yes,No,No,Services,30000,50000,11/11/2020,37363.58,"[Phoenix Software Ltd|YO42 1NS|NONE||Yes|No]","Ms Bids Admin",12/11/2020,11/11/2021,"Open ",,13:00
+IOW001-DN496989-69245733,Contract,"Isle of Wight Council",Awarded,2020-10-06T11:46:53Z,"Further Competition for the Provision of Malwarebytes Endpoint Detection and Response","Further competition carried out from CCS Framework - RM6068 TECHNOLOGY PRODUCTS AND ASSOCIATED SERVICES LOT 3",,,"South East","48000000 72000000 48700000 72260000 ","Lucy Chandler",lucy.chandler@iow.gov.uk,"County Hall","High Street",Newport,"PO30 1UD",England,"+44 1983821000",http://www.iwight.com,,,,10/10/2020,09/10/2025,23/09/2020,NO,,No,No,No,Products,82000,82000,06/10/2020,136000,"[Phoenix Software Ltd|laura-walton@phoenixs.co.uk|NONE||No|No]","Laura Walton",10/10/2020,31/10/2025,"Other ",,14:00
+CF-0012400D1r000001nvObEAI1,Contract,"Intellectual Property Office",Awarded,2020-09-28T08:06:30Z,"SUSE Linux Enterprise Server","63x Long term & reactive for SLES 11 SP 2 & SLES 11 SP3",,"NP10 8QQ",Wales,"48517000 ","Jonathan Chapman",procurement@ipo.gov.uk,"Cardiff Road",,Newport,"NP10 8QQ",GB,,,,,,27/07/2020,01/08/2021,03/07/2020,NO,,No,No,No,NotApplicable,18104.94,18104.94,27/07/2020,18104.94,"[Phoenix Software Ltd|Blenheim House ,York Road ,Pocklington ,York YO42 1NS|NONE||No|No]",,27/07/2020,01/08/2021,"CallOffFromFrameworkAgreement ",,00:00
+tender_233987/888873,Contract,"Defra Network eTendering Portal",Awarded,2020-09-22T13:06:30Z,"Microsoft License Solution Partner","Contract Award Notice - Microsoft License Solution Partner",,,"Any region,South West","48000000 ","Daniel Gaiger",Daniel.Gaiger@defra.gov.uk,"Horizon House",,Bristol,"BS1 5TL",England,00,,"Project_28837_Contract_58234_Redacted_Contract.pdf ",,,01/07/2020,31/07/2023,11/06/2020,NO,,Yes,Yes,No,Services,46500000,,17/06/2020,46500000,"[Phoenix Software Ltd|Bytes House, Randalls Way, Leatherhead KT22 7TY|NONE_OTHER||No|No]",,01/07/2020,31/07/2023,"CallOffFromFrameworkAgreement ",,14:00
+HEREFCC-DN485565-49210102,Contract,"Herefordshire Council",Awarded,2020-09-21T14:55:07Z,"Dell Server Storage Upgrade","Herefordshire Council are looking for a supplier to provide specific Dell Server Storage components to upgrade/expand the existing SC4020 & SC8000 storage hardware. Support for these components must run and co-terminate with the current Dell agreement in May 2021. Some additional hypervisor host capacity is required as defined in the specification.",,,"West Midlands","30200000 ","Phillip Clayton",phillip.clayton2@hoopleltd.co.uk,"Council Offices","Plough Lane",Hereford,"HR4 0LE",England,"+44 1432260409",https://www.herefordshire.gov.uk,,,"Herefordshire Council has published this opportunity on the 'Supplying the Southwest Portal'. To view the tender documentation related to this opportunity you will need to register on the portal, if you are not already register with Procontract, and express an interest in the opportunity.
+
+To Register with Supplying the Southwest Portal (Procontract) click on the link below or copy and paste the link into your browser address bar; https://www.supplyingthesouthwest.org.uk
+",05/08/2020,04/09/2020,24/07/2020,NO,,Yes,Yes,No,Products,85000,85000,01/09/2020,77444.11,"[Phoenix Software Ltd|YO42 1NS|NONE||Yes|No]","Ms Bids Admin",02/09/2020,01/10/2020,"Open ",,00:00
+DCC001-DN490322-48221281,Contract,"Durham County Council",Awarded,2020-08-17T09:48:20Z,"300 User VDI Environment","Award of 300 user VDI Environment",,,England,"48822000 ","Rob Huck",rob.huck@durham.gov.uk,"County Hall",,Durham,"DH1 5UL",England,"+44 3000265430",http://www.durham.gov.uk,,,,24/08/2020,23/08/2025,12/08/2020,NO,,Yes,No,No,Products,253578.97,,17/08/2020,253578.97,"[Phoenix Software Ltd|Bytes House, Randalls Way, Leatherhead, KT22 7TW|NONE||No|No]",,24/08/2020,23/08/2025,"Other ",,12:00
+ACC001-DN486971-05940021,Contract,"Accent Housing",Awarded,2020-07-30T12:27:23Z,"The supply & installation of off-site replication infrastructure (vSAN)","Contract Award Notice for Off Site Replication Infrastructure.",,,"Yorkshire and the Humber","48000000 72000000 72100000 48800000 ","Hayley Foster",hayley.foster@accentgroup.org,"Charlestown House, Acorn Park Industrial Estate",Charlestown,Shipley,"BD17 7SW","United Kingdom","+44 1274065745",http://www.accentgroup.org/,,"https://procontract.due-north.com/Advert?advertId=cf2b10ef-1cc4-ea11-8104-005056b64545 ",,27/07/2020,30/08/2023,22/07/2020,NO,,No,No,No,Products,120000,120000,30/07/2020,102000,"[Phoenix Software Ltd|Blenheim House, York Road, Pocklington, Nth Yorks YO42 1NS|NONE||Yes|No]",,31/07/2020,30/07/2023,"Other ",
+tender_164005/841389,Contract,"MHRA Buyer Organisation",Awarded,2020-07-30T09:57:13Z,"Adobe Licencing 2020","Adobe Creative Cloud; Illustrator; Photoshop & Pro licenses",,"E14 4PU",London,"72222300 ",,purchasing@nibsc.org,"10 South Colonnade",,London,"E14 4PU",England,,,,,,05/01/2020,04/01/2021,02/01/2020,NO,,No,No,No,Services,11062,,31/01/2020,11062,"[PHOENIX SOFTWARE Ltd|Blenheim House, YO42 1NS|NONE_OTHER||No|No]",,05/01/2020,04/01/2021,"CallOffFromFrameworkAgreement ",
+LEICSCC001-DN488676-11369290,Contract,"Leicestershire County Council",Awarded,2020-07-29T00:00:00Z,VDI,"Direct award from Kent framework Y18018 Managed ICT Services.",,,"North East,North West,Yorkshire and the Humber,East Midlands,West Midlands,East of England,London,South East,South West","72000000 ","Joanna Madejczyk",Joanna.Madejczyk@leics.gov.uk,"County Hall","Leicester Road, Glenfield",Leicester,"LE3 8RA",England,"+44 1163054906",https://www.eastmidstenders.org/index.html,,,,21/07/2020,21/07/2021,20/07/2020,NO,,Yes,Yes,No,Services,258489.88,258489.88,22/07/2020,305145.88,"[Phoenix Software Ltd|Bytes House, Randall Way, Leatherhead, Surrey, KT22 7TW|NONE||No|No]","Keith- Martin@phoenixs.co.uk",01/08/2020,31/07/2021,"Restricted ",
+tender_227947/871128,Contract,"Public Health England",Awarded,2020-07-22T16:22:44Z,"PHE - ICT - Office 365 email migration (gCloud)","Office 365 email migration (gCloud) 
+
+Migration services to move from current email platform to those in office 365",,,"Any region","72300000 72400000 72500000 72610000 ",,tenders@phe.gov.uk,"61, Colindale Avenue",,London,"NW9 5EQ",England,"0208 327 6680",,,,,07/04/2020,21/08/2020,02/04/2020,NO,,Yes,Yes,No,Services,62050,,02/04/2020,62050,"[Phoenix Software Ltd|Blenheim House, York Rd, Pocklington, Barmby Moor, York YO42 1NS|COMPANIES_HOUSE|02548628|No|No]",,07/04/2020,21/08/2020,"CallOffFromFrameworkAgreement ",
+tender_234836/871747,Contract,"Public Health England",Awarded,2020-07-22T16:12:14Z,"PHE - ITC- Working Together Utilising collaborative working (gCloud)","Reconfiguration of server and implementation of collaboration functions available in Windows 10 across whole of PHE network",,,"Any region","30211400 72263000 72265000 ","Alan Holden",alan.holden@phe.gov.uk,"Manor Farm Road, Porton Down",,Salisbury,"SP2 0QT",England,"0208 327 6680",,,,,20/06/2020,21/06/2021,12/06/2020,NO,,Yes,Yes,No,Services,595097,,18/06/2020,595097,"[Phoenix Software Ltd|Blenheim House, York Road, Pocklington, York, YO42 1NS|COMPANIES_HOUSE|0202548628|No|No]",,20/06/2020,21/06/2021,"CallOffFromFrameworkAgreement ",
+tender_164005/826762,Contract,"MHRA Buyer Organisation",Awarded,2020-07-17T15:02:48Z,"Checkpoint Support Renewal","Checkpoint Support Renewal",,"E14 4PU",London,"72222300 ",,purchasing@nibsc.org,"10 South Colonnade",,London,"E14 4PU",England,,,,,,22/12/2019,21/12/2020,27/11/2019,NO,,No,No,No,Products,18400,,20/12/2019,18400,"[PHOENIX SOFTWARE Ltd|Blenheim House York Road Pocklington York YO42 1NS|COMPANIES_HOUSE|​2548628|No|No]",,22/12/2019,21/12/2020,"CallOffFromFrameworkAgreement ",
+"SCC - 031161 - AWARD",Contract,"SE Shared Services",Awarded,2020-07-13T16:35:59Z,"SCC  MC - Splunk Licence Renewal - AWARD","Surrey County Council Commercial Services would like to purchase 
+      Splunk Enterprise  - Enterprise Support Renewal from 15 July 2020- 15 July 2021
+      Splunk Enterprise  - Enterprise Support Renewal from 15 July 2020 - 15 July 2021
+      Splunk Enterprise - Security Enterprise Support Renewal from 15 July 2020 - 15 July 2023
+      Splunk Enterprise - Security Enterprise Support Renewal from 15 July 2020 - 15 July 2023
+      
+      Please note the Required specification in the quoting template.
+      Please submit your bid using the attached quoting template.
+      RFQ document included for terms and conditions reference only.",,"KT1 2DN","Any region","48000000 ","Maura Collyer",maura.collyer@eastsussex.gov.uk,"Penrhyn Road","Kingston upon Thames",Surrey,"KT1 2DN","United Kingdom",,www.surreycc.gov.uk,,,,15/07/2020,15/08/2020,06/07/2020,NO,,Yes,No,No,Products,28830,28830,13/07/2020,0,"[Phoenix Software Ltd|Blenheim House, n/a, Pocklington, United Kingdom, YO42 1NS|NONE||No|No]","Oliver Lee",15/07/2020,15/08/2020,"Open ",
+"PROC 164-2020",Contract,"COMPETITION AND MARKETS AUTHORITY",Awarded,2020-07-06T14:58:47Z,"METALOGIX ESSENTIALS FOR O365 AND CONTENT MATRIX LICENCES AND SUPPORT","The CMA are looking to purchase the below Metalogix licences, based on size of organisation of 1000 (product key no. MSC-MLX-PK-247) along with support and maintenance for 3 years, one year within licence purchase and 2 further years (product key no. MSC-MLX-KS-247).  
+
+Metalogix products:-
+
+•	Essentials for O365
+•	Content Matrix
+
+Some of the non-Functional Requirements for the tools are:
+
+•	Support desk with defined SLA's and ticketing system
+•	Tools adhere to DPA 2018 best practice and are GDPR compliant",,,London,"48218000 ",,commercial@cma.gov.uk,"The Cabot","25 Cabot Square",London,"E14 4QZ",England,,,,,,30/06/2020,29/06/2023,17/06/2020,NO,,Yes,No,No,Services,24046.75,,24/06/2020,24046.75,"[Phoenix Software Ltd|Blenheim House, York Rd, Pocklington, York YO42 1NS|NONE_OTHER||Yes|No]",,30/06/2020,29/06/2023,"CallOffFromFrameworkAgreement ",
+CF-0112600D58000000L5A4EAK1,Contract,"Home Office",Awarded,2020-06-23T17:38:25Z,"VMWare Premier Support","VMWare Premier Support service for 1 year with the option to extend for further 12 + 12 months",,"YO42 1NS","Any region","72500000 ","Tony Nwagbolu",tony.nwagbolu@homeoffice.gov.uk,"Southern House , Wellesley Grove",,Croydon,"CR0 1XG",GB,,,,,,21/11/2019,21/11/2022,21/11/2019,NO,,Yes,No,No,NotApplicable,266523.6,266523.6,21/11/2019,266523.6,"[PHOENIX SOFTWARE LTD|Blenheim House, York Road, Pocklington, York, YO42 1NS YO42 1NS|NONE||No|No]",,21/11/2019,21/11/2022,"CallOffFromFrameworkAgreement ",
+TSW1220,Contract,"Torbay Council - Childrens Services",Awarded,2020-05-19T11:19:45Z,"Office 365 for SWISCo","Consultancy, Office 365 licences and a third party tool to facilitate data migration form SharePoint and OneNote",,,"South West","48000000 ","Joanna Pascoe",joanna.pascoe@torbay.gov.uk,"TOWN HALL,CASTLE CIRCUS",,TORQUAY,"TQ1 3DR",England,"01803 208517",,,,"This process was a Call-Off from KCS Professional Services Y20011 Software Products and Associated Services 2.",01/05/2020,30/04/2021,28/04/2020,NO,,Yes,No,No,Services,50000,53000,29/04/2020,53000,"[Phoenix Software Ltd|Blenheim House, York Road, Pocklington, York YO41 1NS|COMPANIES_HOUSE|02548628|Yes|No]",,01/05/2020,30/04/2021,"CallOffFromFrameworkAgreement ",
+tender_236215/856359,Contract,"MHRA Buyer Organisation",Awarded,2020-05-18T23:55:50Z,"Apex Oracle Support","Hosting and Support Provisioning for Legacy Windows 2003 Servers",,"E14 4PU",London,"72222300 ",,purchasing@nibsc.org,"10 South Colonnade",,London,"E14 4PU",England,,,,,,04/05/2020,03/05/2021,01/05/2020,NO,,Yes,No,No,Services,20000,,01/05/2020,20000,"[Phoenix Software Ltd|Blenheim House, York Road, Pocklington ,YO42 1NS|COMPANIES_HOUSE|2548628|No|No]",,04/05/2020,03/05/2021,"NegotiatedProcedureWithoutPriorPublicationOJEU ",
+WYRE002-DN472802-53315609,Contract,"Wyre Forest District Council",Awarded,2020-04-16T14:55:21Z,"Contract for the Provision of Microsoft Licences as part of a New Enterprise Agreement (O365 E3)","Wyre Forest District Council ( ""The Council"") wish to appoint a Contractor to provide Microsoft O365 E3 enterprise agreement. The appointment will be by way of competitive Tender via the Open Route.",,,"West Midlands","48200000 72212218 ","Jackie Reed",procurement@wyreforestdc.gov.uk,"Wyre Forest House","Finepoint Way",Kidderminster,"DY11 7WF",England,"+44 1562732928",https://procontract.due-north.com/Login,,"https://procontract.due-north.com/Advert?advertId=62adc626-716f-ea11-80ff-005056b64545 ",,15/04/2020,14/04/2023,06/04/2020,NO,,Yes,No,No,Products,130000,130000,07/04/2020,126234.32,"[Phoenix Software Ltd|Phoenix Software Ltd, Bytes House, Randalls Way, Leatherhead, Surrey, KT22 7TW|NONE||Yes|No]",,15/04/2020,14/04/2023,"Open ",
+IOW001-DN471469-13691949,Contract,"Isle of Wight Council",Awarded,2020-04-14T10:02:15Z,"Microsoft Enterprise Licences","further competition completed under crown commercial services tepas with award following standstill period",,,"South East","48000000 ","Jason Barrett",jason.barrett@iow.gov.uk,"County Hall","High Street",Newport,"PO30 1UD","United Kingdom","+44 1983821000",http://www.iwight.com,,,,01/07/2020,30/06/2023,26/03/2020,NO,,No,No,No,Products,1391205,1391205,30/03/2020,1391205.78,"[Phoenix Software Ltd|Bytes House, Randalls Way, Leatherhead, Surrey, United Kingdom, KT22 7TW|NONE||No|No]",,01/07/2020,30/06/2023,"Other ",
+KIRKC001-DN462493-05328489,Contract,"Kirklees Council",Awarded,2020-03-20T00:00:00Z,"KMCIT-123 - VMware Support and Maintenance","Quotations are invited by the Council of the Borough of Kirklees (the ""Council"") from Suppliers with relevant experience and ability to demonstrate sufficient capacity for the provision of VMware Support and Maintenance. 
+This contract is anticipated to commence on 01 April 2020 and will expire on 31 March 2023. Tender documents are available to download at https://www.yortender.co.uk/procontract/supplier.nsf.
+",,,"Yorkshire and the Humber","72000000 ","Gemma Crowther",gemma.crowther@kirklees.gov.uk,"Civic Centre 1",,Huddersfield,"HD1 2NF",England,,http://www.kirklees.gov.uk,,,"Tender documents are available to download at https://www.yortender.co.uk/procontract/supplier.nsf.
+",01/04/2020,31/03/2023,21/02/2020,NO,,Yes,No,No,Services,90000,,02/03/2020,79500,"[Phoenix Software Ltd|YO42 1NS|NONE||Yes|No]","Ms Bids Admin",01/04/2020,31/03/2023,"Open ",
+MRTN001-DN448053-14233269,Contract,"London Borough of Merton",Awarded,2020-03-19T09:49:49Z,"Microsoft Enterprise Agreement RM 3733","Enterprise agreement for Microsoft products.",,,London,"48200000 ","Tom Davis",tom.davis@merton.gov.uk,"Civic Centre","London Rd",Morden,"SM4 5DX","United Kingdom","+44 2082745215",http://www.merton.gov.uk/,,,,06/01/2020,20/02/2023,06/12/2019,NO,,Yes,Yes,No,Services,2006000,2006000,16/03/2020,2006000,"[Phoenix Software Ltd|YO42 1NS|NONE||Yes|No]","Ms Bids Admin",01/04/2020,31/03/2023,"Restricted ",
+GLOSCC001-DN469302-74230612,Contract,"Gloucestershire County Council",Awarded,2020-03-16T12:52:48Z,"Additional Blackberry Enterprise mobility suite - Enterprise edition licenses","Blackberry Enterprise mobility suite - Enterprise edition - additional 200 licenses co-termed until August 2021",,,"South West","48000000 ","Glenn Ashdown",glenn.ashdown@gloucestershire.gov.uk,"Shire Hall",,Gloucester,"GL1 2TG","United Kingdom","+44 1452583738",https://www.gloucestershire.gov.uk,,,,17/03/2020,09/08/2021,15/03/2020,NO,,No,No,No,Products,14860,16000,16/03/2020,14860,"[Phoenix Software Ltd|Blenheim House
+York Road
+Pocklington
+North Yorkshire
+United Kingdom
+YO42 1NS|NONE||No|No]",,17/03/2020,09/08/2021,"Open ",
+1a3b4c20-dc61-4b77-96a5-6990960f8679,Contract,"Southend University Hospital NHS Foundation Trust",Awarded,2020-02-26T10:53:00Z,"CA7001 - Quest MMAD & MMEX under Framework RM3733 Lot 2 - MSE Group","All details included in ITT
+
+To access this competition: 
+
+Registered:
+Login to https://suppliers.multiquote.com and view the opportunity CA7001.
+
+Not registered:
+Visit https://suppliers.multiquote.com then register and quote CA7001 as the reason for registration. 
+
+ Any queries please contact MultiQuote on 0151 482 9230.",,"SS2 6GE","Any region","48218000 ",,support@multiquote.com,"Britannia House, Unit 11-13","Britannia Business Park",Southend,"SS2 6GE",England,"0151 482 9230",https://suppliers.multiquote.com,,,,21/02/2020,20/02/2023,21/02/2020,NO,,Yes,No,No,Services,0,,26/02/2020,293697.55,"[Phoenix Software Ltd|Blenheim House, York Road, Pocklington, YO42 1NS|NONE||No|No]","Bids Team",21/02/2020,20/02/2023,"Open ",
+GLOSCC001-DN465619-45773795,Contract,"Gloucestershire County Council",Awarded,2020-02-25T15:18:38Z,"VMware renewal - 2020/21","VMWare Renewal 2020/21- DN465619",,,"South West","48000000 ","Glenn Ashdown",glenn.ashdown@gloucestershire.gov.uk,"Shire Hall",,Gloucester,"GL1 2TG","United Kingdom","+44 1452583738",https://www.gloucestershire.gov.uk,,,,25/02/2020,31/03/2021,24/02/2020,NO,,No,No,No,Products,70000,70000,25/02/2020,70106.3,"[Phoenix Software Ltd|North Yorkshire
+United Kingdom
+YO42 1NS|NONE||No|No]",,26/02/2020,31/03/2021,"Open ",
+6c888dd2-4256-430b-9b36-3218a37fd12f,Contract,"East Suffolk and North Essex NHS FT",Awarded,2020-02-19T12:44:17Z,"CA7051 - ESNEFT- Mirosoft Surface Hub Tender","Purchase of Microsof Surface Hubs and associated kit. 
+
+To access this competition: 
+
+Registered:
+Login to https://suppliers.multiquote.com and view the opportunity CA7051.
+
+Not registered:
+Visit https://suppliers.multiquote.com then register and quote CA7051 as the reason for registration. 
+
+ Any queries please contact MultiQuote on 0151 482 9230.",,"IP4 5PD","Any region","44316400 ","Matthew Vinter",support@multiquote.com,"Heath Road",,Ipswich,"IP4 5PD",England,"0151 482 9230",https://suppliers.multiquote.com,,,,25/03/2020,26/03/2020,28/02/2020,NO,,Yes,No,No,Services,0,,12/03/2020,102250.2,"[Phoenix Software Ltd|Blenheim House, York Road, Pocklington, YO42 1NS|NONE||No|No]","Bids Team",25/03/2020,26/03/2020,"Open ",
+GLOSCC001-DN463759-71848763,Contract,"Gloucestershire County Council",Awarded,2020-02-18T14:07:27Z,"IBM SPSS Annual Subscription & Support Renewal 2020/21","IBM SPSS Annual subscription & Support renewal 2020/21",,,"South West","48000000 ","Glenn Ashdown",glenn.ashdown@gloucestershire.gov.uk,"Shire Hall",,Gloucester,"GL1 2TG","United Kingdom","+44 1452583738",https://www.gloucestershire.gov.uk,,,,19/02/2020,17/02/2021,17/02/2020,NO,,No,No,No,Products,11000,11000,18/02/2020,9250.45,"[Phoenix Software Ltd|Blenheim House
+York Road
+Pocklington
+North Yorkshire
+United Kingdom
+YO42 1NS|NONE||No|No]",,19/02/2020,17/02/2021,"Open ",
+BATH001-DN409031-89869160,Contract,"Bath and North East Somerset Council",Awarded,2020-02-03T12:20:33Z,"MICROSOFT ENTERPRISE SUBSCRIPTION AGREEMENT RENEWAL","Microsoft Enterprise Agreement",,,"South West","48000000 ",,it_procurement@bathnes.gov.uk,Guildhall,"High Street",Bath,"BA1 5AW","United Kingdom",,http://www.bathnes.gov.uk,,,,26/06/2019,30/06/2022,14/06/2019,NO,,Yes,No,No,Products,1350000,1350000,17/06/2019,1350000,"[Phoenix Software Ltd|YO42 1NS|NONE||Yes|No]","Ms Bids Admin",26/06/2019,30/06/2022,"Open ",
+979cb3e8-e8ce-4b01-a71b-6e5da4d006bd,Contract,"Southend University Hospital NHS Foundation Trust",Awarded,2020-01-28T16:34:55Z,"CA6744 - MSBP439 - Technology Products 2 - Lot 2 - Microsooft CSP & EA Licence Agreements","All detailed in ITT
+
+To access this competition: 
+
+Registered:
+Login to https://suppliers.multiquote.com and view the opportunity CA6744.
+
+Not registered:
+Visit https://suppliers.multiquote.com then register and quote CA6744 as the reason for registration. 
+
+ Any queries please contact MultiQuote on 0151 482 9230.",,"SS2 6GE","Any region","48218000 ",,support@multiquote.com,"Britannia House, Unit 11-13","Britannia Business Park",Southend,"SS2 6GE",England,"0151 482 9230",https://suppliers.multiquote.com,,,,10/02/2020,09/02/2023,02/12/2019,NO,,Yes,No,No,Services,0,,28/01/2020,10922247,"[Phoenix Software Ltd|Blenheim House, York Road, Pocklington, YO42 1NS|NONE||No|No]","Bids Team",10/02/2020,09/02/2023,"Open ",
+6b9b53ad-12ec-42ec-a616-e75058050221,Contract,"New City College",Awarded,2020-01-14T11:11:33Z,"CA6884 - Data Migration Services","New City College are seeking to merge both Havering tenancies on to the one New City College tenancy Office 365.  
+
+To access this competition: 
+
+Registered:
+Login to https://suppliers.multiquote.com and view the opportunity CA6884.
+
+Not registered:
+Visit https://suppliers.multiquote.com then register and quote CA6884 as the reason for registration. 
+
+ Any queries please contact MultiQuote on 0151 482 9230.",,"E14 0AF","Any region","72300000 72314000 72310000 72312100 72313000 72315100 72000000 ","Billy Ewart",support@multiquote.com,"Poplar High Street",,"Tower Hamlets","E14 0AF",England,"0151 482 9230",https://suppliers.multiquote.com,,,,13/02/2020,12/02/2021,13/02/2020,NO,,Yes,No,No,Works,110000,110000,03/03/2020,51975,"[Phoenix Software Ltd|Blenheim House, York Road, Pocklington, YO42 1NS|NONE||No|No]","Bids Team",13/02/2020,12/02/2021,"Open ",
+THANET001-DN452637-27941777,Contract,"Thanet District Council",Awarded,2019-12-10T13:04:29Z,"VMware Subscription","Award Notice - VMware subscription.  Please note this contract has already been awarded and is published for Transparency purposes only.",,,"South East","48000000 ","Linda Taylor",linda.taylor@thanet.gov.uk,"Thanet District Council","Cecil Street",Margate,"CT9 1XZ","United Kingdom","+44 1843577031",http://www.thanet.gov.uk/,,,,24/11/2019,23/11/2020,01/11/2019,NO,,Yes,No,No,Services,36883,36883,11/11/2019,36883.8,"[Phoenix Software Ltd|Blenheim House, York Road, Pocklington, York|NONE||Yes|No]",,24/11/2019,23/11/2020,"Restricted ",
+GLOSCC001-DN442532-70161693,Contract,"Gloucestershire County Council",Awarded,2019-10-24T13:59:31Z,"Samsung Knox configure dynamic edition renewal and additional licenses","Awarded based on price",,,"South West","48000000 ","Glenn Ashdown",glenn.ashdown@gloucestershire.gov.uk,"Shire Hall",,Gloucester,"GL1 2TG","United Kingdom","+44 1452583738",https://www.gloucestershire.gov.uk,,,,26/10/2019,07/11/2021,23/10/2019,NO,,No,No,No,Services,16600,16600,24/10/2019,9650,"[Phoenix Software Ltd|Blenheim House, York Road
+
+Pocklington, York
+YO42 1NS|NONE||No|No]",,25/10/2019,07/11/2021,"Open ",
+tender_164037/801125,Contract,"MHRA Buyer Organisation",Awarded,2019-09-26T09:43:07Z,"Apex Oracle Support","Apex Oracle Support",,"E14 4PU",London,"72222300 ",,purchasing@nibsc.org,"10 South Colonnade",,London,"E14 4PU",England,,,,,,20/09/2019,30/09/2021,19/09/2019,NO,,No,No,No,Products,16000,,19/09/2019,16000,"[PHOENIX SOFTWARE Ltd|Blenheim House York Road Pocklington York YO42 1NS|NONE||No|No]",,20/09/2019,30/09/2021,"CallOffFromFrameworkAgreement ",
+tender_164005/799054,Contract,"MHRA Buyer Organisation",Awarded,2019-09-18T10:59:20Z,"Geneious Prime 2019","Geneious Prime 2019",,"E14 4PU",London,"72222300 ",,purchasing@nibsc.org,"10 South Colonnade",,London,"E14 4PU",England,,,,,,17/09/2019,16/09/2022,04/09/2019,NO,,No,No,No,Products,19200,,17/09/2019,19200,"[PHOENIX SOFTWARE Ltd|Blenheim House York Road Pocklington York YO42 1NS|NONE||No|No]",,17/09/2019,16/09/2022,"CallOffFromFrameworkAgreement ",
+CF-0005500D1r000001nvObEAI1,Contract,"Intellectual Property Office",Awarded,2019-08-27T13:11:07Z,"Adobe VIP Agreement","-4x Photoshop CC
+-23x Creative Cloud
+-46x Acrobat Pro DC
+-2x Dreamweaver CC",,"NP10 8QQ",Wales,"48517000 ","Jonathan Chapman",jonathan.chapman@ipo.gov.uk,"Cardiff Road",,Newport,"NP10 8QQ",GB,,,,,,30/08/2019,29/08/2020,15/08/2019,NO,,Yes,No,No,NotApplicable,21889,21889,27/08/2019,21889.32,"[Phoenix Software Ltd|Blenheim House ,York Road ,Pocklington ,York YO42 1NS|NONE||No|No]",,30/08/2019,29/08/2020,"CallOffFromFrameworkAgreement ",
+tender_164005/788921,Contract,"MHRA Buyer Organisation",Awarded,2019-08-05T14:39:00Z,"RestorePoint Renewal 2019","RestorePoint Renewal 2019",,"E14 4PU",London,"72222300 ",,purchasing@nibsc.org,"10 South Colonnade",,London,"E14 4PU",England,,,,,,20/07/2019,19/07/2020,03/07/2019,NO,,No,No,No,Products,11000,,16/07/2019,11000,"[PHOENIX SOFTWARE Ltd|Blenheim House York Road Pocklington York YO42 1NS|NONE||No|No]",,20/07/2019,19/07/2020,"CallOffFromFrameworkAgreement ",
+NYCC001-DN418006-39605067,Contract,"North Yorkshire County Council",Awarded,2019-08-01T14:09:20Z,"Anti-Virus for Schools","North Yorkshire County Council Schools ICT department require the provision of Anti-Virus Protection.",,,"Yorkshire and the Humber","48760000 48761000 ","Katie Longstaff",Katie.Longstaff@northyorks.gov.uk,"North Yorkshire County Council","County Hall",Northallerton,"DL7 8AD","United Kingdom","+44 1609536831",http://www.northyorks.gov.uk/,,,,24/06/2019,23/06/2022,31/03/2019,NO,,Yes,No,No,Services,118000,118000,01/04/2019,118000,"[Phoenix Software Ltd|YO42 1NS|NONE||Yes|No]","Ms Bids Admin",24/06/2019,23/06/2022,"DirectAward ",
+GLOSCC001-DN422601-94432108,Contract,"Gloucestershire County Council",Awarded,2019-07-23T09:02:20Z,"JetNexus Support Renewal 2019/20","JetNexus Support Renewal 2019/20 - 1 year support",,,"South West","50312310 ","Glenn Ashdown",glenn.ashdown@gloucestershire.gov.uk,"Shire Hall",,Gloucester,"GL1 2TG",England,"+44 1452583738",https://www.gloucestershire.gov.uk,,,,01/08/2019,31/07/2020,22/07/2019,NO,,No,No,No,NotApplicable,7000,7000,23/07/2019,3765.08,"[Phoenix Software Ltd|Blenheim House
+York Road
+Pocklington 
+York YO42 1NS|NONE||No|No]","Chris Smith",01/08/2019,31/07/2020,"Open ",
+GLOSCC001-DN412707-48720487,Contract,"Gloucestershire County Council",Awarded,2019-06-10T13:09:32Z,"Proxy Master and Host license renewal","Proxy Master and Host license renewal - 2019/2020",,,"South West","38800000 ","Glenn Ashdown",glenn.ashdown@gloucestershire.gov.uk,"Shire Hall",,Gloucester,"GL1 2TG","United Kingdom","+44 1452583738",http://www.gloucestershire.gov.uk,,,,29/06/2019,28/06/2020,06/06/2019,NO,,Yes,No,No,Services,10000,10000,10/06/2019,12432.85,"[Phoenix Software Ltd|Blenheim House, York Road
+
+Pocklington, York
+YO42 1NS|NONE||No|No]","Chris Smith",29/06/2019,28/06/2020,"Open ",
+WYRE002-DN332987-36599954,Contract,"Wyre Forest District Council",Awarded,2019-05-24T12:22:51Z,"Contract for the Provision of BlackBerry Enterprise Mobility Suite - Collaboration Edition Licences","Wyre Forest District Council (""The Council"") wishes to appoint a Contractor to provide BlackBerry Enterprise Mobility Suite - Collaboration Edition Licence. The appointment will be by way of competitive Tender.",,,"West Midlands","48000000 ","Jackie Reed",procurement@wyreforestdc.gov.uk,"Wyre Forest House","Finepoint Way",Kidderminster,"DY11 7WF",England,"+44 1562732928",https://www.wyreforestdc.gov.uk,,"https://procontract.due-north.com/Advert?advertId=2d5f7a01-dc38-e811-80eb-005056b64545 ",,01/05/2018,30/04/2019,12/04/2018,NO,,No,No,No,Products,10000,10000,13/04/2018,13377.5,"[Phoenix Software Ltd|Bytes House, Randalls Way, Leatherhead, KT22|NONE||Yes|No]",,24/04/2018,23/04/2019,"Open ",
+tender_164005/769943,Contract,"MHRA Buyer Organisation",Awarded,2019-05-16T13:23:03Z,"Replace End of Support Palo Alto firewall","Replace End of Support Palo Alto firewall",,"E14 4PU",London,"72222300 ",,purchasing@nibsc.org,"10 South Colonnade",,London,"E14 4PU",England,,,,,,16/05/2019,15/05/2020,13/05/2019,NO,,No,No,No,Products,70000,,16/05/2019,70000,"[PHOENIX SOFTWARE Ltd|Blenheim House York Road Pocklington York YO42 1NS|NONE||No|No]",,16/05/2019,15/05/2020,"CallOffFromFrameworkAgreement ",
+tender_166937/766083,Contract,"Public Health England",Awarded,2019-05-07T17:01:05Z,"PHE - ITC - 2018-19 Oracle services","Provision of Oracle hardware support
+	                         
+8 Processors	                        
+218 NUP	                        
+400 NUP	
+50 NUP	                        
+25 Processors	                        
+10 Processors	                        
+Oracle Options Support	                        
+Oracle Licenses purchased in 2002	     
+Oracle Hardware - Sun Studio Support 	
+Oracle T7 Hardware Support",,,"Any region","48000000 ",,tenders@phe.gov.uk,"61, Colindale Avenue",,London,"NW9 5EQ",England,,,,,,05/04/2018,04/04/2019,26/03/2018,NO,,Yes,Yes,No,Services,209233,,29/03/2018,209233.06,"[PHOENIX SOFTWARE Ltd|Bytes House, Randalls Way, Leatherhead, Surrey, KT22 7TW|COMPANIES_HOUSE|02548628|No|No]",,05/04/2018,04/04/2019,"CallOffFromFrameworkAgreement ",
+WYRE002-DN391084-82204547,Contract,"Wyre Forest District Council",Awarded,2019-04-23T16:23:14Z,"Contract for the Provision of Veeam Backup Solution and Associated Hardware","Wyre Forest District Council wishes to appoint a Contractor to provide 2 x Dell or 2 x HPE Servers to increase its current backup capacity and allow the Council to store additional backups as part of it Cyber Resilience plans. The appointment will be by way of competitive Tender.",,,"West Midlands","30200000 48710000 ","Jackie Reed",procurement@wyreforestdc.gov.uk,"Wyre Forest House","Finepoint Way",Kidderminster,"DY11 7WF",England,"+44 1562732928",https://www.wyreforestdc.gov.uk,,"https://procontract.due-north.com/Advert?advertId=326b456d-8a28-e911-80f2-005056b64545 ",,16/04/2019,30/04/2019,12/02/2019,NO,,Yes,No,No,Products,50000,50000,28/02/2019,37387.37,"[Phoenix Software Ltd|Bytes House, Randalls Way, Leatherhead, Surrey|NONE||Yes|No]",,08/03/2019,30/04/2019,"Open ",
+CN1002018,Contract,"Nottinghamshire Police Force",Awarded,2019-04-16T15:43:24Z,"Microsoft Enterprise Subscription Agreement ESA","Mini competition utilising CCS Framework RM3733 Technology Products 2 - Lot 2.",,,"East Midlands","48000000 ","Rachel Buck",Rachel.buck@emscu.pnn.police.uk,"Sherwood Lodge",,NOTTINGHAM,NG58PP,England,,,,,,14/03/2019,31/03/2022,13/03/2019,NO,,No,No,No,Products,2164051.56,,13/03/2019,2164051.56,"[Phoenix Software Ltd|Blenheim House
+York Road
+Pocklington
+North Yorkshire
+YO42 1NS|NONE||No|No]",,14/03/2019,31/03/2022,"CallOffFromFrameworkAgreement ",
+BIP387462894,Contract,"Student Loans Company",Awarded,2019-04-01T11:15:02Z,"GB-Glasgow: IBM Netezza and InfoSphere Renewals","IBM Netezza and InfoSphere Renewals",,,Scotland,"72222300 ","Linda Milne",linda_milne@slc.co.uk,"100 Bothwell Street",,Glasgow,"G2 7JD",UK,01413062053,,,"https://www.delta-esourcing.com/delta/respondToList.html?noticeId=387462894 ",,01/04/2019,31/03/2020,26/03/2019,NO,,No,No,No,Services,353986,,26/03/2019,353986.72,"[Phoenix Software Ltd|Benheim House
+        York Road
+        Pocklington
+        YO42 1NS|NONE||No|No]","Dax Scutt",01/04/2019,31/03/2020,"NotSpecified ",
+"O365 Compliance Manager",Contract,"HIGHWAYS ENGLAND COMPANY LIMITED",Awarded,2019-03-27T13:29:21Z,"O365 Compliance Manager","O365 content/site and groups governance for Highways England's O365 digital platforms to improve the customer experience and enforce content and data compliance",,,"Any region","72000000 ",,transparencysgrm@highwaysengland.co.uk,"The Cube",,Birmingham,"B1 1RN",England,,,"RM1557.10 Call off order form Avepoint v1 -redacted.pdf ",,,27/03/2019,27/03/2021,26/03/2019,NO,,Yes,No,No,Services,122700,,26/03/2018,122700,"[Phoenix Software Ltd|Phoenix Software LTD
+Blenheim House
+York Road
+Pocklington
+York
+YO42 INS|NONE||No|No]",,27/03/2019,27/03/2021,"CallOffFromFrameworkAgreement ",
+GLOSCC001-DN398895-63293821,Contract,"Gloucestershire County Council",Awarded,2019-03-25T14:00:58Z,"Ivanti Endpoint Discovery inc Inventory & Data Maintenance","Only bidder",,,"South West","48422000 ","Glenn Ashdown",glenn.ashdown@gloucestershire.gov.uk,"Shire Hall",,Gloucester,"GL1 2TG","United Kingdom","+44 1452583738",http://www.gloucestershire.gov.uk,,,,26/03/2019,25/03/2020,24/03/2019,NO,,No,No,No,Products,12000,12000,25/03/2019,12000,"[Phoenix Software Ltd|Blenheim House, York Road
+
+Pocklington, York
+YO42 1NS|NONE||No|No]",,26/03/2019,25/03/2020,"Restricted ",
+GLOSCC001-DN397870-81608912,Contract,"Gloucestershire County Council",Awarded,2019-03-25T09:43:48Z,"Egress Workspace subscriptions - 3 year for 100 users","Awarded on cost",,,"South West","48700000 ","Glenn Ashdown",glenn.ashdown@gloucestershire.gov.uk,"Shire Hall",,Gloucester,"GL1 2TG",England,"+44 1452583738",http://www.gloucestershire.gov.uk,,,,26/03/2019,25/03/2022,22/03/2019,NO,,Yes,No,No,Products,36000,36000,25/03/2019,23665,"[Phoenix Software Ltd|Phoenix Software Limited 
+Blenheim House, York Road
+Pocklington, York
+YO42 1NS|NONE||No|No]",,26/03/2019,25/03/2022,"Restricted ",
+BIP385438098,Contract,Cefas,Awarded,2019-03-22T11:06:01Z,"GB-Lowestoft: Cefas VMWare licences 2019","Cefas has a requirement for the provision of a 1 year support and maintenance renewal for VMware Licenses. 
+      
+      https://www.delta-esourcing.com/respond/9UUK494N75",,,"Any region","48000000 48219300 ","Emma Roberts",procure@cefas.co.uk,"Pakefield Road",,Lowestoft,"NR33 0HT",UK,01502527766,,,"https://www.delta-esourcing.com/delta/respondToList.html?noticeId=385438098 ","The contracting authority considers that this contract may be suitable for economic operators that are small or medium enterprises (SMEs). However, any selection of tenderers will be based solely on the criteria set out for the procurement.",23/04/2019,22/04/2020,21/03/2019,NO,,No,No,No,Services,11207,,21/03/2019,11207.09,"[Phoenix Software Ltd|Blenheim House
+        York Road
+        Pocklington
+        York
+        YO421NS|NONE||No|No]","Alex James",23/04/2019,22/04/2020,"Open ",
+"TENDER/00000165 - AWARD",Contract,"GreenSquare Group Limited",Awarded,2019-02-07T15:22:21Z,"ICT Rack Mounted Servers and Switches 2019 - AWARD","GreenSquare Group currently have a number of old ESXi hosts that form a vital part of the organisation's core infrastructure.  This infrastructure is used for hosting a VMware virtual environment that runs mostly Microsoft servers with a few other appliances and Citrix technologies, which are delivering critical services to the organisation.  There is a requirement to refresh all the hosts at our Chippenham office, along with the backend switches for our virtual infrastructure and storage network, which is currently approaching end of life.  As part of the organisation's technology refresh the decision has been made to replace the hardware with new hosts and switches. Professional setup services are also required to carry out the installation, build, and configuration of the new hosts and switches.  Whichever solution is proposed must meet the following base requirements.
+      
+      To be able to bid for this contract you must first express interest through the in-tend portal to receive the documents. Expressions of Interest close 14/01/2019 midday. Deadline for bid submission is 30/01/2019 at midday.",,"SN14 0GU",,"72222300 51611100 44316400 72100000 ","Warren  O'Neill",warren.oneill@greensquaregroup.com,"Methuen Park",Chippenham,Wiltshire,"SN14 0GU","Great Britain","01249 466104",www.greensquaregroup.com,,,,01/03/2019,28/02/2022,14/01/2019,NO,,Yes,No,No,Services,0,,07/02/2019,65472.16,"[Phoenix Software Ltd|Blenheim House, York Road, Pocklington, York, East Riding of Yorkshire, United Kingdom, YO42 1NS|NONE||No|No]","Darren  Fuller",01/03/2019,28/02/2022,"Open ",
+MT214526,Contract,"General Medical Council (GMC)",Awarded,2019-01-16T10:35:43Z,"Adobe Acrobat Licences","The GMC is moving from Windows 7 to Windows 10 in the coming months and as a result must move to a version of Adobe Acrobat that is supported on Windows 10.
+The GMC are looking for pricing for the following:
+Adobe Acrobat Professional 2017
+Quantity	674",,,"Scotland,North West,Wales,Northern Ireland,London","48000000 ","Chris Park",gmctenders@gmc-uk.org,"3 Hardman Street",,Manchester,"M3 3AW",England,"+44 1619236340",http://www.gmc-uk.org,,"https://www.mytenders.co.uk/search/show/search_view.aspx?ID=JAN156327 ",,17/12/2018,16/12/2021,11/12/2018,NO,,Yes,No,No,Products,57000,,13/12/2018,57000,"[Phoenix Software Ltd|Blenheim House, York Road, , Pocklington|NONE||No|No]","Lauren Marshall",17/12/2018,16/12/2021,"OpenNonOJEU ",
+BIP368807599,Contract,"Student Loans Company",Awarded,2019-01-09T10:33:12Z,"GB-Glasgow: VMWARE ELA RENEWAL","VMware 3 Year ELA Renewal",,,Scotland,"72261000 ","Martin Woods",martin_woods@slc.co.uk,"100 Bothwell Street",,Glasgow,"G2 7JD",UK,01412433832,,,"https://www.delta-esourcing.com/delta/respondToList.html?noticeId=368807599 ",,22/12/2018,21/12/2021,21/12/2018,NO,,No,No,No,Services,763896,,21/12/2018,763896,"[Phoenix Software Ltd|Bytes House
+        Randalls Way
+        Leatherhead
+        KT22 7TW|NONE||No|No]","Dax Scutt",22/12/2018,21/12/2021,"NotSpecified ",
+SGLOS001-DN373323-15911342,Contract,"South Gloucestershire Council",Awarded,2019-01-07T13:26:20Z,"Microsoft Enterprise Agreement - Further Competition under RM3733","Microsoft Enterprise Agreement - Further Competition under RM3733",,,"South West","48222000 48221000 48223000 ",,procurement@southglos.gov.uk,"Council Offices","Badminton Road",Yate,"BS37 5AF",England,,https://www.southglos.gov.uk,,,,01/07/2019,30/06/2022,30/11/2018,NO,,Yes,No,No,Products,1500000,,11/12/2018,1546430.77,"[Phoenix Software Ltd|Bytes House, Randalls Way, Leatherhead, KT22 7TW|NONE||No|No]",,01/07/2019,30/06/2022,"Other ",
+SRIBL001-DN377907-82608402,Contract,"South Ribble Borough Council",Awarded,2018-12-20T14:40:55Z,"Further Competition under Lot 2 of Framework Reference RM3733 for Microsoft Licensing","South Ribble Borough Council has awarded a contract for Microsoft licensing following a further competition tender process under Lot 2 of Framework RM3733 -Technology Products 2",,,"North West","48000000 ",,procurement@chorley.gov.uk,"Shared Financial Services","Chorley Borough Council, Town Hall, Market Street",Chorley,"PR7 1DP","United Kingdom","+44 1257515622",http://www.southribble.gov.uk/,,,,01/04/2019,31/03/2022,03/12/2018,NO,,Yes,No,No,Products,270000,,10/12/2018,262781,"[Phoenix Software Ltd|Blenheim House, York Road, Pocklington, North Yorkshire, YO42 1NS|NONE||Yes|No]",,01/04/2019,31/03/2022,"Other ",
+"ESCC - 023789 - AWARD",Contract,"SE Shared Services",Awarded,2018-12-20T11:46:04Z,"ESCC WJ Citrix Maintenance and support - mini competition - AWARD","Citrix maintenance and support",,"BN7 1UE","South East","48781000 ","Bill Johnstone",William.johnstone@eastsussex.gov.uk,"St Anne's Crescent",Lewes,"East Sussex","BN7 1UE","United Kingdom","01273 336804",www.eastsussex.gov.uk,,,,15/12/2018,14/12/2021,07/12/2018,NO,,No,No,No,Services,0,,20/12/2018,0,"[Phoenix Software Ltd|Blenheim House, n/a, Pocklington, United Kingdom, YO42 1NS|NONE||No|No]","Oliver Lee",15/12/2018,14/12/2021,"Other ",
+ROCH001-DN375342-22589512,Contract,"Rochdale Metropolitan Borough Council",Awarded,2018-11-29T14:12:34Z,"Provision of Be-Crypt Enterprise Maintenance","Rochdale Borough Council maintain security standards compliant with Public Service Networks as published by the UK's Cabinet Office. In order to maintain compliance with current standards they require monitoring of USB devices attached to any end-user device. To this end they have currently installed BeCrypt on connected devices controlled by a central interface.",,,"North West","48000000 72000000 ","Philip Stephens",philip.stephens@star-procurement.gov.uk,"Number One Riverside","Smith Street",Rochdale,"OL16 1XU",England,"+44 1619121616",http://www.rochdale.gov.uk/,,"https://procontract.due-north.com/Advert?advertId=26c2bf27-8be2-e811-80ef-005056b64545&fromAdvertEvent=True ","Please do not contact the buyer directly
+",01/12/2018,30/11/2021,22/11/2018,NO,,Yes,No,No,Products,25000,39000,29/11/2018,23400,"[Phoenix Software Ltd|YO42 1NS|NONE||Yes|No]","Ms Bids Admin",01/12/2018,30/11/2021,"Open ",
+"NHDC 0918 - RM3733",Contract,"NORTH HERTFORDSHIRE DISTRICT COUNCIL",Awarded,2018-11-06T11:39:03Z,"AWARDED - Framework Call-off for the supply of Microsoft Licenses","NHDC has awarded a contract for the supply of Microsoft Licenses under CCS RM3733 Framework, Lot 2.",,,"East of England","48000000 ","Kirstie Wilson",kirstie.wilson@north-herts.gov.uk,"Gernon Road",,LETCHWORTH,"SG6 3JF",England,"01462 474284 ext 4284",,,,,01/04/2019,31/03/2022,08/10/2018,NO,,No,No,No,Products,357490,,24/10/2018,357490,"[Phoenix Software Ltd|Bytes House, Randalls Way, Leatherhead, KT22 7TW|COMPANIES_HOUSE|02548628|No|No]",,01/04/2019,31/03/2022,"CallOffFromFrameworkAgreement ",
+MRTN001-DN357466-49730745,Contract,"London Borough of Merton",Awarded,2018-10-10T14:19:04Z,"Firewall REFRESH Call-off contract from Lot 1 of CCS Framework RM 3733.","Firewall REFRESH Call-off contract from Lot 1 of CCS Framework RM 3733.",,,London,"72000000 72200000 72210000 ","Joshua May",Joshua.May@merton.gov.uk,"Civic Centre","London Rd",Morden,"SM4 5DX","United Kingdom","+44 2082744901",http://www.merton.gov.uk/,,,,01/11/2018,01/11/2023,24/08/2018,NO,,No,No,No,Services,291861,291861,10/10/2018,291861.26,"[Phoenix Software Ltd|YO42 1NS|NONE||Yes|No]","Ms Bids Admin",01/11/2018,01/11/2023,"Open ",
+STHEL001-DN367120-52019231,Contract,"St.Helens Council",Awarded,2018-10-09T15:50:00Z,"St Helens Council Surface Pro Requirement","St Helens Council Surface Pro Requirement",,,"North West","72000000 ","Jack Bate",jackbate@sthelens.gov.uk,"St.Helens Council",,St.Helens,"WA10 1HF",England,"+44 0",http://www.sthelens.gov.uk,,,,28/09/2018,02/10/2018,28/08/2018,NO,,No,No,No,Products,160000,160000,30/09/2018,112464,"[Phoenix Software Ltd|Blenheim House, York Road, Pocklington, North Yorkshire, YO42 1NS, United Kingdom|NONE||No|No]",,01/10/2018,10/10/2018,"Restricted ",
+GLOSCC001-DN352870-44480039,Contract,"Gloucestershire County Council",Awarded,2018-08-16T10:10:29Z,"Veritas Netbackup Appliance S&M","Veritas Netbackup Renewal Part 1.",,,"Any region","48700000 ","Anne Mankin",anne.mankin@gloucestershire.gov.uk,"Shire Hall","Westgate Street",Gloucester,"GL1 2TG",England,"+44 1452583733",http://www.gloucestershire.gov.uk,,,,15/07/2018,16/07/2019,14/07/2018,NO,,No,No,No,Products,72000,72000,14/08/2018,72151.05,"[Phoenix Software Ltd|Blenheim House, York Road, Pocklington, York, YO42 1NS|NONE||Yes|No]",,16/08/2018,15/08/2019,"Restricted ",
+BATH001-DN347230-98045882,Contract,"Bath and North East Somerset Council",Awarded,2018-06-20T15:14:08Z,"Provision of CommVault,Nexsan & Overland Support","Provision of CommVault, Nexsan & Overland Support",,,"South West","48600000 ","Sally Cummings",it_procurement@bathnes.gov.uk,Guildhall,"High Street",Bath,"BA1 5AW","United Kingdom",,http://www.bathnes.gov.uk,,,,01/07/2018,30/06/2019,18/06/2018,NO,,Yes,No,No,Products,23304,23304,19/06/2018,23304.35,"[Phoenix Software Ltd|YO42 1NS|NONE||Yes|No]","Ms Bids Admin",01/07/2018,30/06/2019,"Other ",
+WCT001-DN318869-08675054,Contract,"Westward Housing Group",Awarded,2018-06-20T12:16:48Z,"Microsoft Enterprise Subscription","To provide Microsoft licencing",,,"South West","48200000 48620000 ","Ian Banbury",ian.banbury@westwardhousing.org.uk,"Templar House","Collett Way","Newton Abbot","TQ12 4PH",England,"+44 1626247121",http://www.westwardhousing.org.uk/,,,,01/05/2018,30/04/2021,04/04/2018,NO,,Yes,No,No,Products,200000,200000,10/04/2018,200000,"[Phoenix Software Ltd|Blenheim House, York Road, Pocklington, YO42 1NS|NONE||Yes|No]",,01/05/2018,30/04/2021,"Restricted ",
+CHEAST001-DN326517-81806564,Contract,"Cheshire East Borough Council",Awarded,2018-02-28T15:12:46Z,"653 Modification to Citrix Contract for 96 additional Licences","Modification to exisiting Contract to purchase 96 additional licences for a project.",,,"North West","48000000 ","Ann Hope",ann.hope@cheshireeast.gov.uk,Westfields,"Middlewich Road",Sandbach,"CW11 1HZ",England,"+44 86595",http://www.cheshireeast.gov.uk/,,,,28/02/2018,29/02/2020,02/02/2018,NO,,Yes,No,No,Services,16149,16149,08/02/2018,16149.45,"[Phoenix Software Ltd|Blenheim House, York Road, Pocklington, York YO42 1NS|NONE||Yes|No]","Keith Martin",28/02/2018,29/02/2020,"Other ",
+CHEAST001-DN326478-84631359,Contract,"Cheshire East Borough Council",Awarded,2018-02-28T14:59:54Z,"629 Modification to Citrix Contract 60 Additional Citrix Licences","Modification to Exisiting Contract to Purchase 60 additional citrix select licences for a Project.",,,"North West","48000000 ","Ann Hope",ann.hope@cheshireeast.gov.uk,Westfields,"Middlewich Road",Sandbach,"CW11 1HZ",England,"+44 86595",http://www.cheshireeast.gov.uk/,,,,01/03/2018,29/02/2020,02/02/2018,NO,,Yes,No,No,Services,10093,10093,08/02/2018,10093.4,"[Phoenix Software Ltd|Blenheim House, York Rd, Pocklington, York YO42 1NS|NONE||Yes|No]","Keith Martin",28/02/2018,27/02/2020,"Other ",
+"EP136/231017 - AWARD",Contract,"Sandwell Metropolitan Borough Council",Awarded,2017-11-03T12:13:36Z,"Websense Support and Maintenance Renewal 2017 to 2018 - AWARD","Sandwell MBC are currently seeking a supplier to provide Websense support and maintenance renewal 2017 to 2018
+      
+      If you are interested in quoting for this work, please register/log in to the Intend Supplier portal to download the full documentation and submit your quote, https://in-tendhost.co.uk/sandwellmbc .  The closing date for all submissions is Wednesday 1st November at 5pm",,"B69 3DB","West Midlands","72000000 48000000 ","Ellen Painter",ellen_painter@sandwell.gov.uk,"Freeth Street",Oldbury,"West Midlands","B69 3DB","United Kingdom","0121 569 2445",,,,,26/11/2017,25/11/2018,01/11/2017,NO,,No,No,No,Services,0,,03/11/2017,0,"[Phoenix Software Ltd|Blenheim House, York Road, Pocklington, North Yorkshire, United Kingdom, YO42 1NS|||No|No]","Claire Hobman",26/11/2017,25/11/2018,"Open ",
+GLOSCC001-DN297882-53772429,Contract,"Gloucestershire County Council",Awarded,2017-09-15T12:21:53Z,VMWare,"Co-term existing VMware contracts to 31/03/2019",,,"Any region","48000000 ","Clare Cato",clare.cato@gloucestershire.gov.uk,"Quayside House","2nd Floor",Gloucester,"GL1 2TG",England,"+44 1452425010",http://www.gloucestershire.gov.uk,,"https://procontract.due-north.com/Advert?advertId=444fafea-ab94-e711-80e4-005056b64545 ",,18/09/2017,31/03/2019,13/09/2017,NO,,No,No,No,Services,85000,116000,15/09/2017,85976.23,"[Phoenix Software Ltd|Blenheim House, York Road. Pocklington, York, YO42 1NS|||No|No]",,17/09/2017,31/03/2019,"Restricted ",
+CHEAST001-DN286336-47978283,Contract,"Cheshire East Borough Council",Awarded,2017-07-14T15:01:56Z,"17 084 Provision of Blackberry Enterprise Mobility Suite - Jumpstart Collaboration","Professional Services are required to deploy the latest version of Blackberry to replace the current Good for Enterprise deployment across both councils.  Blackberry will provide a professional services project manager and technical delivery expert to work with internal Cheshire East resources to complete the upgrade.",,,"North West","72000000 ","Ann Hope",ann.hope@cheshireeast.gov.uk,Westfields,"Middlewich Road",Sandbach,"CW11 1HZ",England,"+44 86595",http://www.cheshireeast.gov.uk/,,,,19/07/2017,31/08/2017,13/07/2017,NO,,No,No,No,Services,27000,27000,14/07/2017,26995,"[Phoenix Software Ltd|Blenheim House, York Road, Pocklington York YO42 1NS|||Yes|No]",,19/07/2017,31/08/2017,"Restricted ",
+BATH001-DN264908-47939027,Contract,"Bath and North East Somerset Council",Awarded,2017-07-05T12:04:00Z,"Trend Licence Upgrade","Renewal of Existing Trend Licences.",,,"South West","48000000 ","Sally Cummings",sally_cummings@bathnes.gov.uk,Guildhall,"High Street",Bath,"BA1 5AW",England,"+44 1225477422",http://www.bathnes.gov.uk,,,,21/06/2017,21/06/2018,09/06/2017,NO,,Yes,No,No,Products,28000,28000,26/06/2017,28000,"[Phoenix Software Ltd|YO42 1NS|||Yes|No]","Ms Bids Admin",27/06/2017,21/06/2018,"Open ",
+"IT029 ERP",Contract,"BIRMINGHAM CITY UNIVERSITY",Awarded,2017-05-26T14:33:20Z,"Birmingham City University ERP Licensing","Birmingham City University has procured the technology solution that will provide suitable cloud-based services that meet the outcome requirements for all three of the HR, Finance and Payroll business functions of the University. This was through a mini competition using the SUPC SRLA framework through Lot 4 in order to secure the solution that meets this service requirement.",,,"West Midlands","48451000 ","Richard Osborne",richard.osborne@bcu.ac.uk,"University House","Bartholomew Row",Birmingham,"B5 5JU",England,,,,,,01/06/2017,31/05/2022,18/04/2017,NO,,No,No,No,Services,2653000,,18/05/2017,2653000,"[Phoenix Software Ltd|Blenheim House
+York Road
+North Yorkshire|||No|No]",,01/06/2017,31/05/2022,"Other ",
+IOW001-DN219959-90440574,Contract,"Isle of Wight Council",Awarded,2017-05-25T11:12:38Z,"Microsoft Enterprise Licences (Early Commitment) for the Isle of Wight Council","This contract is for the supply of the Early Commitment of Microsoft Enterprise 6 Enrolment Licences Agreement before 31 December 2016. The Council's current 3 year Microsoft Enterprise 6 Enrolment Licences Agreement expires on 30 June 2017. The licences will run for 3 years from 1 July 2017 until 30 June 2020. 
+
+Further Competition undertaken from Lot 2 of the CCS, MoD and Pro5 Technology Products 2 framework agreement (RM3733) for this contract.",,,"South East","48000000 ","Vanessa Squibb",vanessa.squibb@iow.gov.uk,"County Hall","High Street",Newport,"PO30 1UD","United Kingdom","+44 1983821000",http://www.iwight.com,,,,01/07/2017,30/06/2020,02/12/2016,NO,,No,No,No,Products,155726,,13/12/2016,155726.93,"[Phoenix Software Ltd|Blenheim House, York Road, Pocklington, North Yorkshire, YO42 1NS|||Yes|No]","Miss Kiesha Faxon",01/07/2017,30/06/2020,"Other ",
+GLOSCC001-DN256871-90990514,Contract,"Gloucestershire County Council",Awarded,2017-04-25T12:24:37Z,"Renewal of Ascend Tokens subscription - 3 years","Renewal of Ascend ID token subscription for 3 years",,,"South West","30230000 ","Clare Cato",clare.cato@gloucestershire.gov.uk,"Quayside House","2nd Floor",Gloucester,"GL1 2TG",England,"+44 1452425010",http://www.gloucestershire.gov.uk,,"https://procontract.due-north.com/Advert?advertId=45b2f68a-ad1a-e711-80dd-005056b64545 ",,24/04/2017,06/04/2020,17/04/2017,NO,,No,No,No,Services,10000,10000,18/04/2017,174174,"[Phoenix Software Ltd|Blenheim House, York Road, Pocklington, North Yorkshire, Y0421NS|||No|No]",,19/04/2017,20/04/2018,"Open ",
+CHEAST001-DN230963-57097815,Contract,"Cheshire East Borough Council",Awarded,2017-04-04T11:13:29Z,"16 053 SOPHOS ANTI-VIRUS INTERFACE (MAILMARSHAL) ESS MAINTENANCE 1+1 YEAR","The contract is to renew licenses for support and maintenance for the MailMarshal product plus Sophos anti-virus updates for 1 year  to protect against malicious attack via email",,,"North West","48760000 ","Ann Hope",ann.hope@cheshireeast.gov.uk,Westfields,"Middlewich Road",Sandbach,"CW11 1HZ",England,"+44 86595",http://www.cheshireeast.gov.uk/,,"https://procontract.due-north.com/Advert?advertId=f374aaa4-dfc5-e611-8118-000c29c9ba21 ",,10/03/2017,09/03/2018,06/02/2017,NO,,No,No,No,Services,23000,23000,08/03/2017,23000,"[Phoenix Software Ltd|Blenhiem House, York Road, Pocklington, York YO42 1NS|||Yes|No]","Keith Martin",10/03/2017,09/04/2017,"Open ",
+WIRLC001-DN239023-17798980,Contract,"Wirral Borough Council",Awarded,2017-03-22T10:50:49Z,"Veeam Backup support License Upgrade & Renewal","Veeam Backup support License Upgrade & Renewal",,,"North West","48000000 ","Corporate Procurement",tenders@wirral.gov.uk,"Old Market House, 4th Floor, West Wing","Hamilton Street",Birkenhead,"CH41 5AL",England,,http://www.wirral.gov.uk/,,,,20/03/2017,19/03/2020,02/03/2017,NO,,No,No,No,Products,135000,135000,14/03/2017,95000,"[Phoenix Software Ltd|YO42 1NS|||Yes|No]","Ms Bids Admin",20/03/2017,19/03/2020,"Open ",
+CHEAST001-DN239552-67570939,Contract,"Cheshire East Borough Council",Awarded,2017-03-17T13:32:37Z,"16 133 Good Licenses and Support for 1 year with a 1 year option to extend.","Cheshire East Council (CEC) and Cheshire West and Chester Council (CWAC) have invested in the Good Technology which is an on premise solution controlling the corporate footprint on mobile operating systems.  Good Technology enables the use of corporate and personal content across multiple smartphones and ensures the content remains separate.  
+
+Good licences were purchased early 2016 and paid for by CEC and CWAC until March 2017.  The current state needs to be renewed in a like for like scenario, reflecting current functionality for the next 12 months plus option of extension of 12 months, The flexible & mobile working strategy is continuing to develop within the business.",,,"North West","48000000 ","Ann Hope",ann.hope@cheshireeast.gov.uk,Westfields,"Middlewich Road",Sandbach,"CW11 1HZ",England,"+44 86595",http://www.cheshireeast.gov.uk/,,,,17/03/2017,17/03/2018,15/02/2017,NO,,Yes,No,No,Services,340000,340000,22/02/2017,340000,"[Phoenix Software Ltd|Blenheim House, York Road, Pocklington, York YO42 1NS|||Yes|No]","Keith Martin",17/03/2017,16/03/2018,"Other ",
+4542,Contract,"HOMES & COMMUNITIES AGENCY",Awarded,2017-03-15T14:12:15Z,"Security Device Control","1000xLES Endpoint Security device control/maintenance/licence. The provision of the Technology product Framework agreement RM1054.",,,"North East","72000000 ",,mail@homesandcommunities.co.uk,"St George's House","Kingsway Team Valley",Gateshead,"NE11 0NA",England,,,"4542-Security device.pdf ",,,31/10/2016,31/10/2017,28/09/2016,NO,,No,No,No,Products,16800,,27/10/2016,16800,"[Phoenix Software Ltd|Blenheim House, York Road, Pocklington, York, YO42 1NS|||No|No]",,31/10/2016,31/10/2017,"AwardWithoutPriorPublication ",
+410030688,Contract,"Tonbridge & Malling Borough Council",Awarded,2017-02-01T14:35:25Z,"Novell Enterprise Agreement","Novell Enterprise Agreement",,,"South East","48000000 ",,it.services@tmbc.gov.uk,"Gibson Building","Gibson Drive","Kings Hill","ME19 4LZ",England,,,,,,01/03/2016,28/02/2017,15/02/2016,NO,,No,No,No,Services,25508.5,,15/02/2016,25508.5,"[Phoenix Software Ltd|Blenheim House
+York Road
+Pocklington
+York
+YO42 1NS|||No|No]",,01/03/2016,28/02/2017,"AwardWithoutPriorPublication ",
+"16 174",Contract,"CHESHIRE EAST COUNCIL",Awarded,2017-01-24T14:48:22Z,"Desktop Silver Support and Maintenance","Silver Support and Maintenance",,,"North West","48000000 ","Simon Hagan",simon.hagan@cheshireeast.gov.uk,"Westfields Sandbach",,Sandbach,"CW11 1HZ",England,,,,,,28/09/2016,27/09/2018,06/09/2016,NO,,Yes,No,No,Services,100326.16,,06/09/2016,100326.16,"[Phoenix Software Ltd|xxx|||No|No]",,28/09/2016,27/09/2018,"Other ",
+201704,Contract,"H M LAND REGISTRY",Awarded,2017-01-10T11:13:53Z,"Symantec Licence Renewal","Symantec Email Safeguard Service.  (Comprising Email Anti Virus, Email Anti Spam, 5000 Email Image Control and Email Content Control)",,,"Any region","48730000 ",,carly.collins@landregisty.gov.uk,"2 William Prance Road,",,Plymouth,"PL6 5WS",England,,,,,,01/02/2017,31/01/2018,12/12/2016,NO,,No,No,No,Services,52200,,14/12/2016,52200,"[Phoenix Software Ltd|Blenheim House
+York Road
+Pocklington
+York
+YO42 1NS|||No|No]",,01/02/2017,31/01/2018,"DirectAward ",
+ICT169,Contract,"Durham Constabulary",Awarded,2016-12-19T09:51:19Z,"Microsoft Licenses","The mini competition process was conducted under the CCS Framework Agreement (RM3733 - Mod and Pro5 technology products) via the Bluelight E-Procurement portal. 
+
+The Microsoft licences are used largely throughout the organisation on every Server, Desktop Pc and Laptop. Durham Constabulary use Exchange to run our e-mail system and also use Microsoft products to Develop and run our Applications and Databases such as Dynamics, Sharepoint and SQL.",,"DH1 5TT",,"48000000 ","Antonia Smirh",antonia.smith@durham.pnn.police.uk,"Durham Constabulary","Aykley Heads","Co Durham","DH1 5TT",England,,,"ICT169 - Microsoft License Contract Info Sheet.doc ",,,19/12/2016,18/12/2020,25/11/2016,NO,,No,No,No,Services,188000,,09/12/2016,188000,"[Phoenix Software Ltd|Blenheim House
+York Road
+Pocklington
+York
+YO42 1NS|||No|No]",,19/12/2016,18/12/2020,"Other ",
+4039,Contract,"HOMES & COMMUNITIES AGENCY",Awarded,2016-11-17T10:08:38Z,"System Management","NET consent Policy management system - 1000 perpetual user licences - 2 years annual support. Call of from CCS framework RM1054 Lot2.",,,"North East","48810000 ",,mail@homesandcommunities.co.uk,"St George’s House","Kingsway Team Valley",Gateshead,"NE11 0NA",England,,,,,,22/03/2016,21/03/2018,22/03/2016,NO,,Yes,No,No,Services,15391.4,,22/03/2016,15391.4,"[Phoenix Software Ltd|Blenheim House, York Road, Pocklington, York, YO 42 1NS|||No|No]",,22/03/2016,21/03/2018," ",
+CHEAST001-DN179032-24637327,Contract,"Cheshire East Borough Council",Awarded,2016-10-03T14:09:29Z,"16 174 THE PROVISION OFDESKTOP NOW SUPPORT AND MAINTENANCE","Desktop Now Support and Maintenance ",,,"North West","72267000 ","Simon  Hagan ",simon.hagan@cheshireeast.gov.uk,Westfields,"Middlewich Road",Sandbach,"CW11 1HZ",UK,,http://www.cheshireeast.gov.uk/,,,,28/09/2016,27/09/2018,06/09/2016,NO,,Yes,No,No,Services,100326.16,104385,23/09/2016,100326.16,"[Phoenix Software Ltd|Blenheim House, York Road, Pocklington, YO42 1NS|||No|No]",,28/09/2016,27/09/2018,"NotApplicable ",
+CHEAST001-DN171023-88837830,Contract,"Cheshire East Borough Council",Awarded,2016-09-02T11:14:59Z,"16 105 Renewal of Extended Support for VMWare Products","The renewal of Extended Support for VMWare Products",,,"North West","48900000 ","Ann Hope",ann.hope@cheshireeast.gov.uk,Westfields,"Middlewich Road",Sandbach,"CW11 1HZ",UK,"+44 86595",http://www.cheshireeast.gov.uk/,,"https://procontract.due-north.com/Advert?advertId=0a4511f6-f848-e611-8114-000c29c9ba21 ",,01/09/2016,01/09/2017,23/08/2016,YES,CHEAST001-DN171023-64741909,Yes,Yes,No,Services,38519,,25/08/2016,38519,"[Phoenix Software Ltd|Blenheim House, York Road, Pocklington YO42 1NS|||Yes|No]",,01/09/2016,31/08/2017,"Open ",
+BATH001-DN167183-36235515,Contract,"Bath and North East Somerset Council",Awarded,2016-07-14T10:12:38Z,"Trent Anti Virus Renewal & Support","Trend Micro Endpoint Security Light
+Trend Micro Scanmail for Exchange (SMEX) Suite 11
+Trend VDI Plugin for Office Scan
+",,,"South West","48000000 ","Sally Cummings",sally_cummings@bathnes.gov.uk,Guildhall,"High Street",Bath,"BA1 5AW",UK,"+44 1225477422",www.bathnes.gov.uk,,,,26/07/2016,25/07/2018,29/06/2016,NO,,Yes,No,No,Products,23618,23618,14/07/2016,23618,"[Phoenix Software Ltd|YO42 1NS|||Yes|No]",,27/07/2016,25/07/2018,"Restricted ",
+"BHCC - 006177",Contract,"BRIGHTON & HOVE CITY COUNCIL",Awarded,2016-07-11T09:44:12Z,"BHCC SW Microsoft Licensing Solutions Partner","Agreement for the Provision of a Microsoft Licensing Solutions Partner. Call off from CCS Framework RM1054 - Technology Products",,,"South East","72500000 72200000 30200000 48000000 ",,procurement@brighton-hove.gov.uk,"Bartholomew's House",,Brighton,"BN1 1JS",England,,,,,,23/06/2016,22/06/2019,23/06/2016,NO,,Yes,No,No,Products,1478424.24,,31/03/2016,1478424.24,"[Phoenix Software Ltd|Blenheim House
+York Road
+York
+YO42 1NS|||No|No]",,23/06/2016,22/06/2019,"Open ",
+C3096,Contract,"Home Office",Awarded,2016-06-11T00:00:00Z,"DAC Tableau.Published for completeness, see description for details","DAC Tableau.This contract award was not published at the time of award. It has been published for transparency purposes to provide a record of existing departmental contracts.",1,,London,"72000000 ","Diana Francis",Diana.Francis@homeoffice.gsi.gov.uk,"2 Marsham Street",Westminster,London,"SW1P 4DF",England,,,,,,21/06/2016,16/07/2017,21/05/2016,NO,,Yes,Yes,No,NotSpecified,60230,60230,21/06/2016,60230.87,"[Phoenix Software Ltd|Blenheim House, York Road, Pocklington, 
+York, 
+YO42 1NS
+UK|NONE||Yes|No]",fay-mercer@phoenixs.co.uk,21/06/2016,16/07/2017,"OpenOJEU ",
+CF1V3-20160419-00002013,Contract,"Lancaster City Council",Awarded,2016-04-19T15:08:54Z,"Microsoft Licensing Solutions Partner (LSP) RM1054","Microsoft Licensing Solutions Partner (LSP) RM1054",,,"North West","48400000 48600000 ","Chris Riley",criley@lancaster.gov.uk,"Town Hall","Dalton Square",Lancaster,"LA1 1PJ",UK,"+44 1524582000",http://www.lancaster.gov.uk,,,"N/A award notice only.  Mini completion held from CCS Framework
+N/A ",08/02/2016,07/02/2019,25/01/2016,NO,,No,No,No,Products,400000,400000,01/04/2016,400000,"[Phoenix Software Ltd|Blenheim House, York Road, Pocklington, North Yorkshire, YO42 1NS, UK|||No|No]",,08/02/2016,07/02/2019,"NotSpecified ",
+2015103,Contract,"H M LAND REGISTRY",Awarded,2016-03-29T13:26:53Z,"ICT - Symantec Email Safeguard Licence","Symantec Email Safeguard Licence 1 Year (Comprising Email Anti Virus, Email Anti Spam, Email Image Control and Email Content Control)",,,"Any region","72212000 ",,corporateprocurement@landregistry.gov.uk,"Trafalgar House",,Croydon,"CR0 2AQ",England,,,,,,30/01/2016,29/01/2017,22/12/2015,NO,,No,No,No,Services,59850,,22/12/2015,59850,"[Phoenix Software Ltd|York|||No|No]",,30/01/2016,29/01/2017,"Other ",
+320,Contract,"DEPARTMENT FOR EDUCATION",Awarded,2016-01-21T11:08:52Z,"Minesweeper licenses","Minesweeper licenses",,,"Any region","48200000 ",,winston.mitchell@education.gsi.gov.uk,"St Paul's Place",,Sheffield,"S1 2FJ",England,,,"320 Licenses for Minesweeper.pdf ",,,30/09/2015,29/09/2016,29/09/2015,NO,,Yes,Yes,No,Products,14150,,30/09/2015,14150,"[Phoenix Software Ltd|York Road
+Pocklington
+YO42 1NS|||No|No]",,30/09/2015,29/09/2016,"Other ",
+CF1V3-20160111-00000527,Contract,"Leicestershire County Council",Awarded,2016-01-12T09:09:50Z,"Business Objects Support and Maintenance ","Quotations are invited for Support and Maintenance of Business Objects Licences as well as purchase of additional licences.
+
+The Council?s detailed requirements are defined in the Specification.
+",,,"East Midlands","72268000 ","Steve Harvey",ross.skinner@leics.gov.uk,"County Hall","Leicester Road Glenfield",Leicester,"LE3 8RA",UK,"+44 1163057512",,,,"Submit via https://www.eastmidstenders.org
+N/A ",01/04/2016,31/03/2017,21/12/2015,NO,,No,No,No,Services,268000,268000,29/12/2015,252104,"[Phoenix Software Ltd|Blenheim House, York, Yorkshire, YO42 1NS, UK|||No|No]",,01/04/2016,31/03/2017,"NotSpecified ",
+SO13636,Contract,"CROWN COMMERCIAL SERVICE",Awarded,2015-10-21T08:39:25Z,"SO13636  PROVISION OF SOPHOS AV LICENCES","The authority required 5000 Sophos A/V licenses",,,"Any region","48000000 ","Jill Ritchie",Spot.Buying@crowncommercial.gov.uk,"Crown Commercial Services","Room 2Y92, Concept House, Cardiff Road,",Newport,"NP10 8QQ",England,,,"Redacted Appendix C Goods Only Call Off (1).pdf Redacted Outcome Letter (3).pdf ",,,21/09/2015,20/09/2016,26/08/2015,NO,,Yes,No,No,Services,11792.18,,08/09/2015,11792.18,"[Phoenix Software Ltd|Blenheim House
+York Road
+Pocklington 
+YO42 1NS|||No|No]",,21/09/2015,20/09/2016,"Open ",
+I/5/0133/15,Contract,"Bedfordshire Police",Awarded,2015-09-29T14:24:19Z,"Airwatch Blue Management Suite Licences & Support.","The requirements are for 6500 on premise licences for Airwatch Blue management suite. Please provide basic maintenance fee and options for enhanced and enterprise support based on the G-Cloud / Digital Services framework. Prices should be no higher than agreed on the framework.
+The licences are required across Bedfordshire Police, Cambridgeshire & Hertfordshire Constabularies (no particular quantities). The lead force is Bedfordshire Police.",,,"East of England","48600000 ","Jim Bates",jim.bates@bedfordshire.pnn.police.uk,"Bedfordshire Police HQ","Woburn Road",Kempston,"MK43 9AX",England,,,,,"The contract was awarded through a mini competition using the Government's G-Cloud / Digital Services framework ",01/10/2015,30/09/2018,17/09/2015,NO,,No,No,No,Services,293250.75,,18/09/2015,293250.75,"[Phoenix Software Ltd|Blenheim House, Pocklington, York, YO42 1NS|||No|No]",,01/10/2015,30/09/2018,"Other ",
+TRP0001812,Contract,"Scarborough Borough Council",Awarded,2015-08-20T14:06:59Z,"Enterprise Agreement Renewal","Enterprise Agreement renewal 2015/16.",,,"Yorkshire and the Humber","48620000 ",,procurement@scarborough.gov.uk,"Town Hall","St Nicholas Street",Scarborough,"YO11 2HG",England,,,,,,01/04/2015,31/03/2016,31/03/2015,NO,,Yes,No,No,Services,28000,,31/03/2015,28000,"[Phoenix Software Ltd|Blenheim House, 
+York Road, 
+Pocklington, 
+York
+YO42 1NS|||No|No]",,01/04/2015,31/03/2016,"NotSpecified ",
+201532,Contract,"H M LAND REGISTRY",Awarded,2015-08-19T14:41:16Z,"Maintenance renewal","Arcserve Maintenance renewal",,,"Any region","72610000 ",,corporate.procurement@landregistry.gsi.gov.uk,"Bedford Park",,Croydon,"CR0 2AQ",England,,,,,,29/06/2015,29/06/2016,29/06/2015,NO,,No,No,No,NotApplicable,14451,,29/06/2015,14451,"[Phoenix Software Ltd|York|||No|No]",,29/06/2015,29/06/2016,"NotApplicable ",
+332203549,Contract,"North Yorkshire County Council",Awarded,2015-08-12T14:48:59Z,"19411 Microsoft Education Enrolement Subscriptions RM1054 Further Competition","We intend to procure Microsoft Education Enrolment Subscription for 44 schools (721FTE). These schools are in the 3rd year of a 3 year agreement. It is our intention to provide a simple route for creating a new agreement(s), once the current agreement comes to term.",,,"Yorkshire and the Humber","30000000 72000000 ","Steven Sharp",steven.sharp@northyorks.gov.uk,"Highfield House","Kearsley Road",Ripon,"HG4 2SG",UK,"+44 1609797941",https://www.yortender.co.uk/procontract/supplier.nsf,,"https://www.yortender.co.uk/procontract/supplier.nsf/frm_opportunity?OpenForm&contract_id=CONTRACT-9VCB-RAKN0C ","We intend to procure Microsoft Education Enrolment Subscription for 44 schools (721FTE). These schools are in the 3rd year of a 3 year agreement. It is our intention to provide a simple route for creating a new agreement(s), once the current agreement comes to term ",25/05/2015,30/11/2018,04/05/2015,NO,,No,No,No,Products,0,,12/08/2015,67637.01,"[Phoenix Software Ltd|Highfield House, Kearsley Road, Ripon, North Yorkshire, HG4 2SG|||No|No]",,25/05/2015,30/11/2018,"NotSpecified ",
+1219573789,Contract,"Leeds City Council",Awarded,2015-06-12T14:21:28Z,"LCCITS150019 Adobe Enterprise Term Licence Agreement","The Council wishes to take advantage of the Memorandum of Understanding agreed between Crown Commercial Services and Adobe to upgrade to the Adobe All of Government ETLA and you are invited to submit a quotation for the Council to join from the 16th June entry date (access to products from the first week of July)",,,"Yorkshire and the Humber","48000000 ","Stephanie Dunn",stephanie.dunn@leeds.gov.uk,"Apex House","8 Apex Way",Leeds,"LS11 5LT",UK,"0113 3950136",https://www.yortender.co.uk/procontract/supplier.nsf,,"https://www.yortender.co.uk/procontract/supplier.nsf/frm_opportunity?OpenForm&contract_id=CONTRACT-9X7G-AD72FB ",,01/07/2015,30/03/2018,12/06/2015,NO,,No,No,No,Services,0,,12/06/2015,79714.03,"[Phoenix Software Ltd|Apex House, 8 Apex Way, Leeds, West Yorkshire, LS11 5LT|||No|No]",,01/07/2015,30/03/2018,"NotSpecified ",
+NHSBT0706,Contract,"Nhs Blood & Transplant",Awarded,2015-05-06T07:44:12Z,"Citrix Licences Maintenance and Support","Citrix Licences Maintenance and Support",,"BS34 7QH","South West","72000000 ","Mark Hooper",mark.hooper@nhsbt.nhs.uk,"500 North Bristol Park",,Bristol,"BS34 7QH",England,,,,,,01/01/2015,01/01/2016,01/01/2015,NO,,No,No,No,NotApplicable,60000,,01/01/2015,60000,"[Phoenix Software Ltd|Phoenix Software Ltd|||No|No]",,01/01/2015,01/01/2016,"NotApplicable ",
+NHSBT0595,Contract,"Nhs Blood & Transplant",Awarded,2015-05-01T11:23:18Z,"Citrix Licences","NHSBT0595	Citrix Licences",,"BS34 7QH","South West","72000000 ","Mark Hooper",mark.hooper@nhsbt.nhs.uk,"500 North Bristol Park",,Bristol,"BS34 7QH",England,,,,,,01/01/2014,01/01/2015,01/01/2014,NO,,No,No,No,NotApplicable,56000,,01/01/2014,56000,"[Phoenix Software Ltd|Phoenix Software Ltd|||No|No]",,01/01/2014,01/01/2015,"NotApplicable ",
+e57e212c-bdb7-4fea-bbf3-aa47142413e2,Contract,"Crescent Purchasing Consortium (CPC)",Awarded,2018-08-02T15:00:52Z,"CA4817 - Software Licenses & Associated Services for Academies & Schools","This is a re-tender of the current Software Licenses - Academies & Schools framework which was originally tendered for at the beginning of 2014 and launched to CPC members in July 2014.  The new framework will be available to all Schools & Academies who are CPC members https://www.thecpc.ac.uk/members/regions.php.  The new framework will be split into 4 lots and will run for an initial duration of 2 years with the option to extend by two possible one year extensions.  CPC Membership is open to the entire Education Sector, details of which are available here: https://www.gov.uk/guidance/get-information-about-schools
+
+Includes Lots: 
+Lot 4: One Stop Shop
+Lot 3: Other off the Shelf Software
+Lot 1: Microsoft
+Lot 2: Adobe
+
+To access this competition: 
+
+Registered:
+Login to https://suppliers.multiquote.com and view the opportunity CA4817.
+
+Not registered:
+Visit https://suppliers.multiquote.com then register and quote CA4817 as the reason for registration. 
+
+ Any queries please contact MultiQuote on 0151 482 9230.",,"M6 6AP","Any region","48000000 ","Karis Lucano",support@multiquote.com,"Technology House","Lissadel Street",Salford,"M6 6AP",England,"0151 482 9230",https://suppliers.multiquote.com,,,,09/08/2018,08/08/2020,05/06/2018,NO,,Yes,No,No,Services,50000000,50000000,02/08/2018,2500000,"[Academia Ltd|8 Kinetic Crescent, Innova Park, Enfield, EN3 7XH|NONE||No|No][Bechtle Direct Ltd|Turnpike House, Methuen Park, Chippenham, SN14 0GF|NONE||No|No][Phoenix Software Ltd|Blenheim House, York Road, Pocklington, YO42 1NS|NONE||No|No][Softcat Ltd (Head Office)|Thames Industrial Estate, Fieldhouse Lane, Marlow, SL7 1LW|NONE||No|No][Insight Direct UK Ltd|The Atrium, 1 Harefield Road, London, UB8 1PH|NONE||No|No][Stone Computers|Granite One Hundred, Acton Gate, Stafford, ST18 9AA|NONE||No|No][SBL (Soft Box) Ltd|East Moor House, Green Park Business Centre, York, YO61 1ET|NONE||No|No][XMA Ltd|Wilford Industrial Estate,  , Ruddington, NG11 7EP|NONE||No|No][Insight Direct UK Ltd|The Atrium, 1 Harefield Road, London, UB8 1PH|NONE||No|No][Phoenix Software Ltd|Blenheim House, York Road, Pocklington, YO42 1NS|NONE||No|No][Pugh Computers Ltd|Denver House, , Llanon, SY23 5LP|NONE||No|No][SBL (Soft Box) Ltd|East Moor House, Green Park Business Centre, York, YO61 1ET|NONE||No|No][Bechtle Direct Ltd|Turnpike House, Methuen Park, Chippenham, SN14 0GF|NONE||No|No][Stone Computers|Granite One Hundred, Acton Gate, Stafford, ST18 9AA|NONE||No|No][Pure Technology Group|The Mill, Springfield Commercial Centre, Leeds, LS28 5LY|NONE||No|No][Softcat Ltd (Head Office)|Thames Industrial Estate, Fieldhouse Lane, Marlow, SL7 1LW|NONE||No|No][Insight Direct UK Ltd|The Atrium, 1 Harefield Road, London, UB8 1PH|NONE||No|No][Virtue Technologies Limited|Chadwick House, Maple View, , , Skelmersdale, WN8 9TD|NONE||No|No][Stone Computers|Granite One Hundred, Acton Gate, Stafford, ST18 9AA|NONE||No|No][Phoenix Software Ltd|Blenheim House, York Road, Pocklington, YO42 1NS|NONE||No|No][Academia Ltd|8 Kinetic Crescent, Innova Park, Enfield, EN3 7XH|NONE||No|No][XMA Ltd|Wilford Industrial Estate,  , Ruddington, NG11 7EP|NONE||No|No][Bechtle Direct Ltd|Turnpike House, Methuen Park, Chippenham, SN14 0GF|NONE||No|No][Softcat Ltd (Head Office)|Thames Industrial Estate, Fieldhouse Lane, Marlow, SL7 1LW|NONE||No|No][Stone Computers|Granite One Hundred, Acton Gate, Stafford, ST18 9AA|NONE||No|No][Softcat Ltd (Head Office)|Thames Industrial Estate, Fieldhouse Lane, Marlow, SL7 1LW|NONE||No|No][Insight Direct UK Ltd|The Atrium, 1 Harefield Road, London, UB8 1PH|NONE||No|No][Bechtle Direct Ltd|Turnpike House, Methuen Park, Chippenham, SN14 0GF|NONE||No|No][Phoenix Software Ltd|Blenheim House, York Road, Pocklington, YO42 1NS|NONE||No|No]","Academia Bids",09/08/2018,08/08/2020,"Open ",
+YPO001-DN407983-52094552,Contract,YPO,Awarded,2019-10-15T10:14:43Z,"YPO - 000979 Technology Hardware and Software Service Solutions","YPO are looking for Providers to be appointed onto a Framework Agreement for the provision of technology hardware, software and services. The Framework is designed to meet the needs of all public sector organisations which includes YPO's internal requirements.",,,"Any region","72000000 ","Contracts Team",contracts@ypo.co.uk,"41 Industrial Park",,Wakefield,"WF2 0XE",England,"+44 1924664685",http://www.ypo.co.uk/,,,"https://procontract.due-north.com
+",01/10/2019,30/09/2023,23/08/2019,NO,,Yes,Yes,No,Services,50000000,200000000,20/09/2019,200000000,"[ACS Business Supplies Ltd|Kismet Buildings
+Otley Road
+Baildon
+West Yorkshire
+BD17 7HB
+UNITED KINGDOM|NONE||Yes|No][Ballicom International Ltd|Ballicom House
+101 Lockhurst Lane
+Coventry
+Coventry
+CV6 5SF
+UNITED KINGDOM|NONE||Yes|No][Banner Group Limited|K House, Sheffield Business Park, Europa Link, Sheffield, S9 1XU, UK|NONE||No|No][Centerprise International|Hampshire International Business Park
+Lime Tree Way
+Basingstoke
+Hampshire
+RG24 8GQ
+UNITED KINGDOM|NONE||No|No][Certes Computing Limited|Unit 3
+The Courtyard
+Roman Way
+Coleshill
+Warwickshire
+B46 1HQ
+GB|NONE||Yes|No][CLOUDCOCO LIMITED|Leeds East Airport
+Church Fenton
+Tadcaster
+LS24 9SE
+GB|NONE||Yes|No][Daisy Corporate Services Trading Limited|Daisy House
+Lindred Road Business Park
+Nelson
+Lancashire
+BB9 5SR
+UNITED KINGDOM|NONE||No|No][Disklabs|Disklabs House
+Galena Close
+Tamworth
+Staffordshire
+B77 4AS
+GB|NONE||Yes|No][Gamma Telecom Ltd|5 Fleet Place
+London
+EC4M 7RD
+GB|NONE||No|No][Getech Limited|Solutions Centre, 53-57 Knightsdale Road, Ipswich, Suffolk, IP1 4JQ, UNITED KINGDOM|NONE||Yes|No][Green Cloud IT Ltd|unit 2
+southgate industrial
+Heywood
+OL10 1ND
+UNITED KINGDOM|NONE||Yes|No][Insight Direct (UK) Ltd|Technology Building,
+Insight Campus,
+Terry Street,
+Sheffield,
+S9 2BU|NONE||No|No][Kefron|Unit 4a Woodley Park Estate
+Reading Road,
+Woodley,
+Reading,
+England,
+RG5 3AW|NONE||Yes|No][Kingsfield Computer Products Ltd|8 Brookfield,
+Duncan Close,
+Northampton,
+NN3 6WL|NONE||Yes|No][Kyocera Document Solutions (UK) Limited|Eldon Court,
+75 - 77 London Road,
+Reading,
+Berkshire,
+RG1 5BS|NONE||No|No][Little Fish (UK) Ltd|Price House,
+37 Stoney Street,
+Nottingham,
+England,
+NG1 1LS|NONE||Yes|No][Novosco Ltd|Concourse Building 3,
+Queens Road,
+Belfast,
+Northern Ireland, B
+T3 9DT|NONE||Yes|No][PCM Technology Solutions UK Ltd|11-12 St James's Square Suite 1 3rd Floor,
+London,
+SW1Y 4LB|NONE||Yes|No][Phoenix Software Ltd|Bytes House,
+Randalls Way,
+Leatherhead,
+Surrey,
+United Kingdom,
+KT22 7TW|NONE||No|No][Probrand Ltd|45-55 Camden Street,
+Birmingham,
+B1 3BP|NONE||No|No][Ricoh UK Ltd|Ricoh House,
+800 Pavilion Drive,
+Northampton,
+NN4 7YL|NONE||No|No][Rostrvm Solutions|Dukes Court,
+Duke Street,
+Woking,
+Surrey,
+England,
+GU21 5BH|NONE||Yes|No][Softcat plc|Solar House,
+Fieldhouse Lane,
+Marlow,
+Buckinghamshire,
+United Kingdom,
+SL7 1LW|NONE||No|No][Software Box Limited|East Moor House,
+Green Park Business Centre,
+Goose Lane
+Sutton-On-Forest,
+York
+North Yorkshire,
+YO61 1ET|NONE||No|No][SoftwareONE UK Ltd|1 Parkshot,
+Richmond,
+Surrey,
+England,
+TW9 2RD|NONE||No|No][Specialist Computer Centres (SCC)|James House,
+Warwick Road,
+Birmingham,
+B11 2LE|NONE||No|No][Pure Technology Group Ltd|The Mill Springfield Mills,
+Bagley Lane,
+Farsley,
+England,
+LS28 5LY|NONE||Yes|No][Tier 1 Asset Management|59 Stanley Road,
+Whitefield,
+Manchester,
+Greater Manchester,
+M45 8GZ|NONE||Yes|No][UKCloud Ltd|Hartham Park,
+Corsham,
+Wiltshire,
+SN13 0RP|NONE||Yes|No][XMA Limited|Wilford Industrial Estate,
+Ruddington Lane Wilford,
+Nottingham,
+Notts,
+NG11 7EP|NONE||No|No][Yotta DCL|6 Oxford Industrial Park Mead Road,
+Yarnton,
+Kidlington,
+England,
+OX5 1QU|NONE||Yes|No]",,01/10/2019,30/09/2023,"Open ",
+20201017153032-39,Contract,"NHS Shared Business Services Ltd (NHS SBS)",Awarded,2020-10-17T15:30:47Z,"Link: Solutions 2","NHS Shared Business Services are looking to renew an existing framework which expands upon the current offering.  Due to a consistent and growing market for one-stop solutions, the new framework will focus on allowing contracting authorities to purchase full IT solutions.   Therefore NHS Shared Business Services are looking for providers of full IT Infrastructure Software, Servers and Storage Hardware, Networking, Virtualization, other Services and End User & Solutions Software and all associated products and services within these solution requirements.",,"M50 2UW","Any region","30200000 30210000 30211000 30211100 30211200 30211300 30211400 30211500 48000000 48200000 48210000 48220000 48710000 48760000 48761000 48780000 48800000 48820000 72222300 ","Carolyn Lawton",nsbs.digital@nhs.net,"Halyard Court, 31 Broadway, The Quays",,Salford,"M50 2UW",ENG,"+44 1612122420",,,"https://uk.eu-supply.com/app/rfq/rwlentrance_s.asp?PID=30796&B=NHSSBS ",,10/08/2020,09/08/2024,22/01/2020,NO,,Yes,No,No,Services,45000000,500000000,10/08/2020,500000000,"[Amicus ITS Limited|1-3 Trinity Court, Brunel Road, Totton, Hampshire, SO40 3WX|NONE||No|No][Bechtle direct Ltd|Turnpike House, Methuen Park, Chippenham, Wilstshire, SN14 0GF|NONE||No|No][CDW Limited|10 Fleet Place, London, EC4M 7RB|NONE||No|No][Centerprise International Limited|Hampshire International Business Park, Lime Tree way, Chineham, Basingstoke, Hampshire, RG24 8GQ|NONE||No|No][Cisilion Ltd|Cisilion House , Guildford Road , Leatherhead, Surrey , KT22 9UT|NONE||No|No][Computacenter (UK) Limited|Hatfield Avenue, Hatfield Business Park, Hatfield, Hertfordshire AL10 9TW|NONE||No|No][Dacoll Limited|Dacoll House, Gardners Lane, Bathgate EH48 1TP|NONE||No|No][Dell Technologies|""Dell House
+The Boulevard
+Cain Road
+Bracknell
+Berkshire   RG12 1LF""|NONE||No|No][EACS Limited|7 Ramsay Court, Hinchingbrooke Business Park, Huntingdon, Cambridgeshire, PE29 6FY|NONE||No|No][European Electronique Ltd|Forward House, Oakfields Industrial Estate, Eynsham, Oxford, Oxfordshire, OX29 4TT|NONE||No|No][Insight Direct (UK) Ltd|The Technology Building, Insight Campus, Terry Street, Sheffield, S9 2BU|NONE||No|No][KHIPU Networks Ltd.|Fleet27, Rye Close
+Fleet
+Hampshire 
+GU51 2UH
+UK|NONE||No|No][MOTHER TECHNOLOGIES LIMITED|Union Plaza (6th Floor), 1 Union Wynd, Aberdeen, AB10 1DQ|NONE||No|No][Novosco Ltd|Concourse Building 3, Queens Road, Belfast, BT3 9DT|NONE||No|No][Nviron Limited|Chester Road, Preston Brook, Runcorn, Cheshire, WA7 3FR|NONE||No|No][Phoenix Software Ltd|Bytes House
+Randalls Way
+Leatherhead
+KT22 7TW|NONE||No|No][Proact IT UK Limited|Grayson House, Venture Way
+Dunston Technology Park
+Dunston Road
+Chesterfield, S41 8NE|NONE||No|No][RioMed Limited|18 East Links, Tollgate Business Park, Chandlers Ford, Eastleigh, Hampshire,UK SO53 3TG|NONE||No|No][Six Degrees Technology Group Limited|Commodity Quay, St Katharine Docks. London, E1W 1AZ|NONE||No|No][Softcat plc|Solar House, Fieldhouse Lane, Marlow, Bucks, SL7 1LW|NONE||No|No][Software Box Limited|East Moor House, Green Park Business Centre, Goose Lane, Sutton on the Forest, York, North Yorkshire, YO61 1ET|NONE||No|No][Specialist Computer Centres Plc (SCC)|James House, Warwick Road, Tyseley, Birmingham B11 2LE|NONE||No|No][Switchshop Limited|Switchshop House, Enterprise Park, Kimpton, SG4 8HP|NONE||No|No][TET LIMITED|Unit D9 Friarsgate Business Park 7 Whitby Avenue, Park Royal, London, England, NW10 7SE|NONE||No|No][Total Computer Networks Ltd|Newspaper House
+Rothwell Road
+Kettering
+Northants
+NN16 8GA|NONE||No|No][Trustco Plc|Ground Floor, 19 New Road, Brighton, BN1 1UF|NONE||No|No][TRUSTMARQUE SOLUTIONS LIMITED|Trustmarque Solutions Limited
+30 Berners Street,
+LONDON,
+W1T 3LR|NONE||No|No][XMA Limited|Unit 44
+Wilford Industrial Estate 
+Ruddington Lane
+Wilford
+Nottingham
+NG11 7EP|NONE||No|No]",,10/08/2020,09/08/2024,"Open ",,12:00
+RM1054,Contract,"CROWN COMMERCIAL SERVICE",Awarded,2015-09-07T14:30:38Z,"RM1054 Technology Products","Crown Commercial Service as the Contracting Authority has put in place a Pan Government Collaborative Framework Agreement for Technology Products for use by UK public sector bodies (and any future successors to these organisations), which include Central Government Departments and their Arm's Length Bodies and Agencies, Non Departmental Public Bodies, NHS bodies and Local Authorities. Crown Commercial Service reserves the right for an electronic auction to be held by public sector bodies during further competition among the parties to the Framework Agreement.
+
+Contract Notice reference 2014/S 093-162738 dated 15/05/2014 explains how the range of products covered by this Framework Agreement has been broken down into Lots. This Contract Notice has been included as one of the attachments.
+
+The Contract End Date stated earlier takes into account that the Crown Commercial Service has the option of extending the duration by a  maximum of 2 years. The option to extend can  be taken up on the expiry of the initial 2 year contract period.",,,"Any region","30200000 ","Supplier Service Desk",supplier@ccs.gsi.gov.uk,"Rosebery Court","St. Andrew's Business Park",Norwich,"NR7 0HS",England,"0345 010 3503",www.gov.uk/ccs,"RM1054 Tech Products Specialist Computer Centres PLC - Framework Agreement REDACTED.pdf RM1054 Tech Products EUROPEAN ELECTRONIQUE LTD - Framework Agreement REDACTED.pdf RM1054 Tech Products Computacenter Framework Agreement REDACTED.pdf RM1054 - Contract Notice -162738.pdf RM1054 Tech Products Phoenix Software Ltd - Framework Agreement REDACTED.pdf RM1054 Tech Products Novosco Ltd - Framework Agreement REDACTED.pdf RM1054 Tech Products CENTERPRISE INTERNATIONAL LTD Framework Agreement REDACTED.pdf RM1054 Tech Products Logicalis Ltd - Framework Agreement REDACTED.pdf RM1054 Tech Products Software Box Ltd - Framework Agreement REDACTED.pdf RM1054 Tech Products Maindec Computer Solutions Framework Agreement REDACTED.pdf RM1054 Tech Products DELL CORP LTD Framework Agreement REDACTED.pdf RM1054 Tech Products Kelway Ltd - Framework Agreement REDACTED.pdf RM1054 Tech Products BULL INFORMATION SYSTEMS LTD  Framework Agreement REDACTED.pdf RM1054 Tech Products Misco UK Ltd - Framework Agreement REDACTED.pdf RM1054 Tech Products Trustmarque Solutions - Framework Agreement REDACTED.pdf Goods and Services Contract.pdf RM1054 Tech Products Viglen Ltd -  Framework Agreement REDACTED.pdf RM1054 Tech Products Novatech Ltd - Framework Agreement REDACTED.pdf RM1054 Tech Products Pervasive Networks Ltd - Framework Agreement REDACTED.pdf RM1054 Tech Products Storm Technologies Ltd - Framework Agreement REDACTED.pdf RM1054 Tech Products Acer (UK) Limited - Framework Agreement REDACTED (1).pdf RM1054 Tech Products XMA Ltd  - Framework Agreement REDACTED.pdf RM1054 Tech Products Stone Computers Ltd - Framework Agreement REDACTED.pdf RM1054 Tech Products Toshiba Information Systems (UK) Ltd - Framework Agreement REDACTED.pdf RM1054 Tech Products Comparex UK Ltd Framework Agreement REDACTED.pdf RM1054 Tech Products Hewlett-Packard Ltd Framework Agreement REDACTED.pdf RM1054 Tech Products Samsung Electronics UK Ltd - Framework Agreement REDACTED.pdf RM1054 Tech Products SOFTCAT Ltd - Framework Agreement REDACTED.pdf RM1054 Tech Products ERGO COMPUTING UK LTD Framework Agreement REDACTED.pdf Goods only Contract.pdf RM1054 Tech Products Esteem Systems Ltd Framework Agreement REDACTED.pdf RM1054 Tech Products Lenovo Technology (UK) Ltd - Framework Agreement REDACTED.pdf RM1054 Tech Products Bytes Software Services Ltd -  Framework Agreement  REDACTED.pdf RM1054 Tech Products Supplies Team - Framework Agreement REDACTED.pdf RM1054 - Award Notice - 003222.pdf RM1054 Tech Products FUJITSU SERVICES LTD Framework Agreement REDACTED.pdf RM1054 Tech Products Akhter Computer plc - Framework Agreement REDACTED (1).pdf RM1054 Tech Products INSIGHT DIRECT (UK) LTD Framework Agreement REDACTED.pdf RM1054 Tech Products Probrand Ltd - Framework Agreement REDACTED.pdf RM1054 Tech Products ANS GROUP PLC Framework Agreement REDACTED.pdf ",,,27/10/2014,27/10/2018,23/09/2014,NO,,Yes,No,No,Products,4000000000,6000000000,31/10/2014,4000000000,"[Acer (UK) Limited|Acer House, Heathrow Boulevard III, 282 Bath Road, West Drayton UB7 0DQ London|||No|No][Akhter Computer plc|Akhter House, Perry Road,  Harlow CM18 7PN|||No|No][ANS Group plc|Synergy House, Guildhall Close, Manchester Science Park,  Manchester M15 6SY|||No|No][Bull Information Systems Ltd|Maxted Road,
+ HP2 7DZ Hemel Hempstead|||No|No][Bytes Software Services Ltd|Bytes House, Randalls Way,  
+KT22 7TW Leatherhead|||No|No][Centerprise International Ltd|Hampshire International Business Park, Lime Tree Way,
+ RG24 8GQ Basingstoke|||No|No][Comparex UK Ltd|The Powerhouse, 87 West Street, Harrow on the Hill, 
+ London|||No|No][Computacenter (UK) Ltd|Hatfield Business Park, Hatfield Avenue, 
+AL10 9TW Hatfield|||No|No][Dell Corporation Ltd|Dell House,
+The Boulevard, Cain Road,
+ Bracknell|||No|No][Ergo Computing UK Ltd|Ergo House, 
+Mere Way, Ruddington,
+ NG11 6JS Nottingham|||No|No][Esteem Systems Ltd|Rofta House, 
+Rudgate Thorp Arch
+ LS23 7QA Wetherby|||No|No][European Electronique Ltd|Forward House, 
+Oakfields Industrial Estate, 
+ OX29 4TT Eynsham|||No|No][Fujitsu Services Ltd|22 Baker St , 
+W1U 3BW London|||No|No][Hewlett- Packard Ltd|Cain Road,
+ RG12 1HN Bracknell|||No|No][Kelway Ltd|10 Fleet Place, 
+EC4M 7RB London|||No|No][Lenovo Technology (UK) Limited|Discovery House, 
+Bartley Wood Business Park, 
+RG27 9XA Hook|||No|No][Logicalis Ltd|110 Buckingham Avenue, 
+ SL1 4PF Slough|||No|No][Maindec Computer Solutions Ltd|Maindec House, 
+Holtspur Lane,
+HP10 0AB Wooburn Green|||No|No][Misco Uk Ltd|Caledonian Exchange, 
+19a Canning Street,
+EH3 8HE Edinburgh|||No|No][Novatech Ltd|Harbour House, 
+Hamilton Road, 
+PO6 4PU Cosham|||No|No][Novosco Ltd|Unit 6, Concourse Building, 
+1 Queens Road, 
+BT3 9DT Belfast|||No|No][Pervasive Networks Ltd|Rivergate House, 
+Newbury Business Park, London Road RG14 2PZ Newbury|||No|No][Phoenix Software Ltd|Blenheim House, 
+York Road, 
+YO42 1NS Pocklington|||No|No][Probrand Ltd|37-55 Camden Street 
+B1 3BP Birmingham|||No|No][Samsung Electronics UK Ltd|Samsung House, 
+1000 Hillswood Drive 
+KT16 0PS Chertsey|||No|No][Softcat Ltd|Fieldhouse Lane,
+ SL7 1LW Marlow|||No|No][Software Box Ltd|East Moor, House Green Park Business Centre, 
+Goose Lane,
+ YO61 1ET York|||No|No][Specialist Computer Centres plc|James House, 
+Warwick Road, Tyseley,
+ B11 2LE Birmingham|||No|No][Stone Computers Ltd|Granite One, 
+Hundred Acton Gate 
+ST18 9AA Stafford|||No|No][Storm Technologies Ltd|2 The Boulevard 
+Blackmoor Lane, Croxley Business Park, WD18 8YW Watford|||No|No][Supplies Team Ltd|K House, 
+Sheffield Business Park, Europa Link,
+ S9 1XU Sheffield|||No|No][Toshiba Information Systems (UK) Ltd|Toshiba Court, 
+Weybridge Business Park, Addlestone Road, 
+KT15 2UL Weybridge|||No|No][Trustmarque Solutions Ltd|Trustmarque House, 
+Triune Court, Monks Cross Drive, 
+YO32 9GZ York|||No|No][Viglen Ltd|7 Handley Page Way, 
+Old Parkbury Lane, Colney Street,
+AL2 2DQ St Albans|||No|No][XMA Ltd|44 Wilford Industrial Estate, 
+Ruddington Lane, Wilford,
+NG11 7EP Nottingham|||No|No][Insight Direct (UK) Ltd|The Technology Building, Insight Campus,
+Terry Street,
+S9 2BU Sheffield|||No|No]",,27/10/2014,27/10/2018,"Open ",
+tender_237817/867858,Contract,"Department for Work and Pensions",Awarded,2020-07-06T17:01:20Z,"SD_WAN combination h/w_s/w_ Professional Services","SD WAN combination for Hardware / Software & Professional Services",,,"Any region","32000000 32400000 ",,psn.procurement@dwp.gsi.gov.uk,"St. Peter&apos;s Square",,Manchester,"M2 3AA",England,,www.gov.org.uk,"DWP_Phoenix Proposal Redacted Contracts Finder.pdf ",,,10/03/2020,09/03/2023,19/11/2019,NO,,Yes,No,No,Products,1747233,,10/03/2020,1747233,"[BT plc|technology.products.2@bt.com|NONE_OTHER||No|No][Capita IT services|itesframeworks@capita.co.uk|NONE_OTHER||No|No][CCS Media Holdings|contractsandtenders@ccsmedia.com|NONE_OTHER||No|No][CDW Ltd|tenders@uk.cdw.com|NONE_OTHER||No|No][Centerprise International Ltd|tendersteam@centerprise.co.uk|NONE_OTHER||No|No][Comparex UK Ltd|technologyproducts@comparex.co.uk|NONE_OTHER||No|No][Computacenter UK Ltd|government@computacenter.com|NONE_OTHER||No|No][Esteem Systems Ltd|contact@esteem.co.uk|NONE_OTHER||No|No][European Electronique Ltd|technologyproducts@euroele.com|NONE_OTHER||No|No][Fujitisu Services Ltd|government.frameworks@uk.fujitsu.com|NONE_OTHER||No|No][Insight Direct UK Ltd|pstenderteam@insight.com|NONE_OTHER||No|No][Phoenix Software Ltd|ccs@phoenixs.co.uk|NONE_OTHER||No|No][Probrand Ltd|technologyproducts@probrand.co.uk|NONE_OTHER||No|No][Q Associates Ltd|rm3733@qassociates.co.uk|NONE_OTHER||No|No][Softcat plc|psitq@softcat.com|NONE_OTHER||No|No][Software Box Ltd|tenders@softbox.co.uk|NONE_OTHER||No|No][Specialist Computer Centres PLC|frameworksales@scc.com|NONE_OTHER||No|No][Trustmarque Solutions Ltd|tenders@trustmarque.com|NONE_OTHER||No|No][XMA Ltd|bidteam@xma.co.uk|NONE_OTHER||No|No]",,10/03/2020,09/03/2023,"CallOffFromFrameworkAgreement ",
+tender_195106/840471,Contract,"HealthTrust Europe LLP (HTE) acting as agent for the University Hospitals of Coventry and Warwickshire NHS Trust (""UHCW"")",Awarded,2020-03-09T15:40:36Z,"Consultancy and Advisory Services 2019","This will be an award notice for the Renewal of Consultancy and Advisory 2017 Framework Agreement. Lot 6 - ICT and Digital Consultancy Solutions and Advisory Services, to include  optimising ICT hardware and software as well as all advisory services on digital deployment. Under this Lot the Supplier will work with the Participating Authority to identify where they can better employ technology and digital solutions to improve service delivery and maximise productivity, support improvements and create efficiencies in the Services of the Participating Authority. It may also include the ability to provide data analytics. TERMS AND CONDITIONS/ACTIVITY BASED INCOME (ABI) The terms and conditions of this framework agreement and any resulting call-off contract is appended to the ITT. These terms include provisions requiring the payment by the supplier of an ABI management charge in consideration of the award of this framework agreement, The management and administration by HTE of the overall contract structure and associated documentation, as well as the requirement to submit regular Management information to HTE.",,,"Any region","72000000 ",,Louise.Daly@htepg.com,"Healthtrust Europe",,Birmingham,"B15 1NU",England,,,,,,03/02/2020,02/02/2023,22/07/2019,NO,,No,No,No,Services,25000000,,03/02/2020,25000000,"[Acuity Business Solutions Ltd|29 Basepoint Business Centre Yeoford Way Marsh Barton Exeter Devon EX2 8LB|NONE_OTHER||No|No][Atos IT Services UK Limited|4 Triton Square Regent's Place London Greater London NW1 3HG|NONE_OTHER||No|No][Channel 3 Consulting Limited|21 Queen Elizabeth Street London  SE1 2PD|NONE_OTHER||No|No][Cloud21 Limited|Suite 14 Building  40 Churchill Square Business Centre Kings Hill West Malling ME19 4YU|NONE_OTHER||No|No][Deloitte LLP|Hill House 1 Little New Street London EC4A 3TR|NONE_OTHER||No|No][Fujitsu Services Limited|22 Baker Street London W1U 3BW|NONE_OTHER||No|No][FutureGov. Limited|Runway East (2nd Floor)  20 St Thomas Street London Greater London SE1 9RS|NONE_OTHER||No|No][Gartner UK Limited|Tamesis The Glanty Egham Surrey TW20 9AH|NONE_OTHER||No|No][GE Healthcare Finnamore Ltd|Pollards Wood Chalfont St Giles Buckinghamshire HP8 4SP|NONE_OTHER||No|No][KPMG LLP|15 Canada Square London E14 5GL|NONE_OTHER||No|No][Mason Advisory Limited|5th Floor White Tower MediaCityUK Salford Greater Manchester M50 2NT|NONE_OTHER||No|No][McKinsey & Company, Inc. United Kingdom|No.1 Jermyn Street London SW1Y 4UH|NONE_OTHER||No|No][Moorhouse Consulting Limited|20 St Andrew Street London EC4A 3AG|NONE_OTHER||No|No][North of England Commissioning Support (NECS)|John Snow House   Durham   DH1 3YG|NONE_OTHER||No|No][PA Consulting Services Limited|123 Buckingham Palace Road London SW1 9SR|NONE_OTHER||No|No][Phoenix Software Ltd|Bytes House Randalls Way Leatherhead KT22 7TW|NONE_OTHER||No|No][Private Public Ltd 23|Jacob Street London SE1 2BG|NONE_OTHER||No|No][Prederi Limited|12 Melcombe Place London Greater London NW1 6JJ|NONE_OTHER||No|No][PricewaterhouseCoopers LLP|1 Embankment Place London WC2N 6RH|NONE_OTHER||No|No][Retearn Group Limited|4 Clews Road Redditch Worcestershire B98 7ST|NONE_OTHER||No|No][RSM UK Tax and Accounting Limited|3 Hollinswood Court Stafford Park 1 Telford Shropshire TF3 3DE|NONE_OTHER||No|No][Software Box Limited|East Moor House Green Park Business Centre Goose Lane Sutton on the Forest York YO61 1ET|NONE_OTHER||No|No][The Boston Consulting Group UK LLP|20 Manchester Square   London   W1U 3PZ|NONE_OTHER||No|No][Unipart Limited   Unipart Expert Practices|Unipart House    Garsington Road   Cowley   OX4 2PG|NONE_OTHER||No|No]",,03/02/2020,02/02/2023,"RestrictedOJEU ",
+tender_164005/864438,Contract,"MHRA Buyer Organisation",Awarded,2020-06-23T16:04:13Z,"March/April Renewals 2020","The MHRA has combined all software renewal requirements for March and April 2020. The agency is looking to award a single contract for requirements as follows however reserves the right to award for individual software renewals should any supplier not be able to meet all listed requirements:
+
+ McAfee 
+ SANSynphony
+ Barracuda
+ NetBack Up
+ AutoCAD
+ FileMaker
+ VMWare
+ DomainTools",,"E14 4PU",London,"72222300 ",,purchasing@nibsc.org,"10 South Colonnade",,London,"E14 4PU",England,,,,,,18/03/2020,21/08/2021,28/02/2020,NO,,Yes,No,No,Products,156000,,13/03/2020,156000,"[Insight Networking Solutions / trading as Insight Direct UK Limi|The Atrium 1 Harefield Road Uxbridge UB8 1PH|NONE_OTHER||No|No][TRUSTMARQUE SOLUTIONS Ltd|The National Agri-Food Innovation Campus, Sand Hutton|COMPANIES_HOUSE|02183240|No|No][PHOENIX SOFTWARE Ltd|Blenheim House, York, YO42 1NS|COMPANIES_HOUSE|2548628|No|No]",,18/03/2020,21/08/2021,"CallOffFromFrameworkAgreement ",
+YPO001-DN403700-85123957,Contract,YPO,Awarded,2020-07-28T00:00:00Z,"YPO - 000976 Network Connectivity and Telecommunication Solutions","YPO are looking for Providers to be appointed onto a Framework Agreement for the provision of network connectivity and telecommunication products and solutions. The Framework is designed to meet the needs of all public sector organisations which includes YPO's internal requirements, by establishing an agreement where the end customer will place orders directly with the Provider on a ""contract"" basis and the Provider will deliver direct to the end customer on an agreed basis.",,,"Any region","64200000 ","Contracts Team",Contracts@ypo.co.uk,"41 Industrial Park",,Wakefield,"WF2 0XE","United Kingdom","+44 01924664685",http://www.ypo.co.uk/,,,"https://procontract.due-north.com
+",15/09/2020,14/09/2024,12/08/2020,NO,,Yes,Yes,No,Services,750000000,750000000,18/09/2020,750000000,"[Durham County Council|IT DEPT, County Hall, 
+Durham, County Durham, DH1 5UL|NONE||No|No][Onwave UK Ltd|4 Abbey Wood Road, Kings Hill, West Malling, Kent, ME19 4AB|NONE||Yes|No][Chess ICT|Bridgford House, Heyes Lane, Alderley Edge, Cheshire, SK9 7JP|NONE||No|No][Vaioni Group Ltd|6th Floor, Tomorrow, MediaCity UK,
+Salford, M50 2AB|NONE||Yes|No][The Networking People (TNP) Ltd T/S TNP|Network House, Caton Road,
+Lancaster, LA1 3PE|NONE||Yes|No][Capita IT Services Limited|Pavilion Building, Ellismuir Way,
+Tannochside Park, Uddingston, Glasgow, G71 5PW|NONE||No|No][Gamma Network Solutions Limited|5 Fleet Place, London, EC4M 7RD|NONE||No|No][Metronet (UK) Ltd T/A M247 Ltd|Turing House, Archway 5,
+Manchester, M15 5RL|NONE||Yes|No][Telefonica UK Ltd T/A O2|260 Bath Rd, Slough, SL1 4DX|NONE||No|No][Six Degrees Technology Group Ltd|Commodity Quay, St Katharine Docks,
+London, E1W 1AZ|NONE||No|No][Daisy Corporate Services Trading Limited|Lindred House, 20 Lindred Road, Brierfield, Nelson, BB9 5SR|NONE||No|No][Talk Straight Ltd|Unit 2-4, Backstone Business Park,
+Dansk Way, Ilkley, LS29 8JZ|NONE||Yes|No][Nynet Ltd|80 High Street, Starbeck, Harrogate, HG2 7LW|NONE||Yes|No][Cancom Managed Services Ltd|Concourse Building 3, Queens Road, Belfast, BT3 9DT|NONE||No|No][NTT United Kingdom Limited|NTT House, Building 2, Waterfront Business Park,
+Fleet Road, Hampshire, GU51 3QT|NONE||No|No][CCS Media Limited|Cumberland Court, 80 Mount Street, Nottingham, NG1 6HH|NONE||No|No][Convergence (Group Networks) Ltd|One Cranmore Cranmore Drive,
+Shirley, Solihull, West Midlands, B90 4RZ|NONE||Yes|No][Insight Direct (UK) Ltd|Technology Building, Insight Campus, Terry Street, Sheffield, S9 2BU|NONE||No|No][ITS Technology Group Ltd|Elm House Farm, Saighton, Chester, CH3 6EN|NONE||Yes|No][The AdEPT Technology Group|One Fleet Place, London, EC4M 7WS|NONE||Yes|No][4Net Technologies Ltd T/A Four Net|3 Scholar Green Road, Cobra Court, Stretford,
+Manchester, M32 0TR|NONE||Yes|No][Abzorb Group Ltd|Armytage Road, Brighouse, West Yorkshire, HD6 1QF|NONE||Yes|No][Mobile Accounts Solutions (Holdings) Ltd T/A Croft Communication|Ground Floor, Unit E1 The Chase,
+John Tate Road, Hertfordshire, SG13 7NN|NONE||Yes|No][CAE Technology Services Ltd|CAE House, Colonial Way, Watford, Hertfordshire, WD24 4PT|NONE||No|No][TalkTalk Business Direct Ltd|Soapworks, Ordsall Lane,
+Salford, M5 3TT|NONE||No|No][Specialist Computer Centres Plc T/A SCC Plc|James House, Warwick Road,
+Birmingham, B11 2LE|NONE||No|No][Aberla Utilities Ltd|4b Olympic Park, Olympic Way, Birchwood, WA2 0YL|NONE||Yes|No][Pinacl Solutions UK Limited|Pinacl House, Carlton Court, St Asaph Business Park,
+St Asaph, Denbighshire, LL17 0JG|NONE||Yes|No][CGI IT UK Limited|14th Floor, 20 Fenchurch Street, London, EC3M 3BY|NONE||No|No][Thales UK Ltd|350 Longwater Avenue, Green Park,
+Reading, RG2 6GF|NONE||No|No][SENSEi Networks Limited|Lynton House, 7-12 Tavistock Square,
+London, WC1H 9BQ|NONE||Yes|No][Holophane Europe Ltd.|Bond Avenue, Milton Keynes, MK1 1JG|NONE||Yes|No][Phoenix Software Ltd|Bytes House, Randalls Way,
+Leatherhead, LT22 7TW|NONE||Yes|No][MRT Technologies Ltd T/A Comms Consult|67 Chorley Old Road, Bolton,
+Lancashire, BL1 3AJ|NONE||Yes|No][8x8 UK Ltd|Oxford House, Bell Business Park,
+Aylesbury, Buckinghamshire, HP19 8JR|NONE||No|No][Intuity Communications Limited|Unit 2 Devonshire Business Centre, Works Road,
+Letchworth, Hertfordshire, SG6 1GJ|NONE||Yes|No][EXA Networks Ltd|100 Bolton Road, Bradford, BD1 4DE|NONE||Yes|No][Pentesec Limited|1 Bond Street, Colne, Lancashire, BB8 9DG|NONE||Yes|No]","Victoria Murray",01/10/2020,30/09/2024,"Open ",,00:00
+YPO001-DN387210-63601854,Contract,YPO,Awarded,2019-08-14T17:12:24Z,"YPO - 000944 Data Centres, maintenance and management including design and hosting","YPO are looking for Providers to be appointed onto a Framework Agreement for the provision of Data centres, Maintenance, Security and Cloud Hosting services. The Framework is designed to meet the needs of all public sector organisations which includes YPO's internal requirements.",,,"Any region","72000000 ","Contracts Team",contracts@ypo.co.uk,"41 Industrial Park",,Wakefield,"WF2 0XE","United Kingdom","+44 1924664685",https://procontract.due-north.com,,,,01/08/2019,31/07/2023,28/06/2019,NO,,Yes,Yes,No,Services,50000000,400000000,26/07/2019,400000000,"[2bm Limited|33 Eldon Business Park,  Eldon Road, Chilwell,  Nottingham,  NG9 6DZ|NONE||Yes|No][Amazon Web Services EMEA SARL|60 Holborn Viaduct,  Holborn,  EC1A 2FD|NONE||No|No][CloudCoCo Limited|Leeds East Airport, Church Fenton, Leeds,  LS24 9SE|NONE||Yes|No][CGI IT UK Limited|Office 109/114, First Floor, Herald Way, Pegasus Business Park, Castle Donnington, DE74 2TZ|NONE||No|No][Daisy Corporate Services Trading Limited|4th Floor, 240 Blackfriars House, London,  SE1 8NW|NONE||No|No][EHJ & SJ Consultancy Ltd|The Chalgrove Suite,  Market House, Market Square,  Aylesbury,  HP20 1TN|NONE||Yes|No][Insight Direct (UK) Ltd|5th Floor Metro Building,  33 Trafford Road, Salford Quays,  Manchester,  M5 3NN|NONE||No|No][KCOM Group Plc|2nd Floor 26 Finsbury Square LONDON EC2A 1DS|NONE||No|No][Keysource|3 City Place,  Beehive Ring Rd,  Gatwick,  RH6 0PA|NONE||Yes|No][Konica Minolta Business Solutions (UK) Ltd|KONICA HOUSE MILES GRAY ROAD BASILDON ESSEX  SS14 3AR|NONE||No|No][Powercube Ltd (Mavin Capital Ltd)|RedPoll Barn,  Wootton park Business Centre, Alcester Road,  Wootton Wawen  B95 6HJ|NONE||Yes|No][Nigsun Limited|4 Modular Business Park,  Norton Rd,  SG1 2BB|NONE||Yes|No][Park Place Technologies|Topaz Business Park, Birmingham Road,  Bromsgrove,  West Midlands,  B61 0GD|NONE||Yes|No][Phoenix Software Ltd|Blenheim House, York Road,  Pocklington,  York,  YO42 1NS|NONE||Yes|No][Razorblue Ltd|Razorblue House,  12 Bailey Court, Colburn Business Park,  Catterick, North Yorks, DL9 4QL|NONE||Yes|No][Redcentric Solutions Ltd|Central House, Beckwith Knowle,  Harrogate,  HG3 1UG|NONE||No|No][Secure I.T. Environments Ltd|9 Shortmead Street,  Biggleswade Beds  SG18 0AT|NONE||Yes|No][Shaping Cloud Ltd|Unit 2.1 Waulk Mill,  51 Bengal Street,  Manchester,  M4 6LN|NONE||Yes|No][Six Degrees Technology Group Ltd|Commodity Quay,  St Katharine Dock,  E1W 1AZ|NONE||No|No][Specialist Computer Centres|James House, Warwick Road,  Birmingham, B11 2LE|NONE||No|No][Sudlows Ltd|Ducie Works, 107 Hulme Hall Lane,  Manchester,  M40 8HH|NONE||Yes|No][Sungard Availability Services Limited|SunGard Court,  4 - 5 Paris Garden,  London,  SE1 8ND|NONE||No|No][The Pure Technology Group|The Mill, Springfield Commercial Centre,  Leeds,  LS28 5LY|NONE||Yes|No][T-Systems|6th Floor,  20 Rathbone Place, Fitzrovia,  London,  W1T 1HY|NONE||No|No][UKCloud Ltd|A8 Cody Technology Park,  Ively Road,  Farnborough,  GU14 0LX|NONE||Yes|No][VenomIT|Technology House,  59 Washway Rd, Sale,  M33 7AB|NONE||Yes|No][Workspace Technology Ltd|Unit 10 Reddicap  Trading Estate Sutton Coldfield B75 7BU|NONE||Yes|No][XQ Digital Resilience Ltd|17 Miller Court,  Tewkesbury,  GL20 8DN|NONE||Yes|No][Zsah Ltd|Suite 7/8,  Imperial Studios, Imperial Road,  London  SW6 2AG|NONE||Yes|Yes]",,06/08/2019,05/08/2023,"Open ",
+e2446a9a-b8eb-4b80-b8b3-de2679b7bab9,Contract,"Macclesfield College",Awarded,2020-07-06T10:50:07Z,"CA7280 - CPC06: Desktop Hardware","For the Provision of Desktop Hardware and/or Portable Devices for a new Digital Skills Hub for Macclesfield College.\
+\
+\
+Includes Lots: \
+Lot 1: Desktop Solutions\
+Lot 2: Portable Devices\
+\
+To access this competition: \
+\
+Registered:\
+Login to https://suppliers.multiquote.com and view the opportunity CA7280.\
+\
+Not registered:\
+Visit https://suppliers.multiquote.com then register and quote CA7280 as the reason for registration. \
+\
+ Any queries please contact MultiQuote on 0151 482 9230.",,"SK11 8LF","Any region","30200000 ","David Few",support@multiquote.com,"Park Lane",,Macclesfield,"SK11 8LF",England,"0151 482 9230",https://suppliers.multiquote.com,,,,29/06/2020,31/08/2020,29/06/2020,NO,,Yes,No,No,Services,0,,06/07/2020,40679,"[Stone Computers|Granite One Hundred, Acton Gate, Stafford, ST18 9AA|NONE||No|No][Phoenix Software Ltd|Blenheim House, York Road, Pocklington, YO42 1NS|NONE||No|No]","Kath Robinson",29/06/2020,31/08/2020,"Open ",
+DDaT20275,Contract,"UK SHARED BUSINESS SERVICES LIMITED",Awarded,2020-09-16T13:16:53Z,"UKRI Microsoft Licences","This requirement was sourced via direct award method against KCS Software Products & Associated Services framework Lot 1 (Reference: Y17038) and awarded to Phoenix Software Ltd.",,"SN2 1PL",,"48218000 ",,DdatProcurement@uksbs.co.uk,"Polaris House",,SWINDON,SN21FF,England,,,,,,01/09/2020,31/12/2020,23/08/2020,NO,,No,No,No,Products,16972.8,,24/08/2020,16972.8,"[PHOENIX SOFTWARE LIMITED|Blenheim House,York Road, Pocklington
+YORK
+North Yorkshire
+YO42 1NS
+GB|COMPANIES_HOUSE|02548628|No|No]","Phoenix Software",01/09/2020,31/12/2020,"CallOffFromFrameworkAgreement ",,00:00
+DDAT20065,Contract,"UK SHARED BUSINESS SERVICES LIMITED",Awarded,2020-03-06T11:11:56Z,"Microsoft Licences","This requirement is for the supply of EES Microsoft Licences.
+
+This requirement was sourced via direct award method against KCS Software Products & Associated Services framework Lot 1 (Reference: Y17038) and awarded to Phoenix Software Ltd.",,"SN2 1PL",,"48218000 ",,DdatProcurement@uksbs.co.uk,"Polaris House","North Star House",SWINDON,"SN2 1FL",England,,,,,,01/03/2020,31/12/2020,29/02/2020,NO,,No,No,No,NotApplicable,26950,,01/03/2020,26950,"[PHOENIX SOFTWARE LIMITED|Blenheim House,York Road, Pocklington
+YORK
+North Yorkshire
+YO42 1NS
+GB|COMPANIES_HOUSE|02548628|No|No]","Phoenix Software",01/03/2020,31/12/2020,"CallOffFromFrameworkAgreement ",
+DDaT20144,Contract,"UK SHARED BUSINESS SERVICES LIMITED",Awarded,2020-06-17T14:57:02Z,"Microsoft EES renewal","This contract is for the purchase of Microsoft EES renewal from Phoenix Software Ltd from June 2020 to December 2020 for EPSRC. The sourcing of this requirement was undertaken using an existing framework agreement.",,"NG12 5GG",,"48000000 ",,ddatprocurement@uksbs.co.uk,"Polaris House",,SWINDON,SN21FL,England,,,,,,01/05/2020,31/12/2020,30/04/2020,NO,,Yes,No,No,Services,97371.2,,30/04/2020,97371.2,"[Phoenix Software Limited|Bytes House, Randalls Way, Leatherhead, Surrey, United Kingdom, KT22 7TW|NONE_OTHER||No|No]",,01/05/2020,31/12/2020,"CallOffFromFrameworkAgreement ",
+854,Contract,"SOUTH CENTRAL AND WEST COMMISSIONING SUPPORT UNIT",Awarded,2020-04-22T14:26:58Z,"VMware License Renewal to NHS South, Central and West CSU","NHS South, Central and West Commissioning Support Unit (SCW) have awarded a contract for VMware License Renewal to Phoenix Software Ltd, via Contracts Finder",,,"South East","48218000 ","Louise Amos",scwcsu.justaskprocurement@nhs.net,"Albert House","Queen Victoria Road","High Wycombe","HP11 1AG",England,,,,,,26/03/2020,31/08/2021,17/03/2020,NO,,Yes,No,No,Products,151683.81,,26/03/2020,151683.81,"[PHOENIX SOFTWARE LIMITED|Blenheim House,York Road, Pocklington
+YORK
+North Yorkshire
+YO42 1NS
+GB|COMPANIES_HOUSE|02548628|Yes|No]","Phoenix Software",26/03/2020,31/08/2021,"CompetitiveQuotationNonOJEU ",
