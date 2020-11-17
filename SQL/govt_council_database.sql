@@ -79,6 +79,18 @@ CREATE TABLE IF NOT EXISTS `rochdale_borough` (
 
 -- Data exporting was unselected.
 
+-- Dumping structure for table council_pos.rochdale_borough_records
+CREATE TABLE IF NOT EXISTS `rochdale_borough_records` (
+  `supplier_name` varchar(50) NOT NULL,
+  `account_name` varchar(50) NOT NULL,
+  `service` varchar(50) NOT NULL,
+  `total_value` float NOT NULL,
+  `privilege` varchar(20) NOT NULL,
+  `trade_cat` varchar(20) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+
+-- Data exporting was unselected.
+
 -- Dumping structure for table council_pos.stockport_metropolitan_borough
 CREATE TABLE IF NOT EXISTS `stockport_metropolitan_borough` (
   `document_date` date NOT NULL,
@@ -95,6 +107,19 @@ CREATE TABLE IF NOT EXISTS `stockport_metropolitan_borough` (
   KEY `supplier_name` (`supplier_name`),
   KEY `service` (`service`),
   KEY `idx_po` (`document_date`,`po_number`,`supplier_name`,`service`,`line_number`,`po_value`) USING BTREE
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+
+-- Data exporting was unselected.
+
+-- Dumping structure for table council_pos.stockport_metropolitan_borough_records
+CREATE TABLE IF NOT EXISTS `stockport_metropolitan_borough_records` (
+  `supplier_name` varchar(50) NOT NULL,
+  `pro_class_description` varchar(255) NOT NULL,
+  `service` varchar(40) CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci NOT NULL,
+  `expense_area` varchar(40) CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci NOT NULL,
+  `po_value` float NOT NULL DEFAULT '0',
+  `privilege` varchar(20) NOT NULL,
+  `trade_cat` varchar(20) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
 
 -- Data exporting was unselected.
