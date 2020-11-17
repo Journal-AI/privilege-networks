@@ -1,35 +1,39 @@
-CONTEXTUALLY SELF ORGANISING MAPS
----------------------------------
+PRODUCT SCORECARD FOR BUYING ITEMS FROM PRIVILEGE NETWORKS
+----------------------------------------------------------
 
-Driving Risks are observed in every day life. Driving has been **hazardous** due to the incidents that could happen to us while making a small mistake. Driving is a matter where **risk awareness** prevails, due to which business continuity and risk management must be touched. 
+## What are Privilege Networks?
 
-Driving is a fact under general tasks where **risk adherence** is part of performing well at driving. 
+Privilege Networks consist of Products, Equipments, Material, Plant, Sites, Buildings, Shopping Items, Cards, Books, Accounts, etc.
 
-In the light of several exercises regarding complexity management or complexity science, a Netlogo simulation has been performed which explains the nature of driving mistakes seen.
+## Source of Training Data
 
-Conceptual Data Model
----------------------
+[Rochdale Borough Purchase Order Transactions](https://data.gov.uk/dataset/40c1b9d0-999c-46b2-bc9a-7c4a91a074e1/purchase-order-transactions)
 
-|	  | Observation |	Assimilation | Inference	| Frames per second |
-|-----|-------|--------|--------|------|
-| Objects	|		|	   |    |       |
-| Texts		|		|	   |    |		|	
-| Number Plates	|		|	   |    |	  |
-| Journey		|		|	   |    |		|	
-| Landmarks	|		|	   |    |       |
+[Pendle Borough Purchase Order Transactions](https://data.gov.uk/dataset/8102e12f-7988-4ab3-9c06-adb8c3b24e1f/pendle-council-spending)
 
-The rows data are the scenes that the driver may be into
+[Stockport Metropolitan Purchase Order Transactions](https://data.gov.uk/dataset/7aba411f-4d53-4a2c-9043-054e22392e98/purchase-orders-over-5000)
 
-The columns data are the scenes that the driver learns from various risks and non-risks
+[ContractsFinder](https://www.contractsfinder.service.gov.uk/Search/Results)
 
-There is a third dimension which are about:
-- Risk Hazard
-- Risk Awareness
-- Risk Adherence
+### The Transaction Data
+
+[Purchase Order Data from gov.uk](https://github.com/Journal-AI/privilege-networks/tree/privilege_networks/dataset/po-data)
+
+### The Master Data
+
+[Master Data from ContractsFinder](https://github.com/Journal-AI/privilege-networks/tree/privilege_networks/dataset/notices_full/master-data)
+
+### The Reference Data
+
+[Extracts that contain Estalished Golden Records with Trade Category](https://github.com/Journal-AI/privilege-networks/tree/privilege_networks/dataset/extracts)
+
+[Reference Data of Service Category Information](https://github.com/Journal-AI/privilege-networks/tree/privilege_networks/dataset/suppliers)
 
 ## A Swipe card
 
-![https://github.com/Journal-AI/privilege-networks/raw/privilege_networks/ICONS/dashcam-swipe.png](https://github.com/Journal-AI/privilege-networks/raw/privilege_networks/ICONS/dashcam-swipe.png)
+![./ICONS/product-swipe.png](./ICONS/product-swipe.png)
+
+A Swipe card that stores points scored from Perceived Stress Questionnaires (PSQs) obtained by a data steward is used for purchasing items. In purchasing an item, the score is determined by a FIT (Feature Importance) Table obtained from the Privilege Networks Purchase Order Transaction Data.
 
 ## Perceived Stress Questionnaire (PSQ)
 
@@ -40,18 +44,15 @@ There is a third dimension which are about:
 | Event 3 |               |         |     |       |
 | Event 4 |               |         |     |       |
 
-# More Details
+## More Details
 
 [Welcome-to-Wiki-Page](https://github.com/Journal-AI/contextually-organising-maps/wiki/Welcome-to-Wiki-Page)
 
-# SQL-Data Mapping
+## SQL-Data Mapping
 
-## ROCHDALE BOROUGH COUNCIL
+##### ROCHDALE | STOCKPORT METROPOLITAN | PENDLE BOROUGH COUNCIL
 
-### The SQL schema file 
+##### The SQL schema file 
 
 [https://raw.githubusercontent.com/Journal-AI/privilege-networks/privilege_networks/SQL/govt_council_database.sql](https://raw.githubusercontent.com/Journal-AI/privilege-networks/privilege_networks/SQL/govt_council_database.sql)
 
-### Maps to the Purchase Order Data obtained from the Council
-
-[https://github.com/Journal-AI/privilege-networks/tree/privilege_networks/dataset/po-data](https://github.com/Journal-AI/privilege-networks/tree/privilege_networks/dataset/po-data)
