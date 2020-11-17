@@ -58,7 +58,11 @@ CREATE TABLE IF NOT EXISTS `pendle_borough_records` (
   `department` varchar(255) NOT NULL DEFAULT '0',
   `service_description` varchar(255) NOT NULL DEFAULT '0',
   `privilege` varchar(255) NOT NULL DEFAULT '0',
-  `trade_cat` varchar(50) NOT NULL DEFAULT '0'
+  `trade_cat` varchar(50) NOT NULL DEFAULT '0',
+  KEY `supplier_name` (`supplier_name`),
+  KEY `service_description` (`service_description`),
+  KEY `privilege` (`privilege`),
+  KEY `value` (`value`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
 
 -- Data exporting was unselected.
@@ -86,7 +90,19 @@ CREATE TABLE IF NOT EXISTS `rochdale_borough_records` (
   `service` varchar(50) NOT NULL,
   `total_value` float NOT NULL,
   `privilege` varchar(20) NOT NULL,
-  `trade_cat` varchar(20) NOT NULL
+  `trade_cat` varchar(20) NOT NULL,
+  KEY `supplier_name` (`supplier_name`),
+  KEY `service` (`service`),
+  KEY `total_value` (`total_value`),
+  KEY `privilege` (`privilege`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+
+-- Data exporting was unselected.
+
+-- Dumping structure for table council_pos.service_categories
+CREATE TABLE IF NOT EXISTS `service_categories` (
+  `service_description` varchar(200) NOT NULL,
+  `service_category` varchar(20) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
 
 -- Data exporting was unselected.
@@ -119,7 +135,11 @@ CREATE TABLE IF NOT EXISTS `stockport_metropolitan_borough_records` (
   `expense_area` varchar(40) CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci NOT NULL,
   `po_value` float NOT NULL DEFAULT '0',
   `privilege` varchar(20) NOT NULL,
-  `trade_cat` varchar(20) NOT NULL
+  `trade_cat` varchar(20) NOT NULL,
+  KEY `supplier_name` (`supplier_name`),
+  KEY `pro_class_description` (`pro_class_description`),
+  KEY `po_value` (`po_value`),
+  KEY `privilege` (`privilege`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
 
 -- Data exporting was unselected.
