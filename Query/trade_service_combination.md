@@ -30,3 +30,21 @@ INNER JOIN service_categories ON service_categories.service_description = pb.ser
 
 ```
 
+## UNION QUERIES
+
+```sql
+
+SELECT smb.supplier_name, smb.privilege, service_categories.service_category, smb.po_value
+FROM stockport_metropolitan_borough_records AS smb
+INNER JOIN service_categories ON service_categories.service_description = smb.pro_class_description
+UNION
+SELECT rb.supplier_name, rb.privilege, service_categories.service_category, rb.total_value AS po_value
+FROM rochdale_borough_records AS rb
+INNER JOIN service_categories ON service_categories.service_description = rb.service
+UNION
+SELECT pb.supplier_name, pb.privilege, service_categories.service_category, pb.value AS po_value
+FROM pendle_borough_records AS pb
+INNER JOIN service_categories ON service_categories.service_description = pb.service_description
+
+```
+
