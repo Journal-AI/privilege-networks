@@ -5,9 +5,12 @@ RUN mkdir /home/project
 WORKDIR /home/project
 RUN curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
 RUN python3 get-pip.py
-RUN pip3 install cvxpy imageio numpy scipy scikit-learn matplotlib pandas or_tools
+RUN pip3 install cvxpy imageio numpy scipy scikit-learn matplotlib pandas ortools
 RUN pip3 install jupyter
 RUN pip3 install seaborn
+RUN apt-get install git -y
+RUN git config --global user.email "aswinkvj@gmail.com"
+RUN git config --global user.name "Aswin Vijayakumar"
 
 WORKDIR /home/project
 
