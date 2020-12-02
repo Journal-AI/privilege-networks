@@ -11,6 +11,7 @@ RUN pip3 install seaborn
 RUN apt-get install git -y
 RUN git config --global user.email "aswinkvj@gmail.com"
 RUN git config --global user.name "Aswin Vijayakumar"
+RUN pip3 install pydotplus IPython shap
 
 WORKDIR /home/project
 
