@@ -12,6 +12,7 @@ RUN apt-get install git -y
 RUN git config --global user.email "aswinkvj@gmail.com"
 RUN git config --global user.name "Aswin Vijayakumar"
 RUN pip3 install pydotplus IPython shap
+RUN pip3 install statsmodels
 
 WORKDIR /home/project
 
