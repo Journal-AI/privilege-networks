@@ -1,6 +1,7 @@
 import cvxpy as cvx
 import numpy as np
 
+# Python Object Class which is converted to C++ code by Reflection
 class Objective:
 
     def __init__(self, input_data=None, output_data=None):
