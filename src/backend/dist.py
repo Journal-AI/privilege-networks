@@ -1,4 +1,5 @@
 import numpy as np
+from stats import *
 
 # Boxing and Unboxing uses these distributions for analysis
 
@@ -14,7 +15,23 @@ class Test:
         pass
 
     def test(self):
-        pass
+        test, pvalue = self.callback_func(**self.param_dict)
+        if self.mode == 'pvalue':
+            return pvalue
+        elif self.mode == 'test':
+            return test
+
+class ChiTest(Test):
+
+    def __init__(self, data, mode='pvalue'):
+        super(Test).__init__(self)
+        self.data = data
+        self.mode = mode
+        self.callback_func = chi_test
+        self.param_dict = {
+            'normalised': self.data / np.sum(np.square(self.data)),
+            'success_data': self.data
+        }
 
 class LossFunctionComparison:
 
@@ -25,4 +42,3 @@ class LossFunctionComparison:
     def is_superceeded(self, input_test, output_test):
         return input_test.test() < output_test.test()
 
-    

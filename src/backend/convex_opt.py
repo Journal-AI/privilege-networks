@@ -16,7 +16,17 @@ class CCRInputOrientedObjective:
         self.output_var = cvx.matmul(self.s, self.output_data)
         self.input_var = cvx.matmul(self.p, self.input_data)
 
-    def define_constraints(self, dmu_s, dmu_p):
+    def pad_dmus(self, dmu_s, dmu_p):
+        if len(dmu_s.shape) > 1 and len(dum_p.shape) > 1:
+            max_dim = max(dmu_s.shape[1], dmu_p.shape[1])
+            dmu_s = np.concatenate(dmu_s, np.zeros((dmu_s.shape[0],max_dim-dmu_s.shape[1])))
+            dmu_p = np.concatenate(dmu_p, np.zeros((dmu_p.shape[0],max_dim-dmu_p.shape[1])))
+        
+        return dmu_s, dmu_p
+    
+    def define_constraints(self, dmu_s, dmu_p, pad=False):
+        if pad:
+            dmu_s, dmu_p = self.pad_dmus(dmu_s, dmu_p)
         self.constraints = \
         [cvx.matmul(self.s, dmu_s) - cvx.matmul(self.p, dmu_p) <= 0, 
         self.input_var == 1, self.s >= 0, self.p >= 0]
@@ -47,7 +57,17 @@ class CCROutputOrientedObjective:
         self.output_var = cvx.matmul(self.s, self.output_data)
         self.input_var = cvx.matmul(self.p, self.input_data)
 
-    def define_constraints(self, dmu_s, dmu_p):
+    def pad_dmus(self, dmu_s, dmu_p):
+        if len(dmu_s.shape) > 1 and len(dum_p.shape) > 1:
+            max_dim = max(dmu_s.shape[1], dmu_p.shape[1])
+            dmu_s = np.concatenate(dmu_s, np.zeros((dmu_s.shape[0],max_dim-dmu_s.shape[1])))
+            dmu_p = np.concatenate(dmu_p, np.zeros((dmu_p.shape[0],max_dim-dmu_p.shape[1])))
+        
+        return dmu_s, dmu_p
+    
+    def define_constraints(self, dmu_s, dmu_p, pad=False):
+        if pad:
+            dmu_s, dmu_p = self.pad_dmus(dmu_s, dmu_p)
         self.constraints = \
         [cvx.matmul(self.p, dmu_p) - cvx.matmul(self.s, dmu_s) >= 0, 
         self.output_var == 1, self.s >= 0, self.p >= 0]
@@ -62,16 +82,3 @@ class CCROutputOrientedObjective:
         self.problem.solve(
             verbose=verbose, solver=solver, max_iters=max_iters
         )
-
-class SBMOptimisticObjective:
-
-    def __init__(self):
-        pass
-
-    
-class SBMPessimisticObjective:
-
-    def __init__(self):
-        pass
-
-    

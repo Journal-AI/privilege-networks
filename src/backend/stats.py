@@ -4,15 +4,21 @@ import statsmodels.api as sm
 
 # Boxing and Unboxing of distributions using regular F-Test, chisquare-Test and T-Test
 
-def chi_test(value, privilege_data):
-    return statsmodels.stats.proportion.proportions_chisquare(privilege_data, privilege_data.shape[0], value)
+# privilege_data is no. of success data, value is normalised values
 
-def f_test(privilege_data, service_data, formula, hypothesis):
-    results = sm.OLS(formula, privilege_data)
+def chi_test(normalised, success_data):
+    return statsmodels.stats.proportion.proportions_chisquare(
+        success_data, success_data.shape[0], normalised
+    )
+
+# data is privilege data
+
+def f_test(data, formula, hypothesis):
+    results = sm.OLS(formula, data)
     return results.f_test(hypothesis)
 
-def t_test(privilege_data, service_data, formula, hypothesis):
-    results = sm.OLS(formula, privilege_data)
+def t_test(data, formula, hypothesis):
+    results = sm.OLS(formula, data)
     return results.t_test(hypothesis)
 
 # Modulate is used when the boxing and unboxing interface scales the input value and uses a statistical distribution
