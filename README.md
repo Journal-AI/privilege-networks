@@ -126,4 +126,3 @@ A Swipe card that stores points scored from Perceived Stress Questionnaires (PSQ
 ##### The SQL schema file 
 
 [https://raw.githubusercontent.com/Journal-AI/privilege-networks/privilege_networks/SQL/govt_council_database.sql](https://raw.githubusercontent.com/Journal-AI/privilege-networks/privilege_networks/SQL/govt_council_database.sql)
-
