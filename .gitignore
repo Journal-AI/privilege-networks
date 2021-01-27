@@ -1,2 +1,6 @@
 data/
 ICONS/
+flask-desktop/
+src/
+.ipynb_checkpoints/
+blank-test.ipynb

@@ -1,11 +1,11 @@
 version: '3'
 services:
-  ubuntu:
+  backend:
     build: .
-    container_name: ubuntu
+    container_name: backend
     tty: true
     ports:
-      - "8080:8080"
+      - "8082:8082"
     volumes:
       - .:/home/project
     networks:
